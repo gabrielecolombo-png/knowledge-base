@@ -72,7 +72,7 @@ accumula.
   prima di modificare, e integrare (append/merge), non sostituire.
 - Ogni file tema ha questa struttura fissa:
 
-```markdown
+  ```markdown
   # <Nome tema>
 
   ## Sintesi corrente
@@ -86,7 +86,7 @@ accumula.
 
   ## Osservazioni aperte
   - domande o contraddizioni non risolte tra meeting diversi
-```
+  ```
 
 - Quando aggiungi una riga a "Meeting collegati", scrivi cosa di NUOVO ha
   aggiunto quel meeting rispetto a quanto già sapevi — non ripetere la sintesi
@@ -147,3 +147,75 @@ Non fermarti a chiedere conferma durante il lavoro (né nel processing di una
 trascrizione né nella routine notturna) — completa tutto quello che puoi fare
 con ragionevole sicurezza. Alla fine di OGNI sessione che modifica qualcosa
 nel repo, produci sempre un report breve in questo formato:
+
+```
+## Report sessione — yyyy-mm-dd HH:mm
+
+### Fatto
+- (elenco sintetico di minute create, temi creati/aggiornati, pattern loggati,
+  correzioni applicate dalla routine di revisione)
+
+### Da verificare
+- (ogni punto in cui hai dovuto scegliere senza certezza: es. a quale tema
+  attribuire qualcosa, chi ha detto/deciso cosa se non era chiaro dalla
+  trascrizione, se un tema andrebbe fuso con un altro, sintesi di un tema
+  che potrebbe essersi disallineata)
+- se non c'è nulla di dubbio, scrivi esplicitamente "Nessun punto dubbio
+  questa sessione" — non lasciare la sezione vuota senza dirlo
+```
+
+Ogni punto in "Da verificare" deve essere concreto e puntare a un file/riga
+specifica, non generico — Gabriele deve poter controllare in 10 secondi, non
+riaprire tutto il repo per capire a cosa ti riferisci.
+
+Se la routine notturna ha modificato qualcosa fuori dall'ambito standard
+(script, `.claude/commands/`, `CLAUDE.md` stesso), aggiungi sempre una
+sezione separata:
+
+```
+### Modifiche infrastrutturali
+- (cosa hai modificato, perché, e cosa sarebbe successo se non l'avessi
+  corretto)
+```
+
+Questa sezione, se presente, fa scattare l'invio email indipendentemente
+da cosa contengano le altre sezioni (vedi "Invio" sotto) — un problema
+nell'infrastruttura stessa (es. lo script che lancia la routine) è sempre
+degno di nota, anche se i temi sono tutti a posto.
+
+**Invio**: al termine della sessione automatica notturna, invia questo report
+via Gmail (connector già configurato) a Gabriele, oggetto
+`[Knowledge Base] Report notturno yyyy-mm-dd`, SE ALMENO UNA di queste
+condizioni è vera:
+- ci sono state trascrizioni processate nelle ultime 24-48h
+- la routine ha trovato punti da segnalare in "Da verificare"
+- la routine ha fatto modifiche infrastrutturali (vedi sopra)
+
+Se nessuna di queste è vera (nessun meeting nuovo, temi tutti coerenti,
+nessuna modifica fuori dai contenuti), NON inviare email — evita notifiche
+vuote quando non c'è stato nulla di rilevante. Per le sessioni di processing
+trascrizioni lanciate manualmente da Gabriele, il report basta mostrarlo in
+chat/output della sessione, non serve invio email (Gabriele è già presente).
+
+## Cosa NON fare
+
+- Non creare ticket Jira, non scrivere su Confluence, non inviare email da qui:
+  questo repo è solo per la conoscenza, azioni esterne solo se richieste
+  esplicitamente e separatamente.
+- Non inventare collegamenti tra temi solo per "riempire" `patterns/log.md`.
+  Meglio nessuna voce che una forzata.
+- Non modificare `meetings/_raw/` una volta scritto: è l'originale, immutabile.
+- Non eliminare storia da nessun file tema per "fare pulizia": se un tema
+  sembra obsoleto, aggiungi una nota in "Osservazioni aperte", non cancellare.
+
+## Query utili da supportare
+
+Quando Gabriele chiede cose come "che pattern vedi tra i meeting di Danieli e
+Franke sulle ferie?" o "cosa sappiamo su X nel tempo?", usa questo ordine:
+1. Leggi `themes/_index.md` per orientarti.
+2. Leggi il/i file tema pertinenti — hanno già la sintesi e i link.
+3. Solo se serve maggior dettaglio, apri le minute specifiche linkate.
+4. Solo in ultima istanza rileggi i raw.
+
+Non serve rileggere tutto il repo ogni volta: gli indici tema esistono
+apposta per evitarlo.
