@@ -2,6 +2,26 @@
 
 Queste istruzioni valgono per ogni sessione di Claude Code in questo repository.
 
+## Messaggio di apertura sessione
+
+All'avvio di OGNI sessione interattiva in questo repository (non si applica
+alla routine notturna automatica lanciata via script), prima di aspettare
+qualsiasi input dell'utente, presentati con un messaggio breve così
+strutturato:
+
+1. Stato rapido del repository: quanti meeting totali ci sono, quanti temi
+   attivi, data dell'ultimo meeting processato (leggi `meetings/_index.md` e
+   `themes/_index.md` per questi numeri — non serve aprire ogni singolo file).
+2. Le azioni disponibili, in poche righe:
+   - `/process-meeting` per processare una trascrizione nuova
+   - Chiedere direttamente pattern o sintesi su un tema/cliente (vedi
+     "Query utili da supportare" più sotto per come rispondere)
+   - Lanciare la routine di revisione manualmente se serve
+
+Il messaggio deve essere breve (max 8-10 righe), tono diretto, niente
+markdown pesante o liste annidate — è un saluto operativo, non un report.
+Dopo il messaggio, aspetta il comando dell'utente normalmente.
+
 ## Cosa fare quando ricevi una trascrizione nuova
 
 1. **Salva il grezzo**: copia la trascrizione originale (senza modifiche) in
