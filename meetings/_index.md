@@ -6,4 +6,4 @@ dover aprire ogni singolo file.
 
 | Data | Cliente | Titolo | Temi | Link |
 |------|---------|--------|------|------|
-|      |         |        |      |      |
+| 2026-06-05 | Danieli | Assessment Logistica (review interna) | pianificazione-logistica, zucchetti-integrazioni, skill-matrix-competenze, safety-compliance | [meetings/danieli/2026-06-05-assessment-logistica.md](danieli/2026-06-05-assessment-logistica.md) |

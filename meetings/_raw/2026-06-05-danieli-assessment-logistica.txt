@@ -1,0 +1,560 @@
+5 giu 2026
+INTERNAL | DANIELI - Assessment Logistica  - Trascrizione
+00:00:00
+
+Davide Vinelli: Ok. Eh, Gabri, tu sei riuscito a fare poi anche la parte di carpenteria?
+Massimiliano Mazzucato: Eh no, ce l'abbiamo lunedì, mi sembra.
+Davide Vinelli: Ma ci sono anch'io?
+Massimiliano Mazzucato: Eh no,
+Davide Vinelli: No, tanto non parteciperei,
+Massimiliano Mazzucato: sì, esatto. Non ti avevo messo.
+Davide Vinelli: eh. Ah, sì, c'ho solo il placeholder. Vabbè, me lo
+Massimiliano Mazzucato: Ah, io vi avevo messo nel placeholder.
+Davide Vinelli: levo,
+Massimiliano Mazzucato: Sì, Paola non vi ha messo nel meeting, però è lo stesso esatto, è esattamente lì.
+Davide Vinelli: eh? No,
+Massimiliano Mazzucato: Non so se Secondo me Massi sì,
+Davide Vinelli: valuta tu se Massimiliano può esserti d'aiuto.
+Massimiliano Mazzucato: può venire.
+Davide Vinelli: Ok,
+Massimiliano Mazzucato: E vabbè,
+Davide Vinelli: allora buttalo buttalo
+Massimiliano Mazzucato: i colleghi non Sì,
+Davide Vinelli: dentro.
+Massimiliano Mazzucato: sì, va bene, va bene, si collega. Sì,
+Davide Vinelli: Ok. Vogliamo vedere quello sulla logistica. Era quello l'obiettivo del meeting?
+
+
+00:00:54
+
+Massimiliano Mazzucato: c
+Davide Vinelli: Sì,
+Massimiliano Mazzucato: cosa?
+Davide Vinelli: era questo l'obiettivo del meeting, giusto?
+Massimiliano Mazzucato: Sì, sì, sì, esatto. Dere la parte di logistica. Quando sei do Davide ci
+Davide Vinelli: Yes.
+Massimiliano Mazzucato: sta, vedete? Sì. Mh mh. Allora, ho un po' ripreso sia la vecchia presentazione, poi ci sono alcune cose da riguardare un pochino. Vabbè, qui eh allora eh la prima parte è copiata da quello che era il vecchio assessment che è Mazzucchetti. L'unica cosa che cambia è che in questo caso loro fanno il piano ferry su Excel. Per il resto, anche perché altre cose non sono venute fuori, tranne la, diciamo, il il flusso che seguono, che fanno una richiesta a voce, accettano, non accettano e poi fanno una richiesta sui zuppetti che deve essere poi confermata. Per la parte di competenze, appunto, c'è quella skill matrix che ci hanno mostrato che è da 0 a 5. I livelli, diciamo, sono valutati in base a quante righe riescono a gestire giornalmente.
+
+
+00:02:32
+
+Massimiliano Mazzucato: Quindi esempiare livello 5, gestisce 500 righe i primo
+Davide Vinelli: Sì, Massi, leva le attività operative slashdesk.
+Massimiliano Mazzucato: giornali
+Davide Vinelli: Che vuol dire desk?
+Massimiliano Mazzucato: perché loro parlavano di eh cioè che nella mappatura delle competenze ci sono sia le attività operative sia anche quelle legate a eh uffici perché per gli operatori
+Davide Vinelli: Official.
+Massimiliano Mazzucato: anziani,
+Davide Vinelli: Ok.
+Massimiliano Mazzucato: cioè che sono quelli che non possono fare altre cose. Sì.
+Davide Vinelli: Eh, va bene. Vai avanti.
+Massimiliano Mazzucato: Ok. Parte di safety qui. Allora, il punto era eh loro hanno win speed, giusto? per la sorveglianza sanitaria ancora.
+Davide Vinelli: Eh,
+Massimiliano Mazzucato: Sì. Ehm no,
+Davide Vinelli: boh.
+Massimiliano Mazzucato: seti hanno setti.
+Davide Vinelli: M.
+Massimiliano Mazzucato: Civ da loro. Ok, allora probabilmente è cambiato. Cioè perché questo non era venuto fuori nella nell'assessment perché avevamo detto la parte di chartificazioni è sempre che non si chiama Z, si chiama Safety Solution.
+
+
+00:03:59
+
+Davide Vinelli: Sol. Allora, secondo me sta roba cavala proprio, cioè non ha senso di mettere cancella.
+Massimiliano Mazzucato: Secondo me c'è anche
+Davide Vinelli: Non ha n zero valore e anche
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: questo.
+Massimiliano Mazzucato: Parte di pianificazione. E qui io sono partito dal file Excel che ci avevano mostrato. Ho ho tolto la
+Davide Vinelli: Perché non parti dal dimensionamento?
+Massimiliano Mazzucato: cosa?
+Davide Vinelli: Perché non inizi dal dimensionamento?
+Massimiliano Mazzucato: Cioè perché loro effettivamente non fanno il dimensionamento, cioè hanno la squadra standard fissa con i due giolli che giostrano tutte le varie attività. C'è il
+Davide Vinelli: però magari farei un flusso su quello, cioè quello è un punto di miglior il tema secondo me sulla logistica che vale rispetto a alla
+Massimiliano Mazzucato: problema
+Davide Vinelli: produzione è proprio che c'è una fase di dimensionamento sulla base di volumi e produttività che loro non fanno.
+Massimiliano Mazzucato: sì, sì, ma poi l'ho inserita nel 2B. è che in questa fase nellais non c'era un dimensionamento, perché loro non fanno un effettivo
+Davide Vinelli: Eh, esatto. Però io lo sottolineerei come flusso che non c'è,
+
+
+00:05:06
+
+Massimiliano Mazzucato: dimensionamento.
+Davide Vinelli: cioè come mettere è una slide forte di Esis. Tu stai facendo, cioè a cosa ti serve l'esis, massi?
+Massimiliano Mazzucato: A a mostrare le carenze che ci sono, i punti di miglioramento. Sono è una leva per quello che viene
+Davide Vinelli: Esatto.
+Massimiliano Mazzucato: dopo.
+Davide Vinelli: Quindi mettere una slide sul dimensionamento che non fanno per me è una leva,
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: ma che può essere anche una slide stupida, cioè può essere dimensionamento risorse. Eh,
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: si vorrebbe non c'è non avviene un dimensionamento, le risorse sono definite inizio anno tramite, non so come cavolo veniranno definite e rimangono flat sulla base senzaenti. Poi mi ricordo anche che per loro non era un grosso tema, cioè erano più concentrati sulla locazione, dicevano che il dimensionamento più o meno ci azzecca.
+Massimiliano Mazzucato: Sì, perché tanto cioè quello che fanno loro è se non finiamo oggi facciamo domani. Sì, sì, esatto. La nostra cosa è che in realtà un anno quella per essere
+Davide Vinelli: Però se lo presentiamo alla Paola Riva, secondo me una riflessione se la fa.
+
+
+00:06:17
+
+Massimiliano Mazzucato: sì, questo è
+Davide Vinelli: Boh.
+Massimiliano Mazzucato: vero.
+Davide Vinelli: Second buttala una slide, Massi, se riesci su un po' generica sul dimensionamento.
+Massimiliano Mazzucato: Vediamo se l'avevo scritto. No, l'avevo scritto dopo. Vabbè, assenze impreviste la teniamo. in realtà non
+Davide Vinelli: No, aspetta, fammi fammi fammi leggere il flusso di pianificazione.
+Massimiliano Mazzucato: era
+Davide Vinelli: Cosa vuol dire? Che vengono sugli straordinari vengono predisposti alcuni sabati lavorativi con rotazione personale. Quando? Come? Perché?
+Massimiliano Mazzucato: quello che Era cioè anche qua si può
+Davide Vinelli: Ok.
+Massimiliano Mazzucato: eh assumere il fatto che nel senso se sono tanto indietro eh predispongono dei sabati lavorativi a turno per le
+Davide Vinelli: Allora, qua se lo vuoi scrivere in maniera un po' più impattante per il cliente,
+Massimiliano Mazzucato: persone.
+Davide Vinelli: cosa diresti e come lo butteresti giù?
+Massimiliano Mazzucato: Eh, sarebbe da fare un legame con il mancato dimensionamento efficace, provoca ritardi che portano a straordinari il sabato e di conseguenza agli
+
+
+00:07:36
+
+Davide Vinelli: Ma potenzialmente anche senza andare al dimensionamento,
+Massimiliano Mazzucato: straordinari.
+Davide Vinelli: lo fai anche sull'allocazione, cioè potenzialmente gli puoi scrivere una cosa del tipo eh vengono predisposti alcuni sabati lavorativi eh con rotazione del personale, non so cosa voglia dire, sinceramente, cioè non è proprio però eh si utilizzano i saboti lavorativ per coprire eventuali ritardi in termini di risposta dovuti eh spesso in alcuni casi dovuti a allocazione non ottimale o dimensionamento non sufficiente. Eh metti pallino che esplode extra costi legato agli straordinari, cioè un'ora di straordinari ha una maggior azione rispetto a un'ora di lavoro normale. Quindi il fatto che loro per errore di allocazione eh abbia usino di fatto gli straordinari come buffer gli crea degli extra costi. Quindi questo lo sottolineerei un po' meglio.
+Massimiliano Mazzucato: E poi un'altra cosa, secondo me, perché loro il tema il loro tema secondo me che hanno degli ordini urgenti per la riallocazione che non sono ordini
+Davide Vinelli: Приня
+Massimiliano Mazzucato: urgenti in realtà hanno avuto Cioè loro è sistematico che abbiano bisogno di fare questa riallocazione perché è dovuto al fatto ai contratti che hanno con alcuni esatto. Per cui piuttosto che origine urgente mettere proprio ordine di manutenzione che per loro è una cosa di lutino.
+
+
+00:08:57
+
+Massimiliano Mazzucato: Succede sistematico. Loro sanno che sta cosa succede, quindi avere un qualcosa che gli aiuti nella riallocazione là secondo me gli dà un vantaggio.
+Davide Vinelli: Sì, infatti secondo me lo metti lo metti prima giornalmente si vanno a riallocare gioli sulla base di aretrati.
+Massimiliano Mazzucato: M.
+Davide Vinelli: In caso di ordine urgente affetto la rotazione la relocazione degli ordini standard. Eh sì, secondo me lo spacchi in due e metti da un lato i giolli che vengono rialogati giornalmente sulla base degli arretrati e
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: dall'altro ordini urgenti o modifiche al piano dell'ultimo minuto generano m con frequenza giornaliera una necessità di riallocazione che viene fatta mnemonicamente. Cioè, anche qua sottolinea come viene fatta, perché metti le icone, però non spieghi come come viene fatto il processo. Cioè, qua vedi, non non lo scrivi da nessuna parte, ma in realtà quello è l'aspetto critico. È che lo fanno di fatto a mente,
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: eh, e se lo segnano se va bene su un Excel. In caso, Aspetta, torno indietro. No, torna indietro.
+
+
+00:10:05
+
+Davide Vinelli: in caso di eh anche qui eh sempre su base un po' valutazioni soggettive, quindi non c'è una strategicità nel sulla parte di Surplus nella riallocare le persone magari su attività dove ho eh minor polivalenza piuttosto che meno personale formato, ma ci sono delle aree bucket che loro coprono su quando hanno persone in più, perché c'è sempre qualcosa da fare che mi sembra fosse lo smistamento.
+Massimiliano Mazzucato: Sì, in realtà attività proprio
+Davide Vinelli: Poi gli operatori ricevono le attività da svolgere prioritizzate tramite palmario o cartaceo. Eh, cioè loro sul palmare vedono dove devono andare, cosa devono fare.
+Massimiliano Mazzucato: Sì, si vedono le righe, ti
+Davide Vinelli: Eh,
+Massimiliano Mazzucato: ricordi?
+Davide Vinelli: ma dalle righe poi loro deducono cosa devono fare o è perché le righe di solito è una riga con un codice coso con un una chi lo eh cioè c'è qualcuno che indica dove andare, poi probabilmente loro sanno già dove andare e quindi hanno le righe
+Massimiliano Mazzucato: Esatto. Cioè, no, il tema secondo me è che loro sanno già dove andare o comunque gli viene detto, però non è super male,
+Davide Vinelli: Yeah.
+Massimiliano Mazzucato: non è che gli viene detto vai lì. Loro sanno che quel codice corrisponde più o meno a quell'area, poi telechanno detto che sono molto ehm costanti nelle aree dove lavorano.
+
+
+00:11:47
+
+Massimiliano Mazzucato: Cioè Davide di solito è più o meno sempre in quell'area.
+Davide Vinelli: Sì. Ok. Eh, va bene. Mh, vai avanti, Massi. Cioè, su questo secondo me prova a farlo un pochino meglio perché è un po' la chiave. Fammi vedere i punti che avvi messo di miglioramento. Ok.
+Massimiliano Mazzucato: Sì, questo nome Eh, ne sposto uno e metto, cioè, premo di più sul
+Davide Vinelli: Ma magari metti anche il tempo dedicato,
+Massimiliano Mazzucato: dimensionamento.
+Davide Vinelli: il fatto che l'allocazione un ottimale genera extra costi,
+Massimiliano Mazzucato: Mh.
+Davide Vinelli: cioè quando vai sull'impatto vai anche un po' più marcato.
+Massimiliano Mazzucato: M.
+Davide Vinelli: Anzi, improvviso.
+Massimiliano Mazzucato: Questo in realtà m non era un tema che era cioè che era emerso fortemente quello dell'assenza improvviso in realtà, cioè non era una cosa che m No, perché loro, cioè perché in qualche modo eh un po' hanno quel tema che anche se vanno in ritardo recuperano giorno dopo un po' il tema dei giolli.
+Davide Vinelli: Ok,
+Massimiliano Mazzucato: Sì, o semplicemente, cioè non semplicemente, però là il tema era che è che non è un problema a quanto vale per loro che mandano, cioè scalano le attività.
+
+
+00:13:28
+
+Massimiliano Mazzucato: È un po'
+Davide Vinelli: questo mi torna.
+Massimiliano Mazzucato: se reparto già sofferenza operativa richiesta. Ah sì, ok. Sì, è vero che dall'officina possono roba che sì cos del montaggio. Dal montaggio, sì, che come dicevamo qu del montaggio concono tutte le robe, quindi possiamo fare logistica. Esatto. E questa prima parte qua. Allora, sistemo, tolgo la parte che non safety solution
+Davide Vinelli: Sì.
+Massimiliano Mazzucato: e non ci sono software. Adesso tutto zucchetti. Sì, sì, è tutto zucchetti. Non mi ricordo. Loro hanno workflow.
+Davide Vinelli: Sì.
+Massimiliano Mazzucato: Sì. Ok,
+Davide Vinelli: E infatti ci dobbiamo mettere dentro l'app. Ok.
+Massimiliano Mazzucato: giusto.
+Davide Vinelli: Eh, vedi qua metti come esigenze personali che emergono dallis dimensionamento del personale che non scrivi sopra, capito? Eh, cioè proprio logicamente, eh. M non mi piace troppissimo a livello lessicale imprevisti logistici.
+Massimiliano Mazzucato: Eh, ma c devo ancora trovare il termine giusto.
+
+
+00:14:54
+
+Davide Vinelli: reattività logistica, cioè mi un po' bruttino,
+Massimiliano Mazzucato: St.
+Davide Vinelli: cioè che ne so, reattività maggiore agli imprevisti eh last minute o al alla fluttuazione della domanda o del forecast e quindi mancano strumenti a supporto per aumentare la reattività alla complessità della logistica o del non lo so. Mh.
+Massimiliano Mazzucato: Sì, sì,
+Davide Vinelli: Vabbè, sto facendo il r************,
+Massimiliano Mazzucato: ma no,
+Davide Vinelli: però è tutto quello che ti è per un
+Massimiliano Mazzucato: ma è il tradurre è il tradurre con parole non produttive.
+Davide Vinelli: spun
+Massimiliano Mazzucato: era quello
+Davide Vinelli: comunque more or less mi torna. Non so, Gabri se anche perché se avevi se secondo te c'erano Allora,
+Massimiliano Mazzucato: ricchere,
+Davide Vinelli: forse lo metterei come punto uno dimensionamento, ma piuttosto allocazione, perché loro ti parlavano di allocazione, eh, più che dimensionamento.
+Massimiliano Mazzucato: cioè secondo me quello che interessava di più a loro era la parte di
+Davide Vinelli: Sì.
+Massimiliano Mazzucato: competenze, la parte di compliance alla al safety, ok? E poi la parte di eh dimensionamento, secondo me, cioè perché cioè la sensazione che ho avuto io è che il dimensionamento è vero che lo fanno un po' alla buona eccetera, però non sia lì dove hanno da
+
+
+00:16:19
+
+Davide Vinelli: No, no, anche secondo me,
+Massimiliano Mazzucato: guadagnarci.
+Davide Vinelli: per me, però l'allocazione era un tema.
+Massimiliano Mazzucato: Eh sì,
+Davide Vinelli: Ecco, forse se tu lo fai ricadere dentro gli
+Massimiliano Mazzucato: sì.
+Davide Vinelli: imprevisti,
+Massimiliano Mazzucato: Eh sì. Ah, tu dicevi lezione
+Davide Vinelli: perché per me l'allocazione degli imprevisti li vedo come due filoni,
+Massimiliano Mazzucato: imprevisti.
+Davide Vinelli: cioè da un lato alloco A* B, dall'altro è A per A. Eh,
+Massimiliano Mazzucato: Io gli imprevisti non era senza, è proprio la roba che arriva Sì, sì.
+Davide Vinelli: esatto,
+Massimiliano Mazzucato: Arriva all'ordine improvviso, cioè ci hanno detto proprio questa roba. Arriva all'ordine improvviso oppure eh esatto.
+Davide Vinelli: però è comunque per
+Massimiliano Mazzucato: Sì. Ok. No, no,
+Davide Vinelli: ehm quindi sì,
+Massimiliano Mazzucato: ci sta, eh.
+Davide Vinelli: forse proprio caverei il dimensionamento o o lo metti come punto quattro, eh m E come punto uno io metterei gestione
+Massimiliano Mazzucato: Sì.
+Davide Vinelli: frammentata, probabilmente e come punto due reazione imprevisti e poi punto tre la compliance.
+
+
+00:17:19
+
+Massimiliano Mazzucato: Sì. Ok. Vè questo. Vabbè,
+Davide Vinelli: Aspetta,
+Massimiliano Mazzucato: tutto
+Davide Vinelli: è qua. In realtà tu dici che dimensioni
+Massimiliano Mazzucato: aspetta di che slide stai parlando?
+Davide Vinelli: dimensioni e nel 2 bit tu dimensioni prendendo le informazioni dal VMS che è SAP o no?
+Massimiliano Mazzucato: Sì che sarà SAP. Sì. Beh, sì, sì. Prova in due
+Davide Vinelli: Tu già lo consideri SAP, quindi qua tu mi metti SAP per ordini, prelievi,
+Massimiliano Mazzucato: mesi.
+Davide Vinelli: righe di prelievo, missioni, ordini, chiamala come c**** vuoi. E sotto in fondo all'imbuto, oltre a pianificazione competenze assenze, assenze lo cavi perché in realtà lo gestisce Zucca, metti però dimensionamento.
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: sotto, eh, cambia stabilimento con
+Massimiliano Mazzucato: Eh, ma io intendevo,
+Davide Vinelli: magazzino.
+Massimiliano Mazzucato: cioè, in generale c'era tutto le la parte produtti, cioè, cioè lui perché lui dice lo standardizzi non solo all'interno del magazzino, ma anche rispetto alle parti di lavorazioni meccaniche.
+
+
+00:18:36
+
+Davide Vinelli: Va bene.
+Massimiliano Mazzucato: Cioè stabili così come non so come sì del plant della fabbrica, insomma. No, fabbrica no,
+Davide Vinelli: Ok. Ok. Mi piace residenza operativa,
+Massimiliano Mazzucato: per
+Davide Vinelli: eh.
+Massimiliano Mazzucato: armonizzare le necessità produttive.
+Davide Vinelli: Allora, mi torna tutto a parte il tre operativo, cioè creazione di una skill matrix automatica a supporto della pianificazione che come che fai magia nera. Crei la skill matrix automatic.
+Massimiliano Mazzucato: Eh
+Davide Vinelli: Cioè, non lo vedo tanto come un obiettivo la creazione di una eh I primi due sì, cioè riuscire a dimensionare in maniera automatica le risorse traducendo righe de vale. Sì, uno strumento integrato. Sì. Eh, magari mh cioè
+Massimiliano Mazzucato: gestione delle competenze.
+Davide Vinelli: eh sì, oppure Skill Matrix,
+Massimiliano Mazzucato: Matrix.
+Davide Vinelli: digitalizzare la Skill Matrix e rendendo la dinamica ed effettivamente e usufruibile eh in fase di allocazione, di reazione,
+Massimiliano Mazzucato: Ok. Ma vai,
+Davide Vinelli: una roba del cioè secondo me lo puoi Puoi anche
+Massimiliano Mazzucato: vai. No, io un altro punto della
+Davide Vinelli: cavare quasi perché tu stai dicendo un unico strumento integrato e già in realtà comprendi quel macro tema.
+
+
+00:20:05
+
+Massimiliano Mazzucato: Sì, sì, era
+Davide Vinelli: Però forse ci sta a mettere l'accento perché Gabri dice la Steam Matrix per me era il punto cardine,
+Massimiliano Mazzucato: per
+Davide Vinelli: quindi mettiamo un accento.
+Massimiliano Mazzucato: Ehm un'altra domanda sul punto uno dell'operativo. Il dimensionamento automatico delle risorse, nel senso che arriva da SAP. Sì.
+Davide Vinelli: Sì,
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: anche lì tu stai spiegando più la funzionalità più che mettendo un obiettivo, però vabbè. M un po' borderline, però per me ci può stare.
+Massimiliano Mazzucato: Sì, sì, sì.
+Davide Vinelli: Ok.
+Massimiliano Mazzucato: il dimensionamento dell, cioè dimensionamento ottimale dell'organico, come
+Davide Vinelli: supporto nel dimensionare le risorse prendendone informazioni da direttamente dal
+Massimiliano Mazzucato: direcco
+Davide Vinelli: VMS e incrociandole con quelle che sono eh le produttività degli operatori o una cosa del genere,
+Massimiliano Mazzucato: sì, sì. tipo dimensionamento delle risorse tirato dal fabbisogno,
+Davide Vinelli: cioè
+Massimiliano Mazzucato: come c**** si chiama, fabbisogno che io la SAP, tipo una roba del genere. Sì,
+
+
+00:21:11
+
+Davide Vinelli: cioè dipende un po' di essere un po' più coerente nel come e so che lo sbagliamo nella metà
+Massimiliano Mazzucato: sì.
+Davide Vinelli: degli assessò io che sono entrato in modalità rom c****,
+Massimiliano Mazzucato: Ah,
+Davide Vinelli: però eh no,
+Massimiliano Mazzucato: Davide, questi non li guarda mai nessuno,
+Davide Vinelli: lo so, lo so,
+Massimiliano Mazzucato: cioè non
+Davide Vinelli: però ci tengo io che facciamo un lavoro fatto bene in generale, cioè vorrei che alzassimo un po' più l'asticella da un, cioè mettiamoci la testa m anche se sono d'accordo con voi che eh non riguarda
+Massimiliano Mazzucato: Problem.
+Davide Vinelli: mai nessuno, però è avere degli standard, metter metterci la testa noi sui lavori che facciamo e e Danieli, paradossalmente la Paola Riva è una delle poche persone che invece ti dico che me li guarda e si si mette a leggere cosa c'è scritto di tutte le persone che che a cui posso presentarlo.
+Massimiliano Mazzucato: Mh. Da. Sì. Ok, allora poi c'è il 2 lì su quella slide, secondo me sono quei due punti là un po' da Sì, sì. Poi si vedere il primo e l'ultimo degli operativi. Gli altri secondo me è perfetto.
+
+
+00:22:13
+
+Massimiliano Mazzucato: Qua gestione risorse. Questo
+Davide Vinelli: Eh, lascia, lascia, lascia,
+Massimiliano Mazzucato: aspetta.
+Davide Vinelli: lascia, lascia.
+Massimiliano Mazzucato: No, no, c'è un errore, scusate, non è questa, non l'ho cancellata, è questa quella giusta. c****!
+Davide Vinelli: Ah, cin eh qua Gabri di e tu sei tutto
+Massimiliano Mazzucato: Sì, sì, va bene. Cioè, guardiamo people qu vabbè, poi ci sono quelle difficile.
+Davide Vinelli: Vai, vai,
+Massimiliano Mazzucato: Ok, competenze è quella.
+Davide Vinelli: vai.
+Massimiliano Mazzucato: Non c'è niente di cambiamento. Fammi leggere. Ok. Ok. E l'unica cosa sull'ultimo quadrato in basso a destra il numero minimo di che cosa? Ha la possibilità di inserire il numero minimo richiesto per ciascun livello. Ah, esatto. Cioè di operatori, però eh lo esplicita. Secondo me e posso inserire cioè quando gente vuoi che abbia quel livello? È l'obiettivo richiesto per ciascun livello di competenza.
+
+
+00:24:05
+
+Massimiliano Mazzucato: Eh, ma l'obiettivo di cosa? Eh, ah n Sì. Eh, vediamo. È la quantità di persone. Sì. Ecco, poi le riformulo meglio.
+Davide Vinelli: Sì che vabbè,
+Massimiliano Mazzucato: Ok,
+Davide Vinelli: hai capito il punto?
+Massimiliano Mazzucato: questa parte la tolgo.
+Davide Vinelli: Eh, secondo me sì. Cioè, aspetta, mettila con logist, cioè, secondo me qua nel 2B la metterei perché fai vedere come noi ci integriamo con Safety Solution,
+Massimiliano Mazzucato: Allora,
+Davide Vinelli: perché comunque c'è un'integrazione, c'era il tema della compliance, l'hai messo tra gli obiettivi. Non lo mapperei nell'esis, però nel 2B modifica con safety solution e il flusso credo sia più o meno questo. Made, non lo so.
+Massimiliano Mazzucato: esatto. Solo col made torna. Per il resto mi sembra. Ok.
+Davide Vinelli: Secondo me cavami da che se converti win sped in safety solution e ci
+Massimiliano Mazzucato: Aspetta. Dove gente mail?
+Davide Vinelli: sei al centro.
+Massimiliano Mazzucato: Eh, qu all'incend Mail HS.
+
+
+00:25:13
+
+Massimiliano Mazzucato: HS utilizza Mail HS. Ah, no,
+Davide Vinelli: Non,
+Massimiliano Mazzucato: quello là è il nome del software. Eh, ma io non l'ho mai sentito. Ah, ok.
+Davide Vinelli: ma se cava proprio quel quadrato,
+Massimiliano Mazzucato: Ah, ok.
+Davide Vinelli: eliminalo
+Massimiliano Mazzucato: Eh sì,
+Davide Vinelli: proprio.
+Massimiliano Mazzucato: perché quello era il vecchio Azis che c'è scritto che stavano migrando da Safety Solution a questo. Ok. No, no, ma
+Davide Vinelli: Eh, ma poi hanno non hanno più Ti ricordi,
+Massimiliano Mazzucato: hanno
+Davide Vinelli: Gabri, che c'era sta storia che loro volevano dismettere Zucchetti, però alla fine non l'hanno più dismesso?
+Massimiliano Mazzucato: boh. Eh, cioè non Sì, sì, sì. Comunque sono sicuro che abbiano Zucchetti e lo stanno usando tutto.
+Davide Vinelli: Va bene.
+Massimiliano Mazzucato: Ah, ok.
+Davide Vinelli: Ok.
+Massimiliano Mazzucato: Questa esatta la tenuta. Qua si può forse cambiare dimensionamento del personale.
+Davide Vinelli: Dovresti avere dimensionamento e allocazione.
+
+
+00:26:02
+
+Massimiliano Mazzucato: Allora, ok. Allora, questo è da cambiare. Sarà SAP. Ah, ok. Sì, sì. Perché l'avevo fatto riflettendo l'asis. Ok, perfetto. Allora, sì, lavorare esatto non so se c'è l'orizzonte. La cosa importante ok se ti ho messo a settimana come termine generico.
+Davide Vinelli: M.
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: Ok.
+Massimiliano Mazzucato: Mettiamo
+Davide Vinelli: Ehm, vabbè, questa la farei un po' meglio. In realtà a me piacerebbe provare a fare i titoli parlanti, Max. i titoli parlanti, però perché mi sto rendendo conto che la gente nelle presentazioni legge solo i titoli e noi facciamo dei titoli di m****, eh, nel senso che spreghiamo solo, cioè non dovrebbe essere tipo scazione personale, allocazione che genera riduzione del 70% del tempo, eh, e così come nell'esis Però vabbè, è un esercizio di stile, però segnatelo come punto di provare a fare una versione con i titoli parlanti, giusto come esercizio interno.
+Massimiliano Mazzucato: Ok.
+
+
+00:27:28
+
+Davide Vinelli: No.
+Massimiliano Mazzucato: E poi mi sembra che sia finito. Piano. Vabbè, senze impreviste qua. Anche qua, cioè io cambierei, visto che l'assenza imprevista non è un fattore determinante per loro è riallocazione in base al tabisogno imprevisto.
+Davide Vinelli: Ma metti magari sia entrambe.
+Massimiliano Mazzucato: Ah, ok. Cioè, nel senso, la realocazione può essere generata o da cosa del fabbisogno o una senza
+Davide Vinelli: Esatto. Cioè questa qua la spezzi in due.
+Massimiliano Mazzucato: imprevista.
+Davide Vinelli: Prima il la il cubo di sinistra lo spezzi in due e fai vedere che
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: può venire in gran parte per modifiche dell'ultimo minuto in in una componente per l'assenza improvvisa.
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: Vai.
+Massimiliano Mazzucato: Poi l'orbi.
+Davide Vinelli: Sì,
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: vai.
+Massimiliano Mazzucato: Ok. Quindi questa ve la tolgo.
+Davide Vinelli: M no,
+Massimiliano Mazzucato: Integrazioni. Cè, scusa, quale togli?
+
+
+00:28:36
+
+Davide Vinelli: questa lasciala.
+Massimiliano Mazzucato: Lascio. Ehm,
+Davide Vinelli: Sì,
+Massimiliano Mazzucato: cioè che cosno loro?
+Davide Vinelli: hanno per forza se fosse
+Massimiliano Mazzucato: Dovrebbero essere postata,
+Davide Vinelli: dato.
+Massimiliano Mazzucato: però visto che non si muoveva gli abbiamo fatto una roba strana. Ok. Per cui facciamo così, tu lasciela così,
+Davide Vinelli: Ok.
+Massimiliano Mazzucato: così, anzi così. Così ritiriamo su l'argomento e gli facciamo pressione per mettere l'ins a posto.
+Davide Vinelli: Poi le integrazioni masks son tutte zucca.
+Massimiliano Mazzucato: Ok.
+Davide Vinelli: L'unica flessibile su cui si devi capire meglio è SAP e devi fare, secondo me, un passaggio per capire come funziona quella di Comifar, perché è l'unico tracciato con un VMS che abbiamo.
+Massimiliano Mazzucato: Ok. Ok. Sì. E queste No, no, queste sono base, eh. Perché queste sono quelle di di veneta, tipo. Sì, sì, sì. Sì, è che l'avevo fatta per c'erano un po' di dubbi su cosa volevi integrare, ma è Safety Solution, anagrafiche e SAP.
+
+
+00:29:34
+
+Massimiliano Mazzucato: Eh, sì, sì, è tutto zucca e sarà Cyberpan, che però a loro non interessa logistica.
+Davide Vinelli: No, è SAP per la per il VMS.
+Massimiliano Mazzucato: Eh, sì, sì che non interessa. Ho detto Sypark, però non interessa logistica e resta tutto o no? Perché vada con l'anagrafica. Ma sì, sì, noi noi non parliamo,
+Davide Vinelli: No,
+Massimiliano Mazzucato: parliamo sempre con presenza. Ok.
+Davide Vinelli: eh, però parli con workflow perché peschi le assenze, no, le peschi la presenza.
+Massimiliano Mazzucato: Eh no, però aspetta, non le peschiamo da workflow
+Davide Vinelli: Ehm, allora devi rivedere il flusso tub che ha fatto Massimiliano.
+Massimiliano Mazzucato: essenze.
+Davide Vinelli: Torna indietro. No, vammi su gestione delle assenze.
+Massimiliano Mazzucato: gestione delle assenze su eh
+Davide Vinelli: Eh, aspetta, aspetta, aspetta.
+Massimiliano Mazzucato: questo e
+Davide Vinelli: tramite il responsabile valutare le richieste che cercare assenza al supporto assenzaate automaticamente in fase di pianificazione.
+Massimiliano Mazzucato: valuta.
+Davide Vinelli: Come fa a valutare se non gli arrivano le richieste pending?
+
+
+00:30:50
+
+Massimiliano Mazzucato: No, ma e dopo quella roba là non la faranno con perché qua c'è il tema anche dell'app di People, cioè loro vorrebbero fare sta roba con A people.
+Davide Vinelli: Ah.
+Massimiliano Mazzucato: Ad oggi lo fanno in AVM, nel senso che dentro AVM gli arrivano le pending, però poi le approvano in zucchetti e dipendenti, arriva la conferma in workflow.
+Davide Vinelli: Ok. Vabbè, torna giù. E vabbè, sulle integrazioni poi sti c****, cioè no.
+Massimiliano Mazzucato: Sì, vabbè, ma l'integrazione secondo me cioè tanto quelle che sono già in piedi con zucchetti sono le stesse, devono solo apriarci loro il perimetro dei dipendenti e c'è da mettere in piedi quella di satto, quindi siccome integrazioni senza nessun problema di o la facciamo anche un attimo insieme. Ok. Beh,
+Davide Vinelli: Sì, secondo me ti devi pescare solo quella di Comifar,
+Massimiliano Mazzucato: vediamo
+Davide Vinelli: ma secondo me ce la fai tranquillamente da solo e te la fai poi cercare da Gabrix.
+Massimiliano Mazzucato: mi par ce n'è una più recente.
+Davide Vinelli: di logistica,
+Massimiliano Mazzucato: No,
+Davide Vinelli: no, credo sia l'unica integrazione con VMS che c'è e non e Comifar comunque è un'estrazione
+
+
+00:31:54
+
+Massimiliano Mazzucato: no,
+Davide Vinelli: Excel.
+Massimiliano Mazzucato: sì, sì, sì. Ok, cioè non sarà continuato, eh. Ok. Però nel 2B sarà collegato con SAPO c'è sempre un No, SAP, cioè non c'è un Excel di mezzo.
+Davide Vinelli: Ah, ma là vedremo come c****,
+Massimiliano Mazzucato: Ok,
+Davide Vinelli: cioè magari ha un'estrazione in casa,
+Massimiliano Mazzucato: era
+Davide Vinelli: però il quello che promeniamo no. Vai sotto, Massi.
+Massimiliano Mazzucato: Allora, qua eh la parte di business case non c'è molto,
+Davide Vinelli: Sì.
+Massimiliano Mazzucato: cioè nel senso non abbiamo tirato fuori molto.
+Davide Vinelli: Ma hai provato a buttar giù qualcosa
+Massimiliano Mazzucato: Io l'avevo lasciato,
+Davide Vinelli: o secondo me per il
+Massimiliano Mazzucato: era volevo capire un attimo adesso, cioè cosa
+Davide Vinelli: momento bypassa.
+Massimiliano Mazzucato: mh qua.
+Davide Vinelli: Vai avanti. Eh, c'abbiamo il game. Allora, se chiedi a Gabri se ci può fare un Gant o comunque butta giù un Gant e poi te lo fai controllare la
+Massimiliano Mazzucato: Allora,
+
+
+00:32:54
+
+Davide Vinelli: Gabri.
+Massimiliano Mazzucato: esatto, questo è quello generico.
+Davide Vinelli: Eh, sistemalo un attimo non generico.
+Massimiliano Mazzucato: 35.
+Davide Vinelli: Eh,
+Massimiliano Mazzucato: Ah, vabbè, 35 week mi sembra.
+Davide Vinelli: capito? Son 40 cristi. Ma sì,
+Massimiliano Mazzucato: Sì, sì, sì,
+Davide Vinelli: eh,
+Massimiliano Mazzucato: era che no ci stava tenuto quello generico perché c'è il tema qui è che in realtà noi non dobbiamo riconfigurarli il tutto, capito? Osi,
+Davide Vinelli: se le integrazioni la metà ce l'hai già attive.
+Massimiliano Mazzucato: per cui di sicuro sarà più breve di così il Gant. Sì, sì. che mi dici quali taglio io taglio. Cioè piuttosto che tagliare No, magari te lo guardo io un attimo. Entro quando ti serve? Beh, vando presentiamo. Ok. Te lo faccio.
+Davide Vinieli: Quand'è che dobbiamo presentare, Gabri?
+Massimiliano Mazzucato: Non abbiamo fissato ancora.
+Davide Vinelli: Eh, ok. Magari sentiti con Paola e prova a fissare una data non per questa, ma quella dopo, cioè non per la prossima.
+
+
+00:34:00
+
+Massimiliano Mazzucato: Tu vorresti Tuesi presentare in week 25?
+Davide Vinelli: Tu vuoi presentare settimana prossima?
+Massimiliano Mazzucato: No, io pensavo quella dopo. Vabbè, ok, facciamo così. Lunedì che vedo Paola ne
+Davide Vinelli: Io presentirei in 25,
+Massimiliano Mazzucato: parlo.
+Davide Vinelli: tanto che c**** di fre, cioè che non vedo grossi vincoli.
+Massimiliano Mazzucato: Ok, allora vedo di farvi avere il Gun per metà della settimana.
+Davide Vinelli: Allora, aspe, non so Massi come c**** sei messo tu, però se a Carpenteria lo facciamo lunedì, che secondo me in mezza giornata chiudi lesis, il 2B è quasi identico, sarà identico a quello precedente.
+Massimiliano Mazzucato: Sì, es cioè se non se non facciamo il business
+Davide Vinelli: Allora, su carpenteria magari provate a tirar fuori qualche numero, cioè mia suggestion e vedete se riuscite a quantificare qualcosa, però senò sti c****, eh. Cioè,
+Massimiliano Mazzucato: Eh,
+Davide Vinelli: comunque abbiamo la forza del fatto di essere già dentro, non è che partiamo fra un scratch. Sulla quotazione. Invece lascia mettimi uno slash rosa a me e facciamo un coso con facciamo un passaggio con eh Giovanni.
+
+
+00:35:06
+
+Davide Vinelli: Scrivimi Davide Sante Giovanni per capire se passare o meno da Pucciarelli. Ok,
+Massimiliano Mazzucato: E poi basta sol resto
+Davide Vinelli: va bene. Ottimo lavoro. Sì.
+Massimiliano Mazzucato: è
+Davide Vinelli: Eh, sistema quelle quelle un paio di cose che ci siamo detti e per me per me mi sembra più
+Massimiliano Mazzucato: sì.
+Davide Vinelli: che più che sufficiente. Eh, che ho detto, cio mezza idea di fare i titoli parlanti, ma magari lo faccio io, non ti preoccupa.
+Massimiliano Mazzucato: No, no,
+Davide Vinelli: Eh,
+Massimiliano Mazzucato: secondo me dobbiamo perché poi c'è bisogna un attimo capire gli spazi sulle slide,
+Davide Vinelli: eh no, lo so, lo so.
+Massimiliano Mazzucato: cioè bisogna capire bene le parole.
+Davide Vinelli: A me piacerebbe fare dei titoli, cioè perché facciamo dei titoli veramente di m****,
+Massimiliano Mazzucato: Sì, sì,
+Davide Vinelli: cioè la gente legge,
+Massimiliano Mazzucato: ma ma
+Davide Vinelli: uno che guarda le slide, soprattutto i level, legge solo change management ad option, non vuol dire niente. Cioè, qua è change management, come facciamo funzionare il progetto, che ne so, però è una slide che ti dice un po', cioè ti dà o, cioè ti deve dare l'impatto del della slide, eh change management perché i nostri progetti funzionano e e fai vedere e già uno te lo legge molto più rispetto ad option che non vuol dire tutto e niente e così tutte le slide.
+
+
+00:36:33
+
+Davide Vinelli: Però questo è un mio approccio che vorrei portare come mindset a livello aziendale e non solo su un assessment ad katsum. Quindi, ehm, vabbè, perché ho parlato con della gente, mi hanno cioè gli ho fatto vedere un po' di roba nostra, un po' di deck e mi hanno detto che i titoli sono imbarazzanti, cioè che facciamo tutti sti titoli standard che non vogliono dire un c****. Ed effettivamente è vero, cioè facciamo as is gestione risorse, ma che c**** vuol dire as perdi, cioè o mi spari un numero o mi spari un impatto, mi dimmi quello che c**** mi vuoi dire in quella slide perché non c'ho tempo da perdere in leggere 20 blocchi.
+Massimiliano Mazzucato: M
+Davide Vinelli: E poi ci sta che sei estremamente di scalico quando la mandi e questo in realtà è un
+Massimiliano Mazzucato: v l
+Davide Vinelli: anche delivery,
+Massimiliano Mazzucato: vai.
+Davide Vinelli: cioè è è come si fa consulenza secondo
+Massimiliano Mazzucato: Sì, sì,
+Davide Vinelli: me.
+Massimiliano Mazzucato: ma lì secondo me la differenza tra una slide che devi presentare e una slide che devi mandare a qualcuno per fargliela leggere.
+Davide Vinelli: Esatto. Vabboh. Eh,
+Massimiliano Mazzucato: in realà, cioè mi piaceare un po' la filosofia sui
+Davide Vinelli: comunque eh un po', cioè secondo me lì c'è un margine di miglioramento.
+Massimiliano Mazzucato: titoli.
+Davide Vinelli: Va bene, raga, non so se c'erano altri punti, senò io vi lascio che c'ho ancora un bel po' di cose e vi auguro un buon weekend. Eh, andate alla festa di Cons.
+Massimiliano Mazzucato: La festa di Conz,
+Davide Vinelli: Eh,
+Massimiliano Mazzucato: eh, domenica.
+Davide Vinelli: c****.
+Massimiliano Mazzucato: Vediamo quanto caldo fa domenica. Esatto.
+Davide Vinelli: Beh,
+Massimiliano Mazzucato: In teoria andiamo,
+Davide Vinelli: tu sei comodo,
+Massimiliano Mazzucato: però boh.
+Davide Vinelli: Massi.
+Massimiliano Mazzucato: Sì, sì. È che ci sono tipo 40° domenica. Serio.
+Davide Vinelli: Ass
+Massimiliano Mazzucato: Sì, sì. C'era Sandro prima che è l'uomo del tempo.
+Davide Vinelli: Vabbè, vabbò. Raga, buon buon weekend e buonasera.
+Massimiliano Mazzucato: Ciao. Anche a te. Oh.
+
+
+Trascrizione terminata dopo 00:38:29
+
+Questa trascrizione modificabile è stata generata dal computer e potrebbe contenere errori. È possibile anche modificare manualmente il testo dopo la creazione.
