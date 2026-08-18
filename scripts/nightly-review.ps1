@@ -4,7 +4,7 @@
 # "Routine di revisione"). Pensato per essere schedulato via Task Scheduler
 # di Windows, sullo stesso modello dello script di calendar-check OringONE.
 
-$repoPath = "C:\Users\Gabriele Colombo\Documents\awm-knowledge-base"
+$repoPath = "C:\Users\Gabriele Colombo\Desktop\HiveMind\knowledge-base"
 $logPath = "$repoPath\.nightly-review.log"
 
 Set-Location $repoPath
