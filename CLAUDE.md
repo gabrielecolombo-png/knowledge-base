@@ -72,7 +72,7 @@ accumula.
   prima di modificare, e integrare (append/merge), non sostituire.
 - Ogni file tema ha questa struttura fissa:
 
-  ```markdown
+```markdown
   # <Nome tema>
 
   ## Sintesi corrente
@@ -86,7 +86,7 @@ accumula.
 
   ## Osservazioni aperte
   - domande o contraddizioni non risolte tra meeting diversi
-  ```
+```
 
 - Quando aggiungi una riga a "Meeting collegati", scrivi cosa di NUOVO ha
   aggiunto quel meeting rispetto a quanto già sapevi — non ripetere la sintesi
@@ -114,9 +114,7 @@ come sessione indipendente dal processing di una trascrizione. Obiettivo:
 correggere quello che si accumula nel tempo, perché nessuno rilegge i file
 tema riga per riga come farebbe con una minuta singola.
 
-1. Rileggi tutti i file in `themes/` modificati nelle ultime 24-48 ore. Se
-   nessun file è stato modificato in quella finestra, chiudi subito senza
-   inviare nulla (vedi invio email sotto).
+1. Rileggi tutti i file in `themes/` modificati nelle ultime 24-48 ore.
 2. Per ciascuno verifica:
    - la "Sintesi corrente" è ancora coerente con tutte le voci in
      "Meeting collegati", o si è disallineata (es. riassume solo i meeting
@@ -131,7 +129,16 @@ tema riga per riga come farebbe con una minuta singola.
    segnalala nel report (vedi sotto) invece di agire — un merge sbagliato
    perde storia, mentre non fare il merge subito non costa nulla.
 5. Aggiorna `themes/_index.md` se necessario (date, nuove voci).
-6. Commit e push delle correzioni fatte (stesso principio del processing
+6. **Controlla anche la salute dell'infrastruttura stessa** (non solo i
+   contenuti): `scripts/`, `.claude/commands/`, `CLAUDE.md`. Se noti un
+   problema oggettivo (es. un path sbagliato, un comando che fallirebbe,
+   un'istruzione ambigua che ha causato un comportamento diverso da quanto
+   atteso), puoi correggerlo direttamente — ma questo va SEMPRE riportato nel
+   report come voce a parte (vedi sotto "Modifiche infrastrutturali"),
+   indipendentemente dal fatto che ci sia altro da segnalare sui temi. Una
+   correzione silenziosa allo script che lancia la routine stessa è
+   esattamente il tipo di cosa che Gabriele deve sempre vedere.
+7. Commit e push delle correzioni fatte (stesso principio del processing
    trascrizioni: commit diretto, git è la rete di sicurezza).
 
 ## Report di fine sessione
@@ -140,56 +147,3 @@ Non fermarti a chiedere conferma durante il lavoro (né nel processing di una
 trascrizione né nella routine notturna) — completa tutto quello che puoi fare
 con ragionevole sicurezza. Alla fine di OGNI sessione che modifica qualcosa
 nel repo, produci sempre un report breve in questo formato:
-
-```
-## Report sessione — yyyy-mm-dd HH:mm
-
-### Fatto
-- (elenco sintetico di minute create, temi creati/aggiornati, pattern loggati,
-  correzioni applicate dalla routine di revisione)
-
-### Da verificare
-- (ogni punto in cui hai dovuto scegliere senza certezza: es. a quale tema
-  attribuire qualcosa, chi ha detto/deciso cosa se non era chiaro dalla
-  trascrizione, se un tema andrebbe fuso con un altro, sintesi di un tema
-  che potrebbe essersi disallineata)
-- se non c'è nulla di dubbio, scrivi esplicitamente "Nessun punto dubbio
-  questa sessione" — non lasciare la sezione vuota senza dirlo
-```
-
-Ogni punto in "Da verificare" deve essere concreto e puntare a un file/riga
-specifica, non generico — Gabriele deve poter controllare in 10 secondi, non
-riaprire tutto il repo per capire a cosa ti riferisci.
-
-**Invio**: al termine della sessione automatica notturna, invia questo report
-via Gmail (connector già configurato) a Gabriele, oggetto
-`[Knowledge Base] Report notturno yyyy-mm-dd`. Se il punto 1 della routine di
-revisione non ha trovato nulla da rivedere (nessun file modificato nelle
-ultime 24-48h) E non ci sono state trascrizioni processate nella stessa
-finestra, NON inviare email — evita notifiche vuote quando non c'è stato
-lavoro. Per le sessioni di processing trascrizioni lanciate manualmente da
-Gabriele, il report basta mostrarlo in chat/output della sessione, non serve
-invio email (Gabriele è già presente).
-
-## Cosa NON fare
-
-- Non creare ticket Jira, non scrivere su Confluence, non inviare email da qui:
-  questo repo è solo per la conoscenza, azioni esterne solo se richieste
-  esplicitamente e separatamente.
-- Non inventare collegamenti tra temi solo per "riempire" `patterns/log.md`.
-  Meglio nessuna voce che una forzata.
-- Non modificare `meetings/_raw/` una volta scritto: è l'originale, immutabile.
-- Non eliminare storia da nessun file tema per "fare pulizia": se un tema
-  sembra obsoleto, aggiungi una nota in "Osservazioni aperte", non cancellare.
-
-## Query utili da supportare
-
-Quando Gabriele chiede cose come "che pattern vedi tra i meeting di Danieli e
-Franke sulle ferie?" o "cosa sappiamo su X nel tempo?", usa questo ordine:
-1. Leggi `themes/_index.md` per orientarti.
-2. Leggi il/i file tema pertinenti — hanno già la sintesi e i link.
-3. Solo se serve maggior dettaglio, apri le minute specifiche linkate.
-4. Solo in ultima istanza rileggi i raw.
-
-Non serve rileggere tutto il repo ogni volta: gli indici tema esistono
-apposta per evitarlo.
