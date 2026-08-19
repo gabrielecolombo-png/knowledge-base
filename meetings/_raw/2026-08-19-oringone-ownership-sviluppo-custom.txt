@@ -1,0 +1,776 @@
+ago 19, 2026
+P01_OringONE - Ownership sviluppo custom - Trascrizione
+00:00:00
+
+Gabriele Colombo: Vai anch'io più finiti
+Giovanni Conz: Comunque bene. Allora, siamo
+Gabriele Colombo: perché la scorsa settimana ci siamo trovati al confabulare. Avete tenuto una seduta e due
+Giovanni Conz: Esatto. E sostanzialmente
+Gabriele Colombo: possibili approcci.
+Giovanni Conz: abbiamo detto
+Gabriele Colombo: Guarda meglio che fresco che è.
+Giovanni Conz: 17°.
+Gabriele Colombo: La stessa maglie la settimana scorsa.
+Giovanni Conz: Comunque no,
+Emilio Bendotti: Quasi quasi mi metto la felpa.
+Giovanni Conz: ha uno spocco di
+Emilio Bendotti: Non dire non è vero niente.
+Giovanni Conz: magliette.
+Gabriele Colombo: La lavata nel Sì, la spero. Fatto è la speranza.
+Giovanni Conz: Scusa,
+Gabriele Colombo: E va bene.
+Giovanni Conz: interrotta. più abbiamo individuato, diciamo,
+Gabriele Colombo: Eh, due strade con pro e contro. Mh mh. Ma vorremmo eh scegliere insieme a te quale strada effettivamente andare a intraprendere. Ok. Ehm, allora la prima e poi vabbè, Emilio ha un'altra idea che ti adesso ti ti espone. Eh, allora, la prima strada è che internalizziamo un po' tutto, cioè facciamo un po' tutto noi, anche la parte di sviluppo del custom.
+
+
+00:01:13
+
+Gabriele Colombo: Ehm, diciamo che il pro della strada è la fatturazione di base, ok? Quindi riusciamo a tenere a al nostro a tenere quasi tutta la parte la porzione di fatturato che arriverebbe da questo progetto. Il contro è che la velocità Ah, giusto. La velocità, quindi l'indipendenza da azzurro e quindi riusciamo a gestirci noi, eccetera. I contro sono principalmente due, uno eh la complessità del progetto che aumenta drasticamente e due, il fatto che eh bisognerebbe cambiare radicalmente la pipeline di prodotto e per fine anno. Non so se ho dimenticato qualcosa su questa. Sì. e dobbiamo cambiare anche l'approccio eh nel senso che avevamo fatto ferro, tra l'altro a buco di presenza ottobre. Sì, e per potenziarlo molto, anche perché sì, mi sembra che i tempi sono molto stretti. Mh mh. Esatto. E l'altro approccio invece è mantenere eh esternalizzato il la realizzazione della eh del del custom. E qui il grosso contro è sicuramente eh come dicevi la velocità, quindi abbiamo una dipendenza sulla quale non abbiamo nessuna leva di fatto e quindi dubitiamo che riuscire a rispettare la timeline su questa cosa perché è molto compressa e due la fatturazione nel senso che facendo due conti sembra che resti presso che zero, cioè il valore di progetto togliendo gli sprint a proietta immaginati, diciamo, d'azzurro resta presso che zero.
+
+
+00:02:53
+
+Gabriele Colombo: Il tema è che non ci andremo a impelagare in questa cosa molto complessa. Quindi diciamo queste erano le due cose e comunque non è un steralizzazione totale, cioè comunque ci sarebbe delli dovremmo in qualche modo essere coinvolti. C'è un altro pro in questa strada che è quella di effettivamente testare com'è dare in outsourcing questa cosa a un potenziale partner. Quindi noi ci troveremo comunque la condizione di dover di poter eh costruire un'infrastruttura che permetta a qualcuno di esterno di sviluppare e poi integrare la cosa al nostro interno. In realtà avremmo la mezza idea di farlo di utilizzare questa stessa struttura anche se fossimo noi a fare il custom. Eh,
+Giovanni Conz: Diciamo che in questo riepilogo c'è una cosa che non eh cioè non che non mi torna,
+Gabriele Colombo: infatti.
+Giovanni Conz: ma che secondo me è in realtà il vero punto della questione. Cioè, secondo me mh se è una questione di mero fatturato mh possiamo potenzialmente essere nella necessità di dover citurare il naso, di fare anche non proprio, diciamo così, quello che che ci piacerebbe fare. Eh vabbè, cioè nel senso non è tutto rose e fiori e va bene, però comunque avremo una certa resistenza m e avrei un certo tipo di dubbio nel farlo, nel senso che comunque una quota parte di fatturato anche significativa io penso che
+
+
+00:04:17
+
+Gabriele Colombo: No.
+Giovanni Conz: possiamo portarla a casa, nel senso che non sono d'accordo sul fatto che il valore del progetto a quel punto è zero, cioè nel senso che potremmo mettere sul piatto perché comunque tutta una serie di cose hanno un senso, bla bla bla. Eh vabbè, si tratterebbe poi di fare una discussione eh più diciamo eh politica, ma dall'altra parte abbiamo dei cugini e vabbè, insomma, farà una roba salomonica senza tanto stare a disquisire del valore aggiunto portato al cliente e quant'altro, però è da quello che è emerso comunque per loro l'allocazione delle persone è un coro di bottiglia molto significativo.
+Gabriele Colombo: M.
+Giovanni Conz: più significativo delle semplici macchine, materiali. Quindi quando sono stato lì tutto sommato alla tornitura, c'erano quattro macchine per la tornitura, c'era solo un cristiano che ci lavorava dentro e gli abbiamo detto "Ma come mai ce n'è solo uno qua?" Eh, perché altri non ce ne sono? Ma se ce ne fos fossero altri, eh sì, eh potremmo aumentare, ma eh non lo non troviamo persone, per cui effettivamente il tema delle persone è un tema che si può un po' sviluppare e cercare di valorizzare. Il tema vero è che secondo me questa roba qua potrebbe essere bella proprio per l'ultimo punto che hai toccato, cioè se volessimo capire quanto siamo pronti o quanto possiamo andare nella direzione di prenderci M. pancia qualsiasi più o meno progetto abbia a che fare con le persone, perché poi una parte core in qualche maniera rimane quella nostra e rimane sotto il dominio del team prodotto e quindi viene evoluta eccetera eccetera e la
+
+
+00:06:14
+
+Giovanni Conz: parte in qualche maniera periferica, grazie al fatto che viene sviluppata con sistemi eh più o meno automatici, non è più un pugnale della schiena come nel passato. ma diventa una cosa gestibile. Beh, eh sarebbe una figata per i partner, però mi verrebbe da dire dobbiamo prima sperimentarla noi internamente. Quindi, se dovessimo sviluppare questo progetto in toto noi mi verrebbe da approcciarlo con questa modalità e soprattutto per testare potenzialmente una direzione strategica eh che vedo possibile barra quasi necessaria. diffusione tra quello che è un concetto di prodotto, quindi manutenuto, evoluto, garantito e è una parte custom, quindi che si adatta a quello che fai cucito intorno a te e che era questa dicotomia che esisteva una volta totale, per cui o ti prendevi il prodotto o ti prendevi un progetto, che forse oggi con le AI è fa un nuovo modello eh che poi ha un impatto organizzativo. ha un impatto di modello di business, ha impatti abbastanza rivoluzionari sulla nostra organizzazione e che però eh io sarei molto a favore del provare ad andare a sperimentare perché temo molto che il valore del prodotto senza questa parte qua eh sia messo potenzialmente in discussione nel futuro a lungo termine. Quindi se tu rimani semplicemente garantito, manutenuto evoluto, ma il cliente ci si deve adattare, perdi la sfida contro il Vabbè, cioè un domani questo tizio di Oringone che che ha fatto il controllone oggi ha sviluppato quella roba là, è un consulente singolo che ha fatto sto mega custom che gli gestisce tutto e arriva fin lì perché E oggi bisogna scriverlo a manina.
+
+
+00:08:29
+
+Giovanni Conz: Se, cioè, tra un anno avessimo incrociato questo progetto, questo tizio con un po' di Sì, sì. eh gli avrebbe detto e lo faccio io, tanto lo faccio con intelligenza artificiale e non avremmo venduto un
+Gabriele Colombo: อ
+Giovanni Conz: c****. Per cui diciamo che il punto vero è io sarei molto pro a tirarmelo dentro perché ci porta fatturato, perché siamo molto più rapidi, perché riusciamo a impattare nell'anno, ma soprattutto to. se riusciamo a inquadrarlo in questa direzione, cioè usarlo come sperimentazione interna di quello che può essere una
+Gabriele Colombo: Okej.
+Giovanni Conz: eh diciamo così un ibrido tra tra prodotto e custom.
+Emilio Bendotti: Io Oh.
+Giovanni Conz: Da da questo punto di vista voi vedete la situazione matura abbastanza per poter fare questa sperimentazione in quest'ottica, quindi non soltanto per fare il progetto Ringone, ma per sperimentare un'architettura ibrida che coniughi prodotto e customizzazioni, perché questa è la domanda.
+Emilio Bendotti: Ciao.
+Giovanni Conz: Allora, Emilio
+Emilio Bendotti: Sì, allora io avevo gli stessi punti. Ehm eh cioè vabbè, siamo arrivati a al punto che che volevamo in cui dovevamo arrivare. E sì, allora diciamo che esternalizzarlo del tutto, come ci siamo detti l'altra volta, c'era il problema che dal lato nostro e mettere, cioè includere eh una la parte di customizzazioni già fatti da già fatte da un partner è un po' probabilmente prematuro,
+
+
+00:10:22
+
+Emilio Bendotti: nel senso che possiamo farlo ma non possiamo farlo a basso effort e quell'effort sarebbe abbastanza grande da effettivamente ente prendere una buona parte del del custom perché va tutto fatto e va fatto già con un partner che non siamo noi e quindi aumenta la complessità. dall'altra parte e qua poi dopo arriviamo al ter alla terza opzione e dall'altra parte eh c'è il eh se lo dovessimo fare noi c'è effettivamente saremmo più veloci,
+Giovanni Conz: M.
+Gabriele Colombo: Ja.
+Emilio Bendotti: eh però la capacity è è quella che è e quindi dovrebbe andare eh per quanto riguarda lo sviluppo tutta sul sul team e non sono completamente certo, nemmeno del eh del di quanto poi ci portiamo avanti ci portiamo a casa questo concetto della customizzazione, perché se le persone che lo fanno sono già quelle che ehm agiscono sul prodotto, ho come la sensazione che cioè noi abbiamo tutte le nostre eh procedure, tutte i nostri modi di fare ed è difficile che una persona, soprattutto con le deadline così strette inizi a cioè ragioni a a a mettere a terra custom, quindi a farsi le domande come se fosse una persona che non ne sa niente ehm per provare sta roba E per questi due motivi ah l'unica cosa che mi era venuta in mente era potrebbe essere, non so se è fattibile, ma usare insomma qualcuno di interno che eh potrebbe metterci le mani eh dal punto di vista tecnico e che però non è formalmente del team e per questo ho pensato a Carlo,
+
+
+00:12:26
+
+Giovanni Conz: Pasqualetto.
+Emilio Bendotti: perché che potrebbe Sì, Pasqualetto, perché cioè non so, questo mi era venuto in mente, cioè perché non toccherebbe troppo la capacity del team tech,
+Giovanni Conz: No.
+Emilio Bendotti: cioè lo toccherebbe dal punto di vista del mettere a terra per quello che sarebbe che era anche da mettere a terra per i partner, però facendolo internamente chiaramente eh la complessità è molto minore e dall'altra parte non essendo completamente dentro a a quelli che sono gli attuali processi del TeamTte Eh, probabilmente, cioè non è che non fa dei ragionamenti, eh, cioè questa cosa chiaramente la facciamo così e vai a ruota libera, è perché lo stai lo stai già facendo tutti i giorni. Eh, sarebbe una via di mezzo.
+Giovanni Conz: Mh mh. Ma io da questo punto di vista penso che non sia una una malvagia e eh può essere una soluzione tattica, concreta e e fattibile. Ehm, torno sul punto e stresso di nuovo il punto che penso che dobbiamo ehm definire bene che cosa ehm cosa vuol dire customizzazione, che cosa vuol dire prodotto. Per cui una riflessione che facevo in questi giorni di cervello al pascolo e ma insomma veniva da considerazioni fatte in maniera abbastanza estemporanea, ma insomma è una pentola che bolle e su cui stiamo riflettendo da tempo, no?
+
+
+00:14:08
+
+Giovanni Conz: Eh, ed è il fatto che immaginiamo che Oringone diventi, tra virgolette, lo standard, cioè che potenzialmente noi vendiamo delle cose che hanno a che fare con le persone e dentro ci sono eh tutta una serie di di cose che vengono più o meno promesse e che fanno più o meno parte del prodotto. Quindi una sorta di riedizione di AVMS 2023-2024 e in cui tutto sommato c'era abbastanza libertà nel cercare di vendere delle cose che più o meno fossero attinenti alle persone. c'è da dire che, diciamo così, eh,
+Gabriele Colombo: M.
+Giovanni Conz: per quanto sia una contingenza. Eh, sicuramente da un punto di vista commerciale quella roba là ha funzionato. Si portava dietro poi una serie di veleni e di complicazioni e di cose devastanti da molti punti di vista. Allora, da una parte c'è un tema e cioè oggi siamo riusciamo a sviluppare molto più velocemente, riusciamo a scrivere delle specifiche molto più velocemente, bla bla bla bla bla, però secondo me non è sufficiente per evitare per prenderci il buono della, diciamo così, di di quella modalità e tenere fuori la parte tossica e cioè il fatto che se noi abbiamo un dominio di prodotto quando da un progetto come Oringuan Oringone, ormai lo chiamo sempre diverso, ma eh da come da quando da un progetto come Oringone saltano fuori salta fuori un certo tipo di perimetro, secondo me ci deve essere il team prodotto coinvolto che riesce a determinare che cosa è dentro il perimetro di prodotto e che cosa no.
+
+
+00:16:02
+
+Giovanni Conz: E uno potrebbe dire "Vabbè, ma tanto gli sviluppi poi li fa sempre le hai, che sia prodotto, che sia customizzazione, gli sviluppi li fa sempre le ha." Quindi che c**** ce ne frega di dover andare a distinguere cosa è customizzazione e cosa è prodotto? Secondo me la risposta è che per tutti gli elementi che vengono identificati come facente parti del prodotto, il prodotto dovrebbe fare gli stessi esercizi che fa oggi di design sprint, divergenza, convergenza, scrittura delle specifiche, tenendo in considerazione le richieste del cliente e una serie di aspetti più ampi, la legacy, l'esistente, altre richieste barra opportunità attigue in maniera tale da sviluppare qualcosa in maniera organica. E questo è un processo che richiede sicuramente molto più tempo. Bisogna ragionare sulle cose in una certa maniera. Tutto quello che invece è customizzazione potenzialmente non ha bisogno di passare da un design sprint e da un ragionamento di prodotto. Il driver sono semplicemente le specifiche del cliente e grazie. Arrivederci. Sto dicendo che prodotto non è necessario vinto in questa è un
+Gabriele Colombo: Allora, questo è un tema
+Giovanni Conz: tema eh da da da chiarire e ribadisco, Oringone può essere l'esperimento con cui ragionare.
+
+
+00:17:42
+
+Giovanni Conz: Non ho idea, bisogna bisogna provarlo un po' sul terreno.
+Emilio Bendotti: Ecco.
+Giovanni Conz: Mi sembra che nel passato sia stato positivo il fatto di interrompere un doppio flusso verso il team tecnico. No.
+Gabriele Colombo: M.
+Giovanni Conz: Quindi, se ci immaginiamo eh di tornare a un doppio flusso,
+Gabriele Colombo: M.
+Giovanni Conz: per cui qualcuno raccoglie delle specifiche, magari è non lo so, delivery, che semplicemente raccoglie le specifiche del cliente per quello che è considerato customizzazione e prodotto che
+Emilio Bendotti: Ja.
+Giovanni Conz: invece ragiona in maniera più ampia della quota parte del progetto che fa parte del prodotto ed entrambi vanno da tech in parallelo. torniamo probabilmente ai disastri del passato in cui non si capisce più un c**** della pianificazione delle cose. Quindi, comunque penso che eh o c'è uno stream effettivamente totalmente parallelo perché ciò che è prodotto è prodotto e segue il solito stream e ciò che non è prodotto non viene neanche toccato dai nostri dev e uno semplicemente si arrangia. deve avere un minimo di competenze tecniche, ma tra virgolette sempre meno. Utilizza la nostra un nostro ARNES di sviluppo. Oggi è Carlo D'Avanzo, domani è un consulente della Delivery, dopodomani è un partner terzo e a quel punto f******.
+
+
+00:19:13
+
+Giovanni Conz: oppure è semplicemente una questione di profondità dell'analisi delle specifiche, per cui delivery o comunque le customizzazioni di progetto vengono analizzate secondo le specifiche del cliente e in prodotto su quello dà solamente una supervisione e una pettinata e li unisce nello stream di prodotto,
+Gabriele Colombo: M.
+Giovanni Conz: mentre le cose che sono di prodotto passano da design sprint, divergenza, convergenza, eh sviluppo organico, mettendo insieme anche altre esigenze di anni, altri clienti e bla bla bla e poi finisce tutto in un in un tubo che va verso il team tecnico. Nella proposta di utilizzare Carlo d'Avanzo mi pare che sia più lo schema a, cioè quello di fare in maniera tale che ci sia un contesto che consente a una persona discretamente tecnica di svilupparsi delle cose senza fare danni.
+Emilio Bendotti: Beh, allora adesso Adesso in questo per questo progetto sarebbe la B, cioè il fatto che lo faccia Car il fatto che lo faccia Carlo d'Avanzo comunque non avendo cioè e
+Giovanni Conz: la
+Emilio Bendotti: chissà poi ehm cioè non avendo a terra attualmente questi eh questi strumenti,
+Gabriele Colombo: Ja.
+Emilio Bendotti: comunque vuol dire che dal lato del teamtech ci sono effettivamente delle cose da fare, cioè se poi effettivamente noi non mettiamo mano al singolo modulo Ma tutto ciò che sta attorno al modulo, cioè i servizi a correddo del modulo, quelli devono essere abilitati per poter essere utilizzati tramite un ARNES che usa Carlo d'Avanzo per fare questa cosa.
+
+
+00:20:55
+
+Emilio Bendotti: Però l'harness va costruito. i i servizi attorno vanno abilitati per poter essere usati in maniera con le autorization varie, limitate, tutto il resto
+Giovanni Conz: Certo, però scusami se ti interrompo perché Ehm,
+Emilio Bendotti: per
+Giovanni Conz: non vorrei, diciamo, cioè vorrei, mi piacerebbe capire qual è la direzione strategica, indipendentemente dalla condizione tattica in cui ciamo.
+Emilio Bendotti: il progetto.
+Giovanni Conz: Esatto.
+Emilio Bendotti: Boh.
+Giovanni Conz: Quindi,
+Emilio Bendotti: Ok,
+Giovanni Conz: se lazione è quella di dire c'è una revisione del ruolo di prodotto e del ruolo di di delivery in prospettiva tale per cui
+Emilio Bendotti: allora
+Giovanni Conz: potenzialmente è delivery che si sviluppa le customizzazioni, solamente che ho e quindi il Carlo d'Avanzo di oggi fa il consulente di delivery quasi quasi, solamente che in questo momento l'architettura tecnica non garantisce sufficiente contesto eh facile perché questo avvenga allora uno dice "Vabbè, Carlo d'Avanzo è come se fosse un consulente più più, nel senso che è in grado di capire, è in grado di utilizzare degli strumenti, è in grado di stare attenti a determinate cose, non come riuscirebbe a fare un consulente, perché oggi la situazione dell'architettura tecnica è quella, ma domani costruiamo intorno delle cose tale per cui non serve essere un ex sviluppatore per poterci lavorare.
+
+
+00:22:28
+
+Giovanni Conz: Allora, prendiamo questa strada e il Carlo d'Avanzo tatticamente nel progetto Oringone fa il consulente di domani, tra virgolette. Se invece la strada è quella di far sì che il consulente si limiti a definire le specifiche e la differenza tra tra prodotto e delivery è che delivery costruisce delle specifiche sul cliente. prodotto costruisce delle specifiche considerando anche le specifiche del cliente, ma allargando lo scope e poi tutto finisce al team tecnico, allora è un altro schema e allora è come se Carlo D'Avanzo, diciamo così, lavorasse come aggiunto, tra virgolette, del team tecnico per sopperire a una a un a una a un tema di capacity. Quindi da questo punto di vista mi piacerebbe sentire e diciamo così Gabri ma anche Alice e Dele perché la direzione potenzialmente che si prende connota il team prodotto e il team delivery in una certa maniera, posto che per togliere un po' di di pesantezza, non è che adesso stiamo decidendo una roba e sarà così e è buona. è per dire, cerchiamo di capire cosa vogliamo sperimentare, quale scenario vogliamo sperimentare per poi tirare fila su sta roba e dire sì, funziona, no, non funziona, sì, figata. No, una m****.
+Gabriele Colombo: Non so se
+Giovanni Conz: Passo il silenzio, è perché non mi sono spiegato minimamente,
+
+
+00:24:16
+
+Gabriele Colombo: questo
+Giovanni Conz: non ci siamo spiegati minimamente. Oppure se è riflessione ci St.
+Gabriele Colombo: riflettendo,
+Giovanni Conz: Stort.
+Gabriele Colombo: nel senso Perché cioè il mio grande punto di domanda sul flusso a quindi quello eh di eh avere due flussi paralleli, uno di prodotto che fa cose di prodotto e uno di eh custom che viene fatto poi da delivery. Allora, la prima cosa che mi chiedo è m quanto è pericoloso avere questo flusso parallelizzato in che non si incrocia a livello proprio cioè strategico. Nel senso, mi chiedo, ok, quindi abbiamo deciso che c'è una cicità parziale su quello che viene fatto, perché flussi paralleli vuol dire che il prodotto non ha visibilità su questa cosa, quindi magari due consulenti stanno facendo la stessa cosa. No, su questo non sono tanto d'accordo.
+Giovanni Conz: Cioè nel senso che eh il flusso dovrebbe essere ovviamente tale per cui un progetto nel suo scope, nel suo perimetro viene analizzato dal team prodotto che è il dominus e ed è il team prodotto che dice al consulente che segue il progetto, guarda, questo questo non ci sono ancora nel prodotto, ma è mio dominio, per cui li faccio io e te li faccio avere con questi tempi e queste modalità. E poi invece su A B C D, c**** tuoi, feel free e sviluppali come customizzazione.
+
+
+00:26:01
+
+Giovanni Conz: Ovviamente poi ci saranno meeting regolari piuttosto che, cioè bisognerà cercare di mitigare chiaramente la necessità di avere visibilità, però è una cosa che già oggi viene fatta nei tra prodotto e delivery, però dà una connotazione al Team del Delivery di protagonismo e di estensione verso anche una declinazione molto pratica del progetto. diciamo la l'altra cosa
+Gabriele Colombo: era grado di maturità in cui ci troviamo
+Giovanni Conz: su
+Gabriele Colombo: per fare questa cosa, no? Però anche questo
+Giovanni Conz: ecco, dico, cioè giusto,
+Gabriele Colombo: smart.
+Giovanni Conz: oggi non c'è, però noi che scenario vogliamo testare? Cioè, oggi non è maturo, è evidente, ed è per quello che potenzialmente tiriamo in ballo una persona che ha un livello di competenze tecniche molto più alto, proprio perché dobbiamo compensare un'immaturità di struttura. ma la direzione verso cui vogliamo andare.
+Emilio Bendotti: M.
+Giovanni Conz: è questa e quindi lavoriamo per rendere l'architettura adatta a sviluppare
+Gabriele Colombo: Och
+Giovanni Conz: questo scenario oppure questo scenario non ci piace per altri motivi al di là del fatto che oggi in maniera contingente non abbiamo un certo tipo di maturità architetturale
+Emilio Bendotti: Io parlo alla fine perché Ah.
+Gabriele Colombo: Ah, se vo sentire
+
+
+00:27:25
+
+Giovanni Conz: e anche ele Alice proprio proprio in maniera libera, perché ovviamente è più un brainstorming che un prendo
+Gabriele Colombo: sperimentare. Io come visione forse mi avvicinerei più allo scenario che è vero, cioè richiede una maturità mh che non abbiamo e che bisogna eh creare, però è quello che poi ehm cioè su un'ottica più di medio e lungo termine vedo più cioè con più potenziale perché vuol dire che ehm c'è uno stream completamente nuovo e la la parte dei custom indipendente da prodotto tecno e quindi hai della capacity totalmente aggiuntiva.
+Emilio Bendotti: Beh,
+Gabriele Colombo: Invece no.
+Emilio Bendotti: M
+Gabriele Colombo: Emilia avi detto che parlavi alla fine. Cedo il mio
+Emilio Bendotti: scusate, andate avanti, sto facendo fatica. Adesso mi metto in muto,
+Gabriele Colombo: posto.
+Emilio Bendotti: così posso parlare da solo.
+Giovanni Conz: M.
+Gabriele Colombo: Sognare. Eh sì, sì,
+Giovanni Conz: Endo è quello che stiamo facendo.
+Gabriele Colombo: sì. Ah, infatti è quello
+Giovanni Conz: Quindi sostanzialmente ricordiamo,
+Gabriele Colombo: che
+Giovanni Conz: cioè ricordiamolo, dico ricordiamolo, in realtà parlo a me stesso perché me lo dimentico dopo 5 minuti. Lo scenario B è lo scenario in cui di fatto VM diventa una piattaforma in cui tutto ciò che non è evoluzione di prodotto, c**** di delivery o c**** di un partner che quindi ha sulle sue spalle non solo la potenzialità di configurazione, ma anche di customizzazione con un check solo peramo alcune opportunità non ci
+
+
+00:29:27
+
+Gabriele Colombo: Comunque come prodotto c'è preliminare che perché che vengono trovate come Certo.
+Giovanni Conz: venissero precluse. Ok, quindi tu, diciamo, potendo sognare vedresti
+Gabriele Colombo: Fatto.
+Giovanni Conz: questo. parlare tu.
+Emilio Bendotti: Ah, posso parlare?
+Giovanni Conz: F.
+Emilio Bendotti: Siete sicuri? Eh no, allora Anche secondo me lo scenario B, cioè quello a cui tendere. probabilmente si passa dalla prima ehm sotto certe forme, però se tutto dovesse passare, anche le customizzazioni ancora da prodotto, non abbiamo dato boost su niente, perché alla fine eh poi c'hai un lo stesso collo di bottiglia, nel senso che eh e oltre al fatto che lei ragionamenti che vengono fatti a livello di prodotto, i ragionamenti che vengono fatti a livello di customizzazione sono totalmente diversi, quindi anche prodotto dovrebbe agire in due modi diversi a seconda del progetto prodotto che gli arriva da fare. Cioè sono proprio robe totalmente diverse. Non vanno bene le le eh non vanno bene probabilmente le cadenze con cui si fa le cose prodotto, ehm i ragionamenti che si fanno di generalizzazione e tutto il resto, cioè essenzialmente quello che fa Prodotto nella customizzazione sono cose di troppo e e comunque di
+
+
+00:31:07
+
+Giovanni Conz: No, perione, scusa se ti interrompo,
+Emilio Bendotti: nuovo
+Giovanni Conz: ma è per dire nello scenario A, chiaramente prodotto prende in pancia le specifiche della customizzazione più o meno EIS, e gli dà un check formale e si occupa semplicemente di dirigere dirigere
+Emilio Bendotti: อ
+Giovanni Conz: le verso il team tecnico in maniera ordinata e prioritizzata, mentre tutto quello che è dominio di prodotto dovrebbe entrare all'interno delle delle modalità e delle cerimonie attuali. Quindi, secondo me, la differenza tra A e B è che nello scenario Abiamo ehm Poi questo Ok, dello scenario Abiamo più centralismo, che vuol dire sicuramente andiamo più lenti, ma abbiamo più garanzie perché tutto passa formalmente dal team prodotto. Nello scenario B andiamo più rapidi, è probabilmente più scalabile, ma la garanzia sul prodotto non è data. da un qualcosa di intrinseco alla struttura è data dalla buona volontà di chi si mette a sviluppare personalizzazioni di coinvolgere team prodotto e dire questo sì, questo no, perché se un partner se delivery se ne sbatte, fa le cose senza tra, cioè sta nel processo, non sa nella struttura eh la garanzia del fatto che poi il prodotto viene viene migliorato, per cui la mia proposta non era che prodotto trattasse le customizzazioni come tratta tutto il resto. sulle customizzazioni semplicemente pettina le specifiche e le mette nella pipeline.
+
+
+00:32:45
+
+Giovanni Conz: Sulle cose che sono di prodotto fa divergenza, convergenza, riflessioni, raccolta feedback, bla bla bla bla bla. Certo, c'è un problema di sincronia e e e appunto di centralismo, però giusto per chiarire, ovviamente la proposta non era che fos trattato alla stessa maniera,
+Emilio Bendotti: Mh mh.
+Giovanni Conz: perché sennò quello sì,
+Emilio Bendotti: Vabbè, comunque deve agire in due modi diversi a seconda di quello che gli arriva che
+Giovanni Conz: questo sicuramente
+Emilio Bendotti: ehm Vabbè,
+Giovanni Conz: sì.
+Emilio Bendotti: nello scenario B eh in realtà c'è cioè non lo so mh a parte il check check iniziale che secondo me ci deve per forza essere con prodotto per quanto riguarda la definizione del perimetro, anche perché il perimetro di prodotto, come abbiamo già visto che quest'anno cambia spesso, quindi non è che C'è una definizione non c'è una definizione fissa che puoi distribuire i partner a inizio anno e gli dici "Guarda, per i prossimi 5 anni si lavora così". No, eh, è come non puoi dirlo a Delivery perché domani cambia prodotto decide di tirarsi dentro anche tutta la parte di Charare, tutte le customizzazioni che facevano parte di quella roba là, in realtà m le vuoi come prodotto. Quindi quel check là ci deve essere.
+
+
+00:34:01
+
+Emilio Bendotti: l'altro, cioè che che non so ehm cioè che che è quello che vabbè il lato mio un po'assato mi spaventa, eh, è che probabilmente serve anche un check finale. Ehm, perché cioè quello che mi immagino è che le customizzazioni,
+Giovanni Conz: M.
+Emilio Bendotti: ok, le fa un partner o le fa delivery sono progetti separati. possono fare schifo a piacere, però in realtà non è proprio così perché come abbiam visto in tutte le le piccole customizzazioni che abbiam fatto con Azzurro, con azzurro o che abbiamo fatto noi stessi in realtà, cioè la qualità del prodotto viene valutata anche dalla qualità delle customizzazioni poi alla fine perché se dentro nella stessa piattaforma, se dentro nella stessa suite e quindi la qualità qualità del prodotto per quel cliente e se tutti i clienti iniziano ad avere una customizzazione è data anche dalle customizzazioni. Quindi ci sono degli standard che comunque alla fine vuoi che siano forzati da unness, da un processo dato dall'AI e poi ceccati dal teamch, ma in ogni caso una definizione sullo standard delle customizzazioni eh va fatto perché non è che viaggiano in parallelo e e vengono sviluppati poi inserito dentro a VM Suite, ma vanno sviluppati inseriti dentro a VM Suite. passano un processo di validazione e poi probabilmente anche là vengono confermati che poi questo processo di validazione, man mano che andiamo avanti, eh sarà sempre più una roba quasi formale perché abbiamo siamo stati talmente bravi ad aver messo in piedi già tutta una serie di processi di check prima fatti dall'AI piuttosto che da delle persone Yeah.
+
+
+00:35:57
+
+Gabriele Colombo: M.
+Emilio Bendotti: a un certo punto che arrivano, ti fanno arrivare alla fine del progetto che tutto è perfetto, ok, però in ogni caso serve probabilmente anche quella perché altrimenti la suite diventa una shit suite.
+Giovanni Conz: Assolutamente sì, però anche qui faccio un po', diciamo, commento a margine, eh, parlando qui internamente con varie persone più di qualche volta, eh, diciamo così, sento eh, c****, sto progetto qua bisognerebbe radere al suolo e rifarlo. Cioè, secondo me la qualità della delivery del progetto può essere una m**** o può essere fantastica anche solo se ci fermiamo alla configurazione. Quindi giusto, viene esasperato il concetto, però di fatto se uno fa una mappatura dei task che fa cagare o che fa determinate cose, eh magari fatta per limitazioni di prodotto e quindi per riuscire a girare intorno alle cose, poi alla fine incrocchi la configurazione, viene fuori un progetto di m**** anche solo come configurazione,
+Emilio Bendotti: Sì. Sì,
+Giovanni Conz: però
+Emilio Bendotti: ma infatti immagina potendo scrivere del codice che c**** può saltare fuori, no? Nel senso, però ci sono alcune cose tipo standard, non lo so, di sicurezza, alcune cose che obiettivamente c'è la la le variabili sono
+Giovanni Conz: Sì, sì, sì,
+
+
+00:37:26
+
+Emilio Bendotti: molte di più e quindi la potenzialità di m****
+Giovanni Conz: sì, sì.
+Emilio Bendotti: è devastante. oltre al fatto che essendo se poi quel progetto entra dentro pure nella parte infrastrutturale di AVM,
+Giovanni Conz: Chiaro,
+Emilio Bendotti: poi non ne dà di mezzo solo lui, ma
+Giovanni Conz: Chef Kiss.
+Emilio Bendotti: Ah.
+Gabriele Colombo: Chef,
+Giovanni Conz: Ok, tutto chiaro? Vabbè, e lato mio, ehm
+Gabriele Colombo: diciamo che ci sono considerazioni su due livelli. Uno è quello teorico.
+Giovanni Conz: per cui ovviamente se vogliamo
+Gabriele Colombo: È ovvio che la cosa a cui bisogna arrivare è più B, nel senso che ovviamente dobbiamo parlare di qualcosa che
+Giovanni Conz: e se che
+Gabriele Colombo: abiliti par è ovvio che dobbiamo creare qualcosa che
+Giovanni Conz: abiliti questo che abiliti quell'altro molto di
+Gabriele Colombo: porti che si scar nel piano A.
+Giovanni Conz: più
+Gabriele Colombo: Poi c'è il piano di questo
+Giovanni Conz: perché sì,
+Gabriele Colombo: progetto.
+Giovanni Conz: stiamo parlando un po' della teoria, però io ho sempre presente la pratica e
+Gabriele Colombo: La domanda che faccio è trovare il piano B.
+Giovanni Conz: è il progetto giusto con una complessità molto grande
+Gabriele Colombo: che c'è una PS da scrivere,
+
+
+00:38:29
+
+Giovanni Conz: per
+Gabriele Colombo: da consegnare entro gennaio. No,
+Giovanni Conz: disinnesco un pochino sta cosa, cioè non è che sia una PS
+Gabriele Colombo: però
+Giovanni Conz: Cioè, in realtà per come abbiamo di fatto disegnato un pochino la cosa, cioè è monociclo con qualche eccezione. Sì, cioè è una PS.
+Gabriele Colombo: non è responsabile molto molto semplificato. Kon.
+Giovanni Conz: No. Sì, sì, su quello sì.
+Gabriele Colombo: Ma
+Giovanni Conz: Cioè quello che tu dici è è un progetto eh dove la parte di customizzazione non è piccolina. avrei cominciato con un casco più così più che altro anche perché diciamo diciamo che
+Gabriele Colombo: dico, eh. Eh, sì,
+Giovanni Conz: potendo scegliere si si c'è poi il pragmatismo
+Gabriele Colombo: pero tante cose diver nel
+Giovanni Conz: del quello sizatro quindi il mio tema Ha.
+Gabriele Colombo: piano B. Eh, di fatto in questa situazione specifica ci troviamo a dover spostare poi tutta una una gestione su delivery per a questo punto mi sembra che stiamo escludendo. Sei fare quel test lì di di includere Carlo. Eh no, perché persone No,
+Giovanni Conz: Perché se mi state dicendo che non dobbiamo
+Gabriele Colombo: no, ma Carlo sì,
+
+
+00:39:39
+
+Giovanni Conz: avere
+Gabriele Colombo: quello che stiamo spedendo di Azzurro, cioè la su cui mi sembra che siamo orientati è la questione di Carlo che è un profilo un pochettino
+Giovanni Conz: più particolare.
+Gabriele Colombo: più nella gestione c rimane mi pare di capire quella è la stracci per il momento, cioè nel senso secondo me
+Giovanni Conz: il fatto che eh Carlo sia da coinvolgere nel progetto m mi sembra che sia che spostiamo più l'onere da un punto di vista teorico, se non vogliamo dire strategico, su delivery, fa sì che ci sia un peso maggiore e quindi Carlo farebbe un facente funzion di delivery. In questo momento le sue competenze tecniche andrebbero a compensare la limitazione, i limiti strutturali dell'architettura perché una persona non tecnica non riuscirebbe ad utilizzare e ad inserirsi in maniera eh così così semplice perché mancano dei pezzi.
+Gabriele Colombo: Oke,
+Giovanni Conz: Lui invece sì, perché ha quelle competenze, ma noi lavoriamo per far sì che oggi serve Carlo, domani non serve un ex sviluppatore per realizzare questo tipo di personalizzazioni. Se invece la strada è A e non do secondo me non è così scontato il fatto che sia B, cioè tu dici tu dicevi è ovvio che fare
+Gabriele Colombo: Vedi che di azzurro qualcosa?
+Giovanni Conz: alla secondo me non
+Gabriele Colombo: No,
+Giovanni Conz: abbiamo chiaro scusate allora se non ripetto avi capito che ah
+
+
+00:41:20
+
+Gabriele Colombo: esternalizzare la roba di azzurro. Quello che avevo capito era che B era la stava con Carlo. Ok. Ok.
+Emilio Bendotti: No, ma allora aspetta, aspetta,
+Gabriele Colombo: e insieme a quattro mani con Esattamente.
+Emilio Bendotti: aspetta, aspetta.
+Gabriele Colombo: Questo è quello. Quindi riepilogo.
+Giovanni Conz: gioco per tutti sostanzialmente con pennarelli che non
+Emilio Bendotti: Så
+Gabriele Colombo: Rieepilog
+Giovanni Conz: scrivo. Emilio, non vedi, ma neanche quelli nella stanza vedono.
+Gabriele Colombo: io forse che mi sono un attimo fra.
+Emilio Bendotti: sembra molto utile.
+Gabriele Colombo: Ok, quindi a E è una mediazione maggiore di prodotto,
+Emilio Bendotti: No, tu tutti
+Giovanni Conz: Arriviamo, arriviamo, arriviamo fino in fondo che è importante questo.
+Emilio Bendotti: Sì.
+Giovanni Conz: Andate a prendere dei pennarelli.
+Gabriele Colombo: Allora,
+Giovanni Conz: Io ne approfitto per togliere il virtual screen e così ci capiamo.
+Emilio Bendotti: E sia A che B possono essere visti. Vabbè.
+Giovanni Conz: Esatto.
+Gabriele Colombo: sì. Ok. Quindi privato, c'è una un discorso a dire
+Giovanni Conz: Attendere. Vogliamo che l'es.
+
+
+00:42:24
+
+Gabriele Colombo: specifiche delle customizzazioni vengano raccolte da delivery, vengano supervisionate dal team prodotto mh mh che semplicemente le pettina e le inserisce in una pipeline di sviluppo unitaria. Parla con team tecnico, il team tecnico sviluppa. Che differenza c'è tra customizzazioni e sviluppi di prodotto? il fatto che team prodotto dice questo, questo, questo, non me ne frega un c****, quindi le specifiche del cliente vanno bene. Questo, questo, quest'altro invece no, perché sono evoluzioni di prodotto, per cui non mi accontento delle specifiche del cliente, ma prendo queste, le metto insieme adne altre possibili richieste ed estensioni, vedo di sviluppare una cosa organica e poi quindi faccio design sprint, divergenza, convergenza, bla bla bla, tutte le cerimonie a cui loro sono abituati e inseriscono nella pipeline avere completamente due flussi separati. Perfetto. Quindi Carlo d'Avanzo è potenzialmente coinvolgibile in entrambi i casi, ma nel caso A, nel praticamente nel caso a andrebbe a configurarsi come componente aggiunto del team tecnico per dare una mano di sviluppo da questo punto di vista. Se invece la nostra visione è B, Carlo D'Avanzo, proveremmo a trattarlo come se fosse un consulente che oggi è in grado di sviluppare delle estensioni perché ha anche delle competenze tecniche.
+
+
+00:43:56
+
+Gabriele Colombo: Domani l'infrastruttura che costruiamo consente anche a una persona meno tecnica di sviluppare sta roba. Diciamo che nel caso A Carlo Dav è viene utilizzato come capacity del tech del team, mentre nel caso Bene utilizzato per compensare una carenza di competenze tecniche della Perfetto. Perfetto. Però il mio punto
+Giovanni Conz: Eh, non trovo un parello scrivere. Il mio punto è facciamo il progetto Oringone.
+Gabriele Colombo: Eh
+Giovanni Conz: non sarà il progetto che ci meritiamo, ma è quello di cui abbiamo bisogno, per cui in qualche maniera ce lo facciamo andare bene se vuole essere questo lo schema. Ma la domanda è: puntiamo a gestirlo con l'ottica di arrivare a B o con l'ottica di arrivare ad A? E solo
+Gabriele Colombo: Ok.
+Giovanni Conz: questo.
+Emilio Bendotti: Cioè io io però io però non riesco a vedere la fattibilità di a,
+Giovanni Conz: No,
+Emilio Bendotti: cioè Ma no,
+Giovanni Conz: no, ma scusa
+Gabriele Colombo: Ja. La a cosa vuoi?
+Emilio Bendotti: più che altro no. Ma sai perché? Anche perché anche perché Ma perché?
+Giovanni Conz: are una LAN nei confronti di A perché no? Perché
+Emilio Bendotti: Perché se ti arriva un progetto,
+
+
+00:45:06
+
+Giovanni Conz: dopo
+Emilio Bendotti: cioè ti arriva un progetto che esce totalmente fuori dal perimetro di da AVM e il
+Gabriele Colombo: Beh,
+Giovanni Conz: può uscire totalmente dal
+Emilio Bendotti: team vabbè e comunque già la pianificazione degli ordini già la pianificazione dell'ordine è abbastanza fuori,
+Giovanni Conz: per
+Emilio Bendotti: però poi metti che metti metti anche la parte di magazzino, cioè il punto è che con l'a il team prodotto dovrebbe metterci la testa su un dominio di cui magari non ha mai neanche sentito parlare o comunque ne ha sentito parlare poco. Cioè,
+Giovanni Conz: Ma perché Però,
+Emilio Bendotti: come
+Giovanni Conz: scusate, però scusate, scusate, scusate, scusate. No,
+Emilio Bendotti: fa?
+Giovanni Conz: adesso per arrivare a alla cosa, primo, oringone che sia fuori dal nostro perimetro, perché voi mi state dicendo che AVM non ha mai fatto pianificazione degli
+Emilio Bendotti: No, no.
+Giovanni Conz: ordini.
+Emilio Bendotti: Vabbè, ma adesso lascia perdere questo.
+Giovanni Conz: Ma come no, sulla Flex,
+Emilio Bendotti: Sì, l'abbiam fatto. Sì,
+Giovanni Conz: c****.
+Emilio Bendotti: ce l'abbiamo anche su Yem abbiam piionificato gli ordini.
+Giovanni Conz: Eh, siamo noi a verificare gli ordini.
+
+
+00:46:01
+
+Emilio Bendotti: Sì, l'abbiam fatto.
+Gabriele Colombo: Come no? Come no?
+Emilio Bendotti: Да.
+Giovanni Conz: C No,
+Gabriele Colombo: M no.
+Giovanni Conz: anche sulla Flex, c****, c'è sullenti su Beh,
+Gabriele Colombo: No,
+Giovanni Conz: sentiamo Elena da sto punto di vista. Comunque adesso eh cioè non so se avete letto le specifiche,
+Gabriele Colombo: beh, ma qui sarebbe uguale
+Giovanni Conz: ma si tratta di prendere la data prevista e fare un sort by data prevista. Fine. Fatto vedere velito di Oringone.
+Gabriele Colombo: Gabri, cioè, giusto per chiarire, così
+Giovanni Conz: Sostanzialmente il concetto è Oringone oggi pianifica
+Gabriele Colombo: Entriamo.
+Giovanni Conz: dicendo questo ordine è stato inserito in data 19 agosto a tempo di lavorazione 2 settimane data di consegna oggi più 4 settimane perché perché io consegno tutto a quattro settimane senza sapere nere scrivere. Domani 20 agosto ricevo un ordine che ha tempo di lavorazione 6 settimane, io dico che lo consegno a 4 settimane lo stesso e comincio a lavorare l'ordine del 19 perché li metto in ordine di data ricezione dell'ordine, non di data prevista di fine lavorazione. Quindi si tratta di e non teniamo conto dei tempi ciclo di tutte queste menate.
+
+
+00:47:33
+
+Giovanni Conz: Non esistono cicli.
+Emilio Bendotti: Ok.
+Giovanni Conz: C'è un ciclo di fatto con due eccezioni. Ma sì, sì, sì, sì. No, io
+Gabriele Colombo: Sono scettica sul fatto che, per carità,
+Giovanni Conz: sono
+Gabriele Colombo: magari se siete stati bravi a mettere un perimetro così così stretto, il cliente non si rende conto di essere, cioè di avere in mano una roba che non vi serve a un c****, però perché fatto così non ha nessun senso che Yeah.
+Giovanni Conz: spiegami Mec. tu il fatto che ti arriva un ordine, ok? E tu devi pianificare a livello conduttivo la cosa. Se tu non potrebbe
+Gabriele Colombo: la incastri anche banalmente sul fatto che c'è un tempo di attraversamento di questa
+Giovanni Conz: essere diverso,
+Gabriele Colombo: cosa,
+Giovanni Conz: ok, da un prodotto all'altro o anche da una quantità
+Gabriele Colombo: cioè voglio dire,
+Giovanni Conz: all'altra.
+Gabriele Colombo: vedevo un ordine da 100 pezzi e un ordine da 1000 pezzi, anche bene l'ordine da eh 1000 pezzi abbia una data di scadenza più avanti di quello da 100. Se io a livello di tempo produttivo, se devo rimanere sulla promis devo partire prima a produrre.
+
+
+00:48:34
+
+Giovanni Conz: siete quindi e quindi vuol dire che non è che ci basiamo solo su
+Gabriele Colombo: gli ho promesso la data,
+Giovanni Conz: quant
+Gabriele Colombo: ma devo fare una valutazione anche di quello che è il mio tempo produttivo in base a cose, no, però attenzione
+Giovanni Conz: è proprio questo, cioè siccome hanno un unico ciclo di cioè asterisco perché hanno due, però di fatto dato un ordine in base alla tipologia dell'ordine, del materiale e alla quantità, lo declinano secondo determinati tempi. Il loro problema è che oggi ogni capo reparto di ogni fase vede l'elenco di priorità sulla base dell'ordine ricevuto prima e invece bisogna metterlo in ordine data consegna, quindi di Ok,
+Gabriele Colombo: data con scusatemi,
+Giovanni Conz: quindi adesso abbiamo capito esattamente il contrario.
+Gabriele Colombo: oggi non sono molto non sono molto attenta, cioè che che continuano a vederlo in ordine di data di data di arrivo che non semplicemente sostanzialmente M.
+Giovanni Conz: La sequenziazione la fanno loro, quindi tu devi dirgli, guarda che c'è l'ordine A, B, C, D e F sulla base dei tempi di lavorazione che ci sono a Valle. è una cosa che noi riceviamo in Ok,
+Gabriele Colombo: Mi stai dicendo esattamente da controllone fare nel mezzo perché allora questi sono gli
+Giovanni Conz: allora io non ho capito che cosa che cosa bisogna
+
+
+00:49:56
+
+Gabriele Colombo: ordini che potremmo ricevere. Punto stop. una data inizio una data p serve l'integrazione con un piano produttivo che cos per ogni fase Sì, cioè noi dobbiamo comunque che è quello che potrebbe esserci con Backux, scusate. Allora, questione non riesco a capire allora che custom dobbiamo fare perché mi sembra un'integrazione col piano produttivo o seè solo questo m cioè allora c'è anche un tema
+Giovanni Conz: Loro non hanno uno strumento di gestione del piano produttivo.
+Gabriele Colombo: lo
+Giovanni Conz: È proprio quello che ci chiedono. Se ci state mi state dicendo
+Gabriele Colombo: e noi riceviamo in input la il dato già ordinato con la data inizio
+Giovanni Conz: che
+Gabriele Colombo: data
+Giovanni Conz: questa roba da dove ci arriva? Arriva da un sistema che ha questi dati ma non ha le schermate per mostrarli
+Gabriele Colombo: Arri
+Giovanni Conz: secondo queste logiche. E però se noi dopo li importiamo noi
+Emilio Bendotti: Vabbè, ma anche modificarli, cioè
+Gabriele Colombo: ma a parte che cioè allora secondo me allora non è un cyberpl,
+Emilio Bendotti: Non
+Giovanni Conz: Come?
+Gabriele Colombo: sono d'accordo, non è neanche un integrazione col piano produttivo, è un qualcosa nel mezzo. So po
+Emilio Bendotti: ma scusa Yeah.
+
+
+00:50:58
+
+Emilio Bendotti: Un attimo, non c'era un algoritmo una volta di mezzo, però
+Gabriele Colombo: Ma quello era l'algoritmo di qualità che fai? No, quello
+Giovanni Conz: Qualcosa che dobbiamo gestire.
+Emilio Bendotti: no, ma l'altra volta avevate detto che c'era anche un un algoritmo per quando,
+Gabriele Colombo: Eh,
+Emilio Bendotti: ad esempio, si arrivava oggi l'ordine per gestire gli ordini quelli prioritari e quindi dovevi rischedulare gli ordini
+Giovanni Conz: Ma attenzione, attenzione,
+Emilio Bendotti: nel
+Giovanni Conz: non è un tema però di eh di nuovo sì,
+Emilio Bendotti: Ah,
+Giovanni Conz: ma non è che sia un algoritmo, è un sort by date,
+Emilio Bendotti: ok.
+Giovanni Conz: solamente che oggi potrebbero entrare degli ordini che hanno data di destinazione domani e quindi si inseriranno nell'elenco degli ordini. che erano previsti per domani, che l'abbia inserito un mese fa,
+Emilio Bendotti: Ok,
+Giovanni Conz: che ieri è un c****
+Emilio Bendotti: ok.
+Giovanni Conz: di sort.
+Emilio Bendotti: Mm.
+Giovanni Conz: Allora, è evidente che quello
+Gabriele Colombo: che ci manca sicuramente è stato il contatto col cliente e l'analisi, poi insomma se tu che ci sei stato, perché ripeto da un lato mi sembra più, cioè quasi che non ci sia sto caston, dall'altro mi domando che quindi che cosa ci stanno pagando.
+
+
+00:52:04
+
+Gabriele Colombo: Vabbè, voglio dire, scusami, cioè però tutto quel tema delle giacenze, riordini state le prime eccetera, che dobbiamo fare anche le proposte di riordine eccetera. Sì. Allora, diciamo
+Giovanni Conz: Eh, c'è un una parte a monte anche di suggerimento,
+Gabriele Colombo: che
+Giovanni Conz: cioè una schermata presi i dati che loro hanno di giacenza e di nuovi ordini, sostanzialmente si tratta di mostrare una schermata che evidenzia i delta materiale tra gli ordini che sono stati inseriti e le quantità a magazzino. Gli ordini che sono stati inseriti ce li mandano loro, le quantità a magazzino ce le mandano loro e uno potrebbe dire "Ma non si possono fare loro una c**** di schermata?" Potrebbero, ma non lo fanno. Però di fatto è una schermata che mostra questi c**** di delta, ok?
+Gabriele Colombo: Так.
+Giovanni Conz: Potenzialmente dando delle informazioni sui dati storici, ok? Eh, ti suggerisco, ti faccio vedere che eh nello stesso periodo dello scorso anno eh è stato acquistata un sacco di roba, però in realtà anche quello secondo me ha poco senso, nel senso che loro hanno detto che hanno avuto aumenti record di anno in anno, quindi mh non il dato storico ha poca valenza. Vabbè, comunque tornando al discorso
+
+
+00:53:28
+
+Gabriele Colombo: principale che non volevo aprire una discussione poi nel merito, anche perché secondo me bisogna parlare col cliente, venire un pochettino là nel dettaglio, poi magari anche guardare meglio poi il perimetro che che avete definito insieme. nel documento, cioè sicuramente mh ripeto, se dobbiamo fare allora mi sembra che non è in discussione l'outsourcing verso verso azzurro, quindi questa mi sembra che sia già una prima decisione che dovevamo prendere. La questione fondamentale,
+Giovanni Conz: Yeah.
+Gabriele Colombo: secondo Secondo me è sicuramente che se vogliamo fare qualcosa per il futuro è in dubbio che avere e mantenere un collo di bottiglia su prodotto potrebbe non essere sostenibile sul sul lungo periodo. Il motivo per cui sicuramente anch'io vedo B come più eh praticabile come come cosa, anche perché ehm ammetto, la vedo anche egoisticamente rispetto a eh la libertà che potrebbe avere anche dei un in un futuro. dopo, salvo fatto i check che giustamente dice Emilio e che magari si possono guidare con la parte di infrastruttura che se vuoi è il percorso che stiamo anche già un po' facendo con la questione delle dashboard. Sì, quindi a un certo punto e va
+Emilio Bendotti: Sì, diciamo che su quella parte là stiamo già andando sul B.
+Gabriele Colombo: bene.
+Emilio Bendotti: Eh,
+Gabriele Colombo: Sì, infatti. No, no, ma quello è ovvio che è quella la cosa, perché cioè se era
+
+
+00:54:53
+
+Emilio Bendotti: come con le integrazioni stiamo andando sul B.
+Giovanni Conz: che facevo l'altra volta,
+Gabriele Colombo: quello sempre un collo di bottiglia sul prodotto,
+Giovanni Conz: cioè se alla fine io mi trovo ad avere comunque punto di vista
+Gabriele Colombo: alla fine a livello di velocità, guardandola da un delivery,
+Giovanni Conz: partner dal punto di vista
+Gabriele Colombo: è ovvio che ehm la cosa mi si depotenzia un pochettino, quindi senz'altro eh è quello il tema. Ehm, e quindi va bene, insomma, cioè se cioè il B è è quello che se dobbiamo fare sto test e vale la pena testare, anche perché non so, l'unica discriminante che potrebbe essere è quanto varia l'effort da uno all'altro. Cioè, se mi dite che il B è meno effort, eh, è tanto, cioè che A è tanto meno effort di B, ma non penso Allora, secondo me, se secondo me siamo lì. Sì, esatto. Cioè, per questo caso di Oringone, secondo
+Emilio Bendotti: Sì. Beh,
+Gabriele Colombo: me,
+Emilio Bendotti: adesso eh parlate per voi,
+Giovanni Conz: Aspetta, io io ho domandato
+Emilio Bendotti: nel senso no nel senso e il B,
+Gabriele Colombo: io ho domandato, ho detto se
+Emilio Bendotti: cioè rendere indipendenti delle persone non tecniche non è un problema da poco.
+
+
+00:56:07
+
+Emilio Bendotti: Cioè, nel senso, la l'informatica lo sta cercando di fare da da da 30 anni. Eh,
+Giovanni Conz: In effetti sì.
+Emilio Bendotti: cioè non è un problema da poco il fatto che adesso sia diventato un attimo più semplice perché cioè più semplice perché con l'AI puoi trasmettere quello che pensi in un linguaggio naturale, non sotto forma di linguaggio di codice. Ciò non toglie il cosa gli stai dicendo e le decisioni che stai prendendo. Quelle sono quelle che secondo me alla fine di questo giro vanno comunque ceccate perché le decisioni architetturali che prendi su un progetto o su un prodotto sono quelle che poi alla fine fanno la differenza. Adesso l'unica parte che è stata automatizzata è la traduzione di questi idee in codice. Ok? quella parte sta venendo sempre più automatizzata, non è stata automatizzata l'altra semplicemente per il fatto che per sapere dove vuoi andare devi anche sapere come più o meno un'idea di come ci si arriva perché l'E può dire però devi fornirgli il contesto giusto. Fornire il contesto giusto è un c**** di problema tutte le volte. Quindi, eh,
+Giovanni Conz: อ
+Emilio Bendotti: nel senso, si può fare il B, ci sono degli step aggiuntivi che secondo me mh di cui bisogna tenere conto se non vogliamo produrre un marea di di sheet e non ti vedo,
+
+
+00:57:32
+
+Giovanni Conz: Sì,
+Gabriele Colombo: C sostanzialmente
+Giovanni Conz: è questo il punto.
+Emilio Bendotti: quindi può
+Giovanni Conz: No, no,
+Emilio Bendotti: essere.
+Giovanni Conz: sì. Cioè, sostanzialmente noi stiamo stiamo dicendo
+Gabriele Colombo: Eh
+Giovanni Conz: sviluppa comunque il team tecnico con Prod che incanala le cose o sviluppa delivery in autonomia.
+Emilio Bendotti: Sviluppa delivery in autonomia nei casi gestiti.
+Giovanni Conz: Sì, per i per per le customizzazioni ovviamente.
+Emilio Bendotti: Sì, per le customizzazioni fino a un certo livello,
+Giovanni Conz: Sì, però comunque
+Emilio Bendotti: tipo la già per quanto riguarda la roba Power BI, già per quanto riguarda la cosa delle delle integrazioni, quella era la versione super easy, la la customizzazione tipo quella Oringone, anche quella a tendere sarà di delivery, però lo standard su come vengono fatte le cose deve essere definito da qualcun altro.
+Gabriele Colombo: Sì, chiaro.
+Emilio Bendotti: Cioè, nel senso,
+Giovanni Conz: è Prod
+Emilio Bendotti: seò stai senò stai facendo un PC su Versel e e non ha nulla a che fare
+Giovanni Conz: che
+Emilio Bendotti: con Oltre al fatto che comunque eh c'è un controllo sul fatto che ti sta inserendo in un insieme di servizi e in un prodotto
+Giovanni Conz: sì, quindi quindi Prod definisce lo scope.
+
+
+00:59:01
+
+Giovanni Conz: Oggi Prod dice lo scope di sta roba sono solo le dashboard. domani potenzialmente sono anche cose più estese.
+Emilio Bendotti: Sì.
+Giovanni Conz: Cioè,
+Gabriele Colombo: concettuale,
+Giovanni Conz: diciamo a
+Gabriele Colombo: secondo me, cioè è esattamente identico a quello che stiamo facendo adesso per la parte di BI.
+Giovanni Conz: livello
+Gabriele Colombo: Ok? Quello che cambia quella che cambia la complessità, cioè nel senso qua siamo ordini di grandezza. Ok? Quindi se Oringone vuole essere un,
+Emilio Bendotti: Ah.
+Gabriele Colombo: diciamo così,
+Giovanni Conz: così. uno dei progetti che ci porterà all'avvicinamento di questo scenario. Sostanzialmente noi faremo in maniera tale di coinvolgere Carlo Dav e di trattarlo, tra virgolette, di fare in maniera tale che lui sia considerato come un consulente di delivery che in questo momento compensa con le sue competenze quello che l'architettura non consente di fare in maniera così sicura.
+Gabriele Colombo: Sì.
+Giovanni Conz: ci torna teorico e quindi
+Gabriele Colombo: contorno
+Giovanni Conz: questo significa, cioè diciamo sulla piegabilità in
+Gabriele Colombo: momento. Poi magari sono io pessimista, però non lo so. Ok.
+
+
+01:00:21
+
+Gabriele Colombo: E questo significa
+Giovanni Conz: che la destinazione di delivery è quella
+Gabriele Colombo: che
+Giovanni Conz: di diventare discretamente familiar con cloud code con uno strumento ai che ti permette di fare
+Gabriele Colombo: o se poi sia Cloud o
+Giovanni Conz: coding
+Gabriele Colombo: altro su questo
+Giovanni Conz: allineati.
+Gabriele Colombo: siamo,
+Emilio Bendotti: Vabbè,
+Giovanni Conz: Ok. Sì, ma a livello di direzione secondo me Sì,
+Gabriele Colombo: cioè penso Abbiamo già cominciato la mio dubbio è
+Giovanni Conz: come dashboard.
+Gabriele Colombo: ovviamente il perimetro, cioè un perimetro molto più più in questo caso
+Emilio Bendotti: Ma infatti di sicuro adesso eh non c'è nessuno di delivery che possa mettere che possa fare un
+Gabriele Colombo: qua
+Emilio Bendotti: customingone.
+Giovanni Conz: Stiamo stavamo approcciando
+Gabriele Colombo: ripeto, la questione delle dashboard e appunto stavamo cominciando a tirare dentro anche altri consulenti su quella
+Emilio Bendotti: Ne.
+Gabriele Colombo: parte lì. Ovviamente qua adesso ovviamente sarà necessario appunto avere un supporto magari effettivamente da per chi ha una formazione un pochettino più più tecnica e quindi lavoreremo più sulla parte consulenziale di analisi e magari l'occasione per per una formazione, insomma, per affiancare Carlo, provare a vedere, insomma, quello che che fa e quello che come bisogna muoverci in questa in questo contesto ci mette.
+
+
+01:01:50
+
+Gabriele Colombo: Sì. Eh, allora
+Giovanni Conz: sulla parte di dashboard. Sì, ne ero consapevole, diciamo, che il flusso A e B eh diciamo che quando avevamo parlato anche con Emilio e vabbè con una serie
+Gabriele Colombo: sulla
+Giovanni Conz: di altre persone per cui abbiamo impostato quel lavoro lì, il tema era finché si tratta di solo la visualizzazione, cioè uno potrebbe anche dire questo è un flusso che riguarda le realizzazioni di sola visualizzazione perché sono molto meno delicate. Questo è il flusso delle personalizzazioni che richiedono la gestione di un altro dominio di dato. Quindi ribadisco, il mio era un tema, è una domanda, mi sembra non scontata o comunque bene bene da esplicitare. Comunque mi sembra che ci sia abbastanza consensus che questa è la direzione. Per quello che riguarda la l'affiancamento a Carlo DV, non è solamente affiancarlo per imparare da lui, ma è che cercheremo di fare le cose, di capire quali sono gli strumenti che servono per compensare il fatto che ci sono determinate cose che non è che ti metti a fianco una settimana e le impari e è buona. Cioè, eh la profondità tecnica di competenza deve essere diminuita grazie al supporto dell'infrastruttura che ti consente di evitare determinate problematiche perché cioè non è non può essere la formazione di di Ventum dev.
+
+
+01:03:18
+
+Giovanni Conz: No, quello certo,
+Gabriele Colombo: che a quel punto lì,
+Giovanni Conz: Non,
+Gabriele Colombo: cioè Non ha senso creare niente. Metti un appunto e fai facciamo un altro un altro tipo di percorso de che sono appena
+Giovanni Conz: come tipo di mestiere non ci mettiamo di certo a a inventarli.
+Gabriele Colombo: morti.
+Giovanni Conz: Va bene. Ok. Ok. Va bene. Quindi procediamo così. Mi sembra di sentire eh un bel po' di perplessità invece rispetto al tema concreto. Quindi proviamo a direzionarlo verso questa roba qua, verso B. mi sembra di sentire di, diciamo così, un po' di scetticismo rispetto al al contenuto di Oringone. Io sono stato l'unico dal cliente, mi sono esposto con loro e in una certa maniera abbiamo un documento,
+Emilio Bendotti: Ah.
+Giovanni Conz: capisco giustamente la la preoccupazione. A questo punto mi viene da dire facciamo un un piccolo team di lavoro, cioè definiamo qual è il team di lavoro, perché io ci devo essere dentro di sicuro, perché altrimenti dico è facile, è facile e poi dico fate voi, non è il caso. Gabri mi sembra che sia discretamente coinvolto, per cui in qualche maniera gli toccherà.
+
+
+01:04:32
+
+Giovanni Conz: Carlo Dav è una persona che abbiamo detto proviamo a coinvolgere in maniera tale che eh diciamo eh si metta in questo in quest'ordine di idee e ci penso io a coinvolgerlo. Chi altro pensate sia necessario che entri nelle specifiche di Oringone? Necessario mettere. Non ce la fai con Gabri da solo e Carlo
+Gabriele Colombo: Perché in tre settimane perché Gabri
+Giovanni Conz: Dav.
+Gabriele Colombo: Sì,
+Giovanni Conz: E se Gab se
+Gabriele Colombo: da a Carlo vuoi far fare attività di racconto specifico il cliente?
+Giovanni Conz: Carloiamo
+Gabriele Colombo: Beh, abbiamo detto che
+Giovanni Conz: Carlo Dav come un super consulente.
+Gabriele Colombo: considerazione
+Giovanni Conz: È una domanda per voi? Cioè, nel senso, io avevo fatto una consulazione affiancare, anche proprio perché ripeto,
+Gabriele Colombo: di facciamo solo da parte nostra che in teoria poi fra
+Giovanni Conz: il perimetro era cambiato,
+Gabriele Colombo: l'altro doveva partire mentre azzurro faceva l'analisi e quindi si incrociava bene anche con l'assenza di
+Giovanni Conz: quindi
+Gabriele Colombo: Gabriele a dare continuità a settembre, anche perché Gabri ci ha detto che i tempi ci sono anche contratti da un punto di vista della consegna, quindi eh abbiamo
+Giovanni Conz: è una proposta dichiaratamente ambiziosa,
+Gabriele Colombo: Sì,
+
+
+01:05:49
+
+Giovanni Conz: quindi Ah, certo. Però però m No, secondo me,
+Gabriele Colombo: un altro consulente meglio ci sia comunque più che
+Giovanni Conz: perché appunto Sì,
+Gabriele Colombo: altro
+Giovanni Conz: sì, era una domanda e per me non è che voglio era semplicemente Eh, se non vogliamo, cioè
+Gabriele Colombo: me anche perché qui sicuramente la parte di Carlo sarà quello sarà prezioso sulla parte tech. però sulla parte di raccolte specifiche di definizione di cose,
+Giovanni Conz: M.
+Gabriele Colombo: insomma, voglio che non ce la tiiamo, però insomma No, no, so che noi poveri consulenti non siamo granché, però insomma un po' di esperti su questa cosa, magari ce l'abbiamo, anche se e già anche per, diciamo, per il team di AVM sicuramente magari è un terreno già leggermente diverso da quello che sono abituati perché sono comunque specifiche il termine custom più un approccio vista da, diciamo così,
+Giovanni Conz: Eh,
+Gabriele Colombo: sicuramente un altro chi potrebbe Vbè,
+Giovanni Conz: Alberto. Alberto
+Gabriele Colombo: sì. M S Eh sì,
+Giovanni Conz: aizete
+Gabriele Colombo: Stefano ci vè c avevo pensato. Potrebbe essere anche lui. Parliamone c'è un altro c'è un altro tema.
+
+
+01:07:07
+
+Gabriele Colombo: Sì, però mh cioè va bene.
+Giovanni Conz: voi a dirmelo ovviamente, però appunto attendo Siccome tiro io un pochino le file, appunto, per mettere la faccia su sulla cosa, butto di là è una provocazione, nel senso che siccome si tratta di andare a capire qual è anche un po'
+Gabriele Colombo: M.
+Giovanni Conz: la destinazione e il ruolo del team delivery, se vuoi metterti buttarti nella cioè se vuoi considerare di buttarti nella mischia,
+Gabriele Colombo: Voglio
+Giovanni Conz: allora io mi perché capite è un progetto chiaramente che ha un
+Gabriele Colombo: direione,
+Giovanni Conz: una cosa cosa un po' più ampia, però insomma No, no, no, no.
+Gabriele Colombo: ma la lascio a te. Gi spiego adesso la questione, quindi qual è? E per carità, l'ho pensato anch'io. Possiamo magari fare un attimo una valutazione perché c'è un altro fronte che ho paura che mi si apra per carità, adesso
+Emilio Bendotti: Ah,
+Giovanni Conz: Invece avevo già preso in io.
+Emilio Bendotti: ma sei qua?
+Gabriele Colombo: bravissimo.
+Giovanni Conz: È là, è là. Adesso te lo lasciamo. Non so chi fosse, ma la mamma eh mamma
+Emilio Bendotti: È mia madre. Sì,
+
+
+01:08:17
+
+Giovanni Conz: saluta
+Emilio Bendotti: tutti che mi vogliono. Non è che posso essere dappertutto, voglio
+Giovanni Conz: lasciamo
+Emilio Bendotti: dire.
+Gabriele Colombo: No, ripeto, lì c'è il proio Ferrari,
+Giovanni Conz: andare.
+Gabriele Colombo: per cui io avevo l'avevo messo in in piano di esserci io in prima persona, perché banalmente e lì ho parlato con Vinelli,
+Giovanni Conz: non c'è nessuno, però
+Gabriele Colombo: ha detto che boh,
+Emilio Bendotti: Ok.
+Gabriele Colombo: non e anche lì poi ci sarebbe un discreto problema techo che anche il buon Emilio mi aveva detto che voleva rifare tutto e beh, ma anche perché
+Giovanni Conz: Tutto per gettare altri due tre barili di benzina sul fuoco.
+Gabriele Colombo: Giusto.
+Giovanni Conz: Cioè Ferrari che fa un time sheet che non abbiamo. mh è un oringone, è una roba tipo quella roba là, o è prodotto o è Perché a me verrebbe da dire Sì, sì, ma infatti era già Allora Yeah.
+Gabriele Colombo: Ferrari era era stato previsto m diciamo ed è stata ed è stato sviluppato un un touchhet eh con un un
+Emilio Bendotti: Yeah.
+Giovanni Conz: separato,
+Gabriele Colombo: modulo,
+Giovanni Conz: gestito da un altro da un altro M.
+Gabriele Colombo: sì, cioè se volete la la tutte queste cose qui le abbiamo già fatte e qui è sempre una specie di di ritorno, no?
+
+
+01:09:32
+
+Gabriele Colombo: Ehm e l'idea appunto di Emilio era sì, però è stato fatto, però è un modulo che è incastrato in una maniera sbagliata. il motivo per cui poi bisognava effettivamente andare a fare un un disaccoppiamento e forse c'era anche il tema effettivamente se questo time c'è qualcosa, visto che se vuoi stiamo vedendo che a livello manifatturi il tema del team è qualcosa che su non c'è che qualcuno potrebbe zché seò sono
+Giovanni Conz: Sì, ecco.
+Gabriele Colombo: tutti ti.
+Giovanni Conz: Zhet non c'è.
+Gabriele Colombo: Mh, quindi vabbè, sicuramente avrebbe aperto una discussione anche quello nella nella gestione. Ehm, sì, e qui si comunque non abbiamo bisogno.
+Giovanni Conz: di decidere oggi. A me verrebbe da dire,
+Emilio Bendotti: quasi.
+Giovanni Conz: magari non dobbiamo decidere oggi qual è il team. Vabbè,
+Emilio Bendotti: Ah,
+Giovanni Conz: datemi Ringone,
+Emilio Bendotti: ok.
+Giovanni Conz: quindi ci diamo qualche giorno, eh, approfittiamo magari la settimana prossima, Gabri, per entrare ancora un pochino di più nelle specifiche perché uno non ci sono. No, ma io e te, voglio dire. Ah, ok. che così
+Emilio Bendotti: Sì, scusa.
+
+
+01:10:40
+
+Giovanni Conz: proviamo.
+Emilio Bendotti: La la parte eh la parte tech,
+Giovanni Conz: è la parte tre che deve sviluppare la roba per far
+Emilio Bendotti: cioè abbiam detto sì,
+Gabriele Colombo: ei,
+Emilio Bendotti: eh fa sviluppare Carlo D'Avanzo.
+Gabriele Colombo: in questo
+Giovanni Conz: sviluppare
+Emilio Bendotti: Vabbè, poi vediamo fino a che punto arriverà la l'indipendenza di delivery su questa cosa nel nel tendere, perché cioè boh, nel senso deve ovviamente sia cioè sia
+Giovanni Conz: però posso darvi un posso darvi un consiglio?
+Emilio Bendotti: delivery che eh sì.
+Giovanni Conz: Gestiamo questa cosa qua con lo spirito e la filosofia agile. Non pretendiamo di definire già oggi tutto il perimetro di come saranno le cose della sem sperimentiamo sapendo che è una sperimentazione, avendo chiara la destinazione e definendo le specifiche solamente del breve termine e poi per raffinamenti successivi arriveremo a alla cosa perché non ci arriveremo sedendoci in una stanza pensando forte, definendo tutte le specifiche che ci servono da qua all'anno prossimo.
+Emilio Bendotti: che avevo quasi finito adesso.
+Giovanni Conz: Vediamo cosa c'è da fare prima dopo. Vediamo. Quindi diciamo che eh sfruttiamo questo tempo, diciamo, la settimana prossima io e Gabri per tuffarci in qualche specifica in più eh relativamente a come questa roba possa essere sviluppata, in maniera tale che, diciamo così, accendiamo la luce sotto il letto o dentro l'armadio e vediamo se veramente c'è un mostro oppure se le cose non No. così complicate.
+
+
+01:12:23
+
+Giovanni Conz: Io sono un inguaribile ottimista ovviamente, ma dall'altra parte poi appunto proviamo a guardare a guardare un po' nel concreto, tanto questi di Oringone non ce non ci sono e la festa è finita.
+Emilio Bendotti: Ma
+Giovanni Conz: Nel frattempo vediamo cosa succederà come eh
+Emilio Bendotti: no.
+Giovanni Conz: riscontri da Ferrari e come riflessioni interne al Team del Delivery su chi potrebbe essere la persona da affiancare al buon Gabri. Io quando rientra Carlo Dav eh farò con lui un po' il punto per dirgli che comunque ci sarà un suo coinvolungimento da questo punto di vista e ci
+Emilio Bendotti: Sì. Eh,
+Giovanni Conz: riaggiorniamo
+Emilio Bendotti: ok. E quindi eh lato lato tech dobbiamo considerare un po' di un po' di effort su questa cosa, no?
+Giovanni Conz: di sì.
+Emilio Bendotti: Perché, cioè, se non vogliamo tirar fuori un modulo vibe coded che non parla con nessuno e che di cui non abbiamo imparato niente.
+Giovanni Conz: Direi di
+Emilio Bendotti: Ok? Eh,
+Giovanni Conz: sì.
+Emilio Bendotti: quindi, detto ciò, vabbè, ci serve un po', cioè, qualcosa di prodotto, forse qualcosa qualcosina dobbiamo spostarlo. Cioè, chiaramente rispetto all'impatto di avere una persona dedicata del team full time fino a gennaio è diverso, però qualcosina comunque c'è.
+
+
+01:13:45
+
+Giovanni Conz: Certo. Vabbè, poi questo, insomma, come al solito Elena farà il maestro di cerimonie, si capirà che cosa posticipare, come barcamenarsi in questo mare procelloso. E quell'altro tema facile anche
+Gabriele Colombo: Cosa del cosa che sta seguendo Carlo veramente su pausa.
+Giovanni Conz: capire
+Gabriele Colombo: Ja.
+Emilio Bendotti: Sì, quello diciamo che aveva una scadena,
+Giovanni Conz: in quelliamo
+Emilio Bendotti: cioè no, quello quello era fino più o meno fino a fine
+Giovanni Conz: così.
+Emilio Bendotti: settembre è la parte che ci interessa di più.
+Giovanni Conz: Ah, ok.
+Emilio Bendotti: Poi il resto, vabbè, capiamo perché probabilmente alcuni di quei prodotti mi vien da dire che forse dovremmo tirarceli dentro un pochino nel TeamTech
+Gabriele Colombo: Да.
+Emilio Bendotti: perché perché sono fanno parte di quell'abilitazione,
+Giovanni Conz: C
+Emilio Bendotti: eh.
+Giovanni Conz: esatto,
+Emilio Bendotti: che che di cui, diciamo, abbiamo l'onere noi.
+Gabriele Colombo: Stavo per dirlo io.
+Giovanni Conz: è in convergenza. lui quello che aveva in pipeline era comunque il fatto che si potesse
+Gabriele Colombo: No.
+Giovanni Conz: lavorare su customizzazione eh dei dati per poi dirigersi verso la customizzazione anche delle cose. Quindi c'è una convergenza, c'è magari uno shift e nell'ownership, ma ci può stare, insomma. Ok. Ciao Emilio, saluta la mamma. Buona continuazione.
+Emilio Bendotti: Ciao. Ciao.
+Gabriele Colombo: Sì.
+Giovanni Conz: Ciao
+
+
+Trascrizione terminata dopo 01:15:26

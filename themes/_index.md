@@ -9,3 +9,4 @@ Elenco di tutti i temi tracciati. Aggiornato ogni volta che nasce un tema nuovo.
 | skill-matrix-competenze | [themes/skill-matrix-competenze.md](skill-matrix-competenze.md) | 2026-06-05 | 1 |
 | safety-compliance | [themes/safety-compliance.md](safety-compliance.md) | 2026-06-05 | 1 |
 | floor-view | [themes/floor-view.md](floor-view.md) | 2026-08-19 | 1 |
+| modello-prodotto-custom | [themes/modello-prodotto-custom.md](modello-prodotto-custom.md) | 2026-08-19 | 1 |
