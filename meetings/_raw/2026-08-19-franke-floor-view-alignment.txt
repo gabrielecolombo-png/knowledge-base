@@ -1,0 +1,310 @@
+Aug 19, 2026
+Floor View - alignement - Transcript
+00:01:23
+
+Gabriele Colombo: Hello.
+Alicja Dębek: Hello.
+Gabriele Colombo: Hi.
+Alicja Dębek: I Hello. I hear uh myself. So, it was strange.
+Gabriele Colombo: Everyone's from my microphone.
+Alicja Dębek: I don't know. But I hope I don't know.
+Gabriele Colombo: Do you still hear you yourself?
+Alicja Dębek: Okay. Now it's okay.
+Gabriele Colombo: No, it's okay. Okay.
+Alicja Dębek: Yes. Yes. Sure.
+Gabriele Colombo: How are
+Alicja Dębek: I'm fine. Thank you.
+Gabriele Colombo: you?
+Alicja Dębek: I'm very good. after holiday. Summer is uh I think uh right now um the end of the summer in Poland already. So we don't have nice weather as always.
+Gabriele Colombo: Yeah.
+Alicja Dębek: We had you know two weeks maybe of the summer.
+Gabriele Colombo: Were you in Italy this time as always? Because I know that you go skiing on the Dolommites usually.
+Alicja Dębek: Yeah. No,
+Gabriele Colombo: You told me couple of times.
+Alicja Dębek: no,
+Gabriele Colombo: Yeah.
+Alicja Dębek: no. Uh, now in the in this year I was in a Spain on the north of Spain.
+
+
+00:02:26
+
+Alicja Dębek: Yes.
+Gabriele Colombo: Nice.
+Alicja Dębek: So it was really good time and there was not so hot because it was 28° 30. So it was exactly what I what I like. So uh and this is really green you know land and beautiful beautiful country on the on the south it's not so perfect as on the north but Italy I you
+Gabriele Colombo: Yeah. Yes, that's true.
+Alicja Dębek: know I uh because I'm three weeks after my holiday or four weeks and now I'm planning the next one and I thought about the um Gardi Ga Lake sorry not and the
+Gabriele Colombo: lake. Mhm. Yeah. Okay.
+Alicja Dębek: north of this because I I wasn't there
+Gabriele Colombo: And yeah, that's beautiful. I usually go there for climbing because there is a lot.
+Alicja Dębek: yeah
+Gabriele Colombo: It's a really famous climbing area in the north of the Lake Gard and it's amazing. Yeah.
+Alicja Dębek: you you can recommend something. Yes.
+Gabriele Colombo: Yeah, but I usually stay in the climbing zones.
+Alicja Dębek: H. No,
+
+
+00:03:30
+
+Gabriele Colombo: So I don't go like ding in the lake or like
+Alicja Dębek: it's not for me.
+Gabriele Colombo: that.
+Alicja Dębek: But my husband probably. Yes.
+Gabriele Colombo: Oh, okay. I can recommend you to your husband a couple of things.
+Alicja Dębek: He like Yeah.
+Gabriele Colombo: That's for sure. Yeah. Yeah.
+Alicja Dębek: Okay.
+Gabriele Colombo: Yeah.
+Alicja Dębek: I asked you about this meeting because when I you know I wanted to create the purchase order for plant view but then I realiz I I read one more time the offer and the specification and I saw that it's not interactive and I remember and I also ask but he said also that he remember that you show us that it will be interactive that you can go from this planned view to uh you know to some settings and change for example uh the um I don't know something uh about the employee or skill or something like that and we remember that it was on the on the presentation of Elena when she was you know showing us um and now we are you know surprised that it's not
+
+
+00:04:39
+
+Gabriele Colombo: No, no, no, wait, wait, wait. I I think you're confusing something that you saw with actions. Uh because what was what was was in the presentation? For sure. It's it's uh there we already because you also have the the mockup that I shown to you.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So which is the HTML like the the the the mockup that you can open and try stuff.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So what's in there is what Elena shows showed to you. Okay.
+Alicja Dębek: Mhm.
+Gabriele Colombo: It's the exact same uh file.
+Alicja Dębek: Mhm. There is some actions which you can
+Gabriele Colombo: So what's
+Alicja Dębek: do.
+Gabriele Colombo: Okay. Which actions uh do you have it? Uh
+Alicja Dębek: Maybe you can open, you know, this mockup and present something because I don't know if I have the link to this
+Gabriele Colombo: yeah.
+Alicja Dębek: mockup. Don't remember where where it
+Gabriele Colombo: Okay. I think it's the one that Daniela sent to you on June on the end of
+
+
+00:05:28
+
+Alicja Dębek: is.
+Gabriele Colombo: June. Let me check. Okay. I'll share my screen. Okay. Is Is it this one?
+Alicja Dębek: Yeah, probably. Yes.
+Gabriele Colombo: Uh,
+Alicja Dębek: Yeah.
+Gabriele Colombo: it's from this email from Danielle like on the
+Alicja Dębek: Mhm.
+Gabriele Colombo: June. Okay.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So, I should be the last mockup that we sent to you. So, okay. So, um,
+Alicja Dębek: Mhm.
+Gabriele Colombo: so what you see in here like it's not maybe identical in the a static form, but as a content, it's what you're going to see in the in the floor view.
+Alicja Dębek: But it will be better aesthetic or what?
+Gabriele Colombo: So,
+Alicja Dębek: What do you mean not the
+Gabriele Colombo: uh, which is maybe,
+Alicja Dębek: same?
+Gabriele Colombo: you know, maybe this, uh, the font is going to be slightly different or the color scheme something like that because this is a mockup.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So,
+Alicja Dębek: Mhm.
+Gabriele Colombo: it's a little bit it's different than like developing the the software.
+
+
+00:06:45
+
+Gabriele Colombo: Okay. But anyway, can you show to me uh guide me in such
+Alicja Dębek: I mean that if you I I remember that Elena show us that if you have some conflicts for example, you can go deeper to the set uh you know to the uh employee and you can change it because we we uh discuss it uh on the presentation that it will be uh you know uh possible. Oh.
+Gabriele Colombo: No wait. So from here as you can see like the uh the conflicts you can see it and you can see the details of like all the information that you have.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So uh with severity uh what the type of comp of um of conflict uh name of the operator and where the conflict actually is happening. Uh but you cannot change like you do not have any action from here as you can see like you cannot click anything it's just um tells you where the conflict is okay I don't know maybe
+Alicja Dębek: Mhm.
+Gabriele Colombo: if in the plant okay this
+Alicja Dębek: Mhm.
+
+
+00:07:46
+
+Gabriele Colombo: is
+Alicja Dębek: If you go to the employee for example or here for example if you go to the you know some there was like uh uh how to say in English uh like uh you know the uh the stamp of the settings the cycle I don't remember how to say
+Gabriele Colombo: The cycle.
+Alicja Dębek: in English like uh if you have settings you always have you know the the
+Gabriele Colombo: Cool.
+Alicja Dębek: same uh the same uh shape like you can go to the details or you can change something you know it's not only the view but it was like uh
+Gabriele Colombo: Yes.
+Alicja Dębek: that you can go somewhere and change it but I remember that it was presented when Elena was involved so before our workshop so it was you uh few months ago. I probably I need to uh find the email of account.
+Gabriele Colombo: Let me check the other mockups. No. Yeah. Yeah. Yeah. Now what the mockup that I sent to you is the same. Should be the same.
+
+
+00:09:57
+
+Alicja Dębek: Mhm.
+Gabriele Colombo: Yeah, that's Yeah, it's
+Alicja Dębek: Okay. But you in I don't uh I cannot find this so I will you know I will check in the details but I don't want to you know lose your time uh so uh so in your opinion it's not included at all that we can change something from this
+Gabriele Colombo: No,
+Alicja Dębek: you.
+Gabriele Colombo: the idea is Yeah, exactly. So the idea is that this is like a monitoring tool.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So you monitor everything uh and do not perform any action like action
+Alicja Dębek: Mhm.
+Gabriele Colombo: means that you change the planning or stuff like that because you can perform action in sense like you can
+Alicja Dębek: Mhm. Mhm.
+Gabriele Colombo: zoom in zoom out uh highlight things or stuff like that. Okay if you want to change the planning of someone you should do it on the flex
+Alicja Dębek: Mhm. Mhm.
+Gabriele Colombo: view because that's the tool for like the the planning.
+Alicja Dębek: Mhm.
+Gabriele Colombo: Uh but of course uh try to look at like
+
+
+00:12:48
+
+Alicja Dębek: Mhm.
+Gabriele Colombo: um try to read back the documents and tell me if you find something. Of course I I will I will try to ask Elena but I'm pretty sure that uh like from I remember when we were designing the the tool uh that we uh we discussed this and that's the choice that we made. So I'm I'm pretty sure that Elena never showed to you some actions on that view because I don't think there ever was an action to perform view. Okay. So I'm not sure what you remember and what the others remember.
+Alicja Dębek: Mhm.
+Gabriele Colombo: Um but maybe um you can think a little bit about it and then tell me if
+Alicja Dębek: Yeah.
+Gabriele Colombo: you Yeah.
+Alicja Dębek: I will you know check the image or some additional information of course and
+Gabriele Colombo: Yeah.
+Alicja Dębek: um I have only one question if you for example find some conflict uh is it possible to you know to have some link to flex view to AWS to you know to change something in the settings but you you don't need to you know looking for this person or this table or something but it will be like you know uh you push the button and then you will uh go directly to this I know to somewhere somewhere to AWS
+
+
+00:14:12
+
+Gabriele Colombo: Okay.
+Alicja Dębek: or it's not possible.
+Gabriele Colombo: You mean you mean like a shortcut to the point where you change make the change?
+Alicja Dębek: Mhm. Yes. It's conflict because it will be you know maybe helpful uh for someone because if
+Gabriele Colombo: Uh
+Alicja Dębek: you you can imagine that you are a supervisor and you are monitoring some your area and you will find some conflict so you realize okay I need to change something because I forgot or something I don't know and then uh you need to go
+Gabriele Colombo: yeah.
+Alicja Dębek: of course to AWS but you need to search the station or the employee or something. And maybe it's is it possible to change to to to have the shortcut or the link or something to go directly where you need
+Gabriele Colombo: uh
+Alicja Dębek: to uh change something. Sometimes change
+Gabriele Colombo: I can try to understand if it is possible uh
+Alicja Dębek: settings.
+Gabriele Colombo: but I don't think it is uh for a simple reason that the link does not exist inside AWM like AWM like even the DWS links that you have they are generated like when you open the page so I don't know how can we put you output you a link
+
+
+00:15:31
+
+Alicja Dębek: Mhm.
+Gabriele Colombo: where you click and you you're sent to something uh but yeah but I think I can ask
+Alicja Dębek: Mhm.
+Gabriele Colombo: this because I think it's reasonable to have like shortcut for that. So yeah,
+Alicja Dębek: Mhm.
+Gabriele Colombo: I can
+Alicja Dębek: Okay.
+Gabriele Colombo: ask.
+Alicja Dębek: So please and um how the work on this plan view is going
+Gabriele Colombo: So for this I want to schedule to you a first meeting to show to you where
+Alicja Dębek: uh
+Gabriele Colombo: we are now. Uh because right now we are basically in the heavy testing area. So we are testing the to see if there is bug there are bugs or stuff like that. Plus we are um doing the connection with the WS. So the the fact that um the system is able to put your the alerts for you. Okay.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So read the reads the alerts from AWS basically. Yes. Okay.
+Alicja Dębek: Mhm.
+Gabriele Colombo: But the what we what has been done is basically the um the configuration page.
+
+
+00:16:39
+
+Gabriele Colombo: So where you can design your plant view. Okay. So you can put your file with the plant and you can put over the tasks from
+Alicja Dębek: Mhm.
+Gabriele Colombo: AWM. Okay. Uh and also um the the view the monitoring view which of course for now uh shouldn't have that many alert because it's not still already connected to the WS. Uh we're doing it right now.
+Alicja Dębek: Mhm.
+Gabriele Colombo: Uh but I think that at this point you can have a good idea of what is uh what
+Alicja Dębek: Yes.
+Gabriele Colombo: it Yes.
+Alicja Dębek: how it will look like.
+Gabriele Colombo: So I think uh uh that next week uh we can have a meeting to show to show it to you. Okay.
+Alicja Dębek: Mhm. Okay.
+Gabriele Colombo: Um well do it.
+Alicja Dębek: But uh
+Gabriele Colombo: So I don't need like uh uh so just tell me when you are free because next weekend
+Alicja Dębek: I'm only on Monday and Friday because uh during the week I have the
+Gabriele Colombo: I'm
+
+
+00:17:34
+
+Alicja Dębek: workshop. So I will not have a free time.
+Gabriele Colombo: not problem.
+Alicja Dębek: But if you it can be you know on Monday probably from 10 till 11 or
+Gabriele Colombo: Yeah,
+Alicja Dębek: from 11 till 12.
+Gabriele Colombo: I think Monday uh 1011 is fine for me.
+Alicja Dębek: Yeah.
+Gabriele Colombo: Yeah.
+Alicja Dębek: Okay.
+Gabriele Colombo: Yeah. Yeah. Yeah,
+Alicja Dębek: Okay.
+Gabriele Colombo: I'll send invitation right now.
+Alicja Dębek: Yes. And can you send also tok to y maybe they will join I'm not sure but yk probably is on holiday so no but y if you you
+Gabriele Colombo: I I sent invitation to Yaz too.
+Alicja Dębek: know okay yeah option okay and
+Gabriele Colombo: In any case, it's just you know a problem.
+Alicja Dębek: it will be like a cycle meeting or um you know how we because if it's maybe we can have some um
+Gabriele Colombo: Uh
+Alicja Dębek: cycle meeting but uh probably it it's not good for
+Gabriele Colombo: yeah.
+Alicja Dębek: 10:00 on Monday because we have some you know um operation meeting
+
+
+00:18:26
+
+Gabriele Colombo: Yeah.
+Alicja Dębek: also about 10 so maybe 10:30 it will be better if you can
+Gabriele Colombo: Yeah. Yeah. For me it's okay. 10:30.
+Alicja Dębek: change.
+Gabriele Colombo: Um yes, we can have a peral meeting if you want, but uh remember that we have one sprint every three weeks. So like if we have a weekly meeting,
+Alicja Dębek: Mhm.
+Gabriele Colombo: it there is no difference between one and another.
+Alicja Dębek: Mhm. But in one month you need to have probably
+Gabriele Colombo: basically.
+Alicja Dębek: um the you know till the end of September we we said that we will have the prototype ready to use.
+Gabriele Colombo: Yeah. Yeah. Yeah. Of
+Alicja Dębek: So it's only one month.
+Gabriele Colombo: course.
+Alicja Dębek: So how you want to show me the next you know the next
+Gabriele Colombo: Well, yeah. Okay. Of course.
+Alicja Dębek: version.
+Gabriele Colombo: Uh so we can have this meeting um so you can see how it's coming it's uh being built.
+
+
+00:19:32
+
+Gabriele Colombo: Okay. Um then the next one maybe we can have it at the beginning of September. Okay.
+Alicja Dębek: Mhm.
+Gabriele Colombo: And then for the next the one after that uh you are going to have the prototype and you can work directly on the prototype. Okay.
+Alicja Dębek: Mhm. Okay.
+Gabriele Colombo: So like I think that's a good uh like because
+Alicja Dębek: Okay.
+Gabriele Colombo: the this development has been really compressed because like up until like um two months ago that we had nothing at all and so right now you can start to actually see something because like the first part of the development is build infrastructure understand how to make the module communicate with the existing area of AWM. So there's really nothing to put your hands on. Okay.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So it's now that you start to have like that you can start to look at the system and the module.
+Alicja Dębek: Mhm.
+Gabriele Colombo: So I think like maybe yeah next week is a good um good
+Alicja Dębek: Okay.
+Gabriele Colombo: moment.
+
+
+00:20:36
+
+Alicja Dębek: Okay, I need to you know look for this specification with Elena which uh in the
+Gabriele Colombo: Yeah.
+Alicja Dębek: past and if I will find something I will send to you. Yes. And I will not of course waiting for next week or something and probably we will discuss something uh by email. If I need some discussion, I will maybe call you. Okay. and we will you know.
+Gabriele Colombo: Yeah. Yeah. No problem. Yeah. Yeah.
+Alicja Dębek: Yeah.
+Gabriele Colombo: Yes. U in this period call me because I'm a little bit uh overwhelmed.
+Alicja Dębek: Okay.
+Gabriele Colombo: So sometimes no no I'm in October
+Alicja Dębek: But you are on vacation or some holiday in August? No. Okay.
+Gabriele Colombo: so uh for you should be finished by then.
+Alicja Dębek: Okay.
+Gabriele Colombo: Uh okay. So I send a meeting to you Yarl. I'll put Y just can Yaz sorry. He just can refuse the meeting. No no no problem.
+Alicja Dębek: Okay.
+Gabriele Colombo: Okay, perfect.
+Alicja Dębek: Okay. Thank you very much, Gabriela.
+Gabriele Colombo: Thank you,
+Alicja Dębek: We will next week.
+Gabriele Colombo: Nisha.
+Alicja Dębek: Thanks. Bye.
+Gabriele Colombo: Have a good day.
+Alicja Dębek: have this.
+Gabriele Colombo: Bye-bye.
+
+
+Transcription ended after 00:21:41
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.
