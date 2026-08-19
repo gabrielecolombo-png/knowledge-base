@@ -13,7 +13,7 @@ Floor View è un modulo AWM in sviluppo (primo cliente: Franke Poland) che forni
 
 ## Meeting collegati
 
-- 2026-08-19 [Franke Poland] Floor View alignment — chiarimento scope monitoring-only (vs aspettativa cliente di interattività), feature request shortcut conflitti→AWM, stato avanzamento e roadmap fino a prototipo fine settembre — [meetings/franke/2026-08-19-floor-view-alignment.md]
+- 2026-08-19 [Franke Poland] Floor View alignment — chiarimento scope monitoring-only (vs aspettativa cliente di interattività), feature request shortcut conflitti→AWM, stato avanzamento e roadmap fino a prototipo fine settembre — [meetings/franke-poland/2026-08-19-floor-view-alignment.md]
 
 ## Osservazioni aperte
 
