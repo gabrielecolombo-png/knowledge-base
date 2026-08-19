@@ -19,4 +19,4 @@ Floor View è un modulo AWM in sviluppo (primo cliente: Franke Poland) che forni
 
 - Alicja (Franke) ricorda una demo di Elena (qualche mese prima del workshop) in cui Floor View sembrava interattivo (possibilità di navigare verso settings/dipendenti per modifiche). Gabriele esclude che sia mai stato mostrato, ma Alicja cercherà la specifica/email originale. Se emergesse qualcosa di concreto sarebbe un disallineamento nelle aspettative pre-vendita da gestire.
 - Feature request: shortcut diretto da un conflitto in Floor View alla pagina AWM dove intervenire. Gabriele considera poco fattibile perché i link AWM sono generati dinamicamente all'apertura della pagina. Da verificare con il team tecnico.
-- "Yaz" e "Yk" menzionati come stakeholder Franke da includere nelle demo — ruoli non identificati dalla trascrizione.
+- Jacek Piorko (Franke Poland) è lo stakeholder indicato nella trascrizione come "Yaz"/"Yk" — da includere nelle demo. Ruolo non specificato.

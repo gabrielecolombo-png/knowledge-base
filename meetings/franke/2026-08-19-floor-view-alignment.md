@@ -47,4 +47,4 @@ Meeting di allineamento su scope e stato di avanzamento del modulo Floor View. A
 
 ## Note di elaborazione
 
-- "Yaz" e "Yk" menzionati nella call come persone da invitare al meeting di demo — non è chiaro il cognome o il ruolo. "Yk" sembra in ferie. Da identificare in comunicazioni future.
+- "Yaz"/"Yk" nella trascrizione si riferisce a Jacek Piorko (Franke Poland). Invito inviato durante la call; probabilmente in ferie al momento del meeting.
