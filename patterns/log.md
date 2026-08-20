@@ -6,6 +6,11 @@ una nuova voce.
 
 ---
 
+## 2026-08-20 — VMS come fonte di dati per il forecast finanziario, non solo per la pianificazione operativa
+Temi collegati: gestione-ferie-assenze, zucchetti-integrazioni
+Meeting che hanno fatto emergere il collegamento: [meetings/danieli/2026-08-20-allineamento-roadmap-awm.md]
+Osservazione: Il controllo di gestione Danieli usa Zucchetti come fonte del consuntivo ferie (disponibile il 16 del mese successivo) e percentuali storiche per il forecast. VMS ha invece le ferie programmate in anticipo, con granularità per reparto e macchina — un dato molto più preciso per il budget. Il collegamento non ovvio è che la qualità dei dati operativi inseriti in VMS (ferie programmazione) ha impatto diretto sulla precisione del forecast finanziario aziendale, non solo sulla pianificazione operativa giornaliera. Questo amplia il "pubblico" di chi dipende dalla qualità dei dati VMS (operations + finance), e suggerisce che il DVH sia infrastruttura prioritaria anche per funzioni aziendali non operative.
+
 ## 2026-06-05 — Skill matrix non digitalizzata come causa strutturale dell'allocazione mnemonica
 Temi collegati: skill-matrix-competenze, pianificazione-logistica
 Meeting che hanno fatto emergere il collegamento: [meetings/danieli/2026-06-05-assessment-logistica.md]

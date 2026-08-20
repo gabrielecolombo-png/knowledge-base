@@ -1,0 +1,832 @@
+Buongiorno Paola.
+
+Bene, te come stai?
+
+Fatto un po' di ferie sei fermo alle tue ferie di maggio quand'è che sei andato ad Arco?
+
+A maggio sì sì sì Però va bene adesso.
+
+Vai fuori stagione No, in realtà vado a ottobre faccio vado in Kenya per una missione umanitaria mi studiava quasi un mese.
+
+Ma che bello Vediamo come va Sono nella profettura di Nruru, quindi è da Nairobi sono seicento settecento chilometri a nord ovest da Nairobi praticamente. È un alto piano gigantesco e sono lì.
+
+Sto leggendo un mattone di ottocento pagine sulla biografia di Osa e Martin Johnson che sono i primi documentaristi del Kenya 1920.
+
+Un po' lunghetto però Sì, non sembra un libro proprio leggero così molto bello sono i primi infatti sono nell'epoca della Karen Blixen nella mia Africa, altro bel libro. Sempre sul Kenya. Non Ed era un po' Sì, grazie perché ti dico la verità non è un mondo molto sconosciuto a me tutta la parte dell'Africa, cioè ho letto tanti leggo tanto, ma di altre aree.
+
+Tipo tanta roba inglese in realtà.
+
+Però se mi dai qualche titolo, guarda volentieri, Paolo grazie.
+
+Allora, dopo tanto tempo ci ritroviamo con un'agendina fritta fitta.
+
+Yes, allora.
+
+Scusa, quindi ottobre non ci sei tu?
+
+Sì, ci dal Tipo dall'otto al 24, una cosa del genere.
+
+Teniamo presente, ma il vostro team è ancora integro, c'è Stefano Ghiotto c'è ancora?
+
+Sì, sì, sì, sì no no c'è c'è c'è ancora solo che diciamo che Questa parte di attività la sto svolgendo più, diciamo più io. Però no, c'è ancora Stefano c'è ancora lì c'è ci siamo diciamo non è ancora non è uscito nessuno per il momento, quindi siamo ancora tutti qua. Ho fatto una domanda prima mail stamattina, ma non ho capito la risposta nel senso che non so che cosa sia con la sigla, ma adesso la mia coscienza razionale già Filippo mi Sì, ma perché allora quella è l'informazione che tranquillamente reperibile da AVM.
+
+Immaginavo infatti avevo detto al controllo di gestione estate sereni che la VMS è tutto quel dato perché di fatto sono pianificate le ferie o sono confermate o non confermate, ma sono tracciate.
+
+Diciamo che il metodo canonico per recuperare questa informazione è utilizzare il dato whouse, che è la fonte dati quella delle dashboard, quella di un po' tutte insomma perché lì dentro il dato È preso e riorganizzato.
+
+In modo da proprio da consentire l'analisi, cioè poi è fatto apposta per l'analisi dati.
+
+Quindi fa tutta una serie di normalizzazioni del dato pulitura del dato che lo rendono adatto a essere analizzato.
+
+Io ho tolto l'occasione anche per chiedere a Filippo, insomma se c'erano novità sulla appunto sul poter darvi accesso a questo DVH, quindi metterlo nella vostra infrastrutture e far sì che poi ognuno possa leggersi i dati che gli servono.
+
+Hai fatto bene a cogliere l'occasione però insomma, in questo momento non abbiamo ancora il non siamo ancora partiti con l'attività sul DVH.
+
+Quindi partiamo dai dati che abbiamo in AVMS in questo momento nel vostro nella vostra area di DI.
+
+La nostra a DBI è la stessa cioè va bene e allora.
+
+Cioè, allora perché comunque anche direttamente da VM è possibile recuperare quell'informazione.
+
+Nel senso che esistono una serie di dati che tu puoi estrarre dal sistema tramite degli export Excel, eccetera.
+
+Il problema è che quello è il dato grezzo, quindi è il dato tutto il dato che c'è dentro VM.
+
+Per cui va comunque pulito ed è ordinato per fare delle analisi. Magari può anche andar bene al al alla persona che la deve svolgere.
+
+Ma secondo me sarebbe meglio se appoggiasse al se posso chiedere Paola a lui serve un'estrazione, una tantum o un monitoraggio continuo.
+
+Perché a me fa anche strano che non sia un dato ad oggi monitorato, no magari su zucchetti che.
+
+È il core.
+
+No, allora loro fanno una previsione di budget con indicazione percentuale di smaltimento ferie di essenteismo e di tre parametri che vengono monitorati sono ferie assenteismo è straordinari.
+
+Poi loro ricevono da zucchetti i dati a consultivo.
+
+Però, quando devono elaborare il forecast Non non possono affidarsi su quelle previsioni che in realtà noi abbiamo già esempio.
+
+Se il budet lo fanno a giugno, noi abbiamo già calendarizzato tutte le ferie con molta precisione luglio agosto settembre .
+
+Il budget del primo trimestre almeno dovrebbe essere.
+
+Eosimilmente affidabile invece loro hanno una percentuale che Calcolata su base storica sui giorni lavorabili o meno. Esempio quest'anno che abbiamo poche festività, abbiamo tantissimi giorni lavorabili per cui c'è una percentuale più bassa di incidenza di ferie, ma non sarà così .
+
+Quindi aiuterebbe un sacco vederle da VMS se mi chiedesse nel progresso venisse fatto da zucchetti no.
+
+Aiuterebbe, visto che VMS ha già le ferie programmate confermato o meno.
+
+Avere un dato in ore.
+
+Quindi, scusami, la quello che serve a al controllo di gestione è un'analisi dettagliata dello storico.
+
+Se volete però lo chiamiamo perché io faccio un altro lavoro se abbiamo qualche minuto.
+
+Sì, sì, sì Sì sì sì io guarda volentieri.
+
+Così giusto per capire un attimo meglio qual è l'obiettivo e cosa gli serve.
+
+Partecipa.
+
+Grazie, scusa l'inmboscata, però visto che avevamo con Gabriele, io ho provato are meglio quello che avevo anticipato. Ma non vi eravate mai visti?
+
+Sì, una volta secondo me tempo fa.
+
+All'inizio ho un vago ricordo la tua per esempio, ma quando dobbiamo fare un forecast di fatto visto che le ferie le abbiamo già tracciate peccato non valorizzarle.
+
+Filippo diceva, ma da oggi il controllo di gestione non utilizza questo dato già da zucchetti e mi sono permessa di dire però vedete consuntivo, cioè fate un budget di straordinaria assenteismo e ferie e poi il 16 dal 16 del mese successivo abbiamo i consuntivi per il mese precedente . Visto però che noi questa informazione la collettiamo già anche Gabriele diceva c'è tutto, non ho capito bene come lo estraiamo questo tutto però dobbiamo trovare la quadra perché il lato in UMS c'è.
+
+Sì, esatto e io però vorrei un attimo capire meglio cioè Mattia, tu che cosa di che cosa vorresti vedere cioè qual è l'impro a livello informativo cos'è che ti serve ?
+
+Senti, ti spiego un attimo il contesto solitamente noi per fare il budget delle ore produttive attraverso varie tabelle Excel andavamo a definire per reparto il numero di giorni di ferie, quindi diciamo a livello macro, quindi di reparto.
+
+Il giorno di il numero di giorni di ferie che potete concedere o che sono stati fatti?
+
+No, in sede di budget, quindi quello diciamo è l'obiettivo a cui poi il reparto deve tendere, quindi non è il consuntivo.
+
+Quindi diciamo che il nostro anno fiscale inizia il 1 luglio.
+
+Noi facciamo il budget solitamente dalla dalla prima metà di aprile.
+
+E quindi già lì in anticipo, noi andiamo a definire quello che sarà poi l'obiettivo di ferie overtime e assenteismo di ciascun reparto produttivo.
+
+Ok, perfetto.
+
+Ora, quindi ti serve per definire un target Esatto, in realtà cos'è successo quest'anno che al fine appunto di essere più precisi possibile.
+
+Il reparto, quindi in questo caso, l'officina e il reparto ingranaggi Gears ci ha fornito anziché un numero di ferie, quindi espresso in giorni barra ore, ci ha già ci ha girato una tabella Excel con i turni effettivi previsti per il periodo estivo.
+
+Sostanzialmente turni effettivi previsti turni per centro di Quindi vuol dire per work center per macchina, quindi fino al dettaglio alla singola macchina, diciamo.
+
+Ok, però giusto per capire quando ti dici effettivi previsti, parli di un preventivo o di un consuntivo, c'è un qualcosa che è previsto che accada e accadrà o un qualcosa che è già accaduto ed è effettivamente così .
+
+Primo caso che hai detto.
+
+Ok, quindi quello che loro pensano accadrà.
+
+Esatto, esatto.
+
+Quindi, io volevo tradurre in ore quel file Excel che mi è stato passato dai responsabili di reparto. E volevo tradurlo in ore no volevo capire loro per arrivare a quel numero a quel turno, cinque banale esempio quante ore di ferie hanno concesso su quella macchina sostanzialmente in quel determinato mese.
+
+Okay, quindi sostanzialmente tu hai bisogno del fabbisogno.
+
+Di di turni che ti viene fornito previsionale.
+
+Quello quello ce l'ho già.
+
+Ok, e poi sulla base di quello Non ho non mi è chiaro come arrivi a capire percentuale di assenze puoi poi cioè come fissare il target di percentuale di assenza.
+
+Guarda, ti faccio un esempio con l'Excel così è molto più intuitivo Dammi un secondo che apre il file.
+
+Allora Un secondo che è abbastanza pesante il file.
+
+Perché Okay, eccoci qua.
+
+Allora, ti spiego come funzionava fino cioè come funziona tuttora al netto di officina e des.
+
+Se vedi un attimo.
+
+Allora, io per andare a ricavarmi poi le ore produttive di budget parto dai giorni calendariali del mese.
+
+Gli tolgo sabati e domeniche e gli tolgo i giorni festivi, quindi banalmente Natale Santo Stefano piuttosto che l'8 dicembre, eccetera.
+
+E poi vado a settare per trascuro reparto, il numero di giorni di ferie.
+
+Prima mese considerato. Ma esattamente a me sfugge questo cioè il numero di giorni di ferie per il mese considerato non è il tuo obiettivo arrivare a quello.
+
+Esatto, esatto.
+
+E come lo ottieni quello solo se è un parametro che tu inserisci per fare i calcoli?
+
+Eh, io mi trovo in sede di budget con i responsabili dei reparti e fisso mensilmente il numero di ferie.
+
+E sulla base di cosa?
+
+Sulla base di uno storico e perfetto.
+
+Sulla base di uno storico e sulla base di quante ferie il capo reparto sa che concederà ai suoi in quel determinato mese.
+
+Ok, quindi vai Ovviamente poi questo in sede di consuntivo non sarà uguale perché succede cose nel corso del mese, quindi magari. Andrà a concedere meno ferie a qualcuno più ferie a qualcun altro per cui alla fine ovviamente il consuntivo non sarà la realtà di questo nome, però almeno avere un'indicazione da poi inserire a budget per ricavarmi le ore.
+
+Quindi non ci vado a inserire le ore sì i giorni di ferie che mi ha comunicato il capo report in questione.
+
+Le assenze, quindi su questa riga diciamo vengono considerate tutte le malattie, quindi noi già in sede di budget andiamo a prevedere una certa percentuale di giorni di malattia per ciascun reparto.
+
+Andiamo ad aggiungergli gli overtime e alla fine andiamo a ricavare i giorni reali di presenza, cioè lavorativi.
+
+Ok, che non è altro che una sottrazione banalmente, quindi ai giorni diciamo calendariali lavorativi.
+
+Ci vado a toglierci le assenze che possono essere ferie e malattie e ci sommo un top gli straordinari.
+
+Da qui il ricavo tra virgolette i giorni effettivi di lavoro.
+
+Poi vado a tradurre tutto in ore sotto qua.
+
+Ora cos'è successo al fine di essere più precisi, diciamo per il reparto machining, quindi lavorazioni meccaniche, dentatura, gears, I capi reparto invece non mi hanno detto guarda che su quella sul reparto farò tot ferie quel mese.
+
+Mi hanno passato la lista delle macchine che così come lo vedi tu su UMS e per ciascun mese estivo mi hanno comunicato i turni effettivi che verranno svolti, quindi già depurati, diciamo della componente ferie.
+
+Loro mi hanno passato questa turnistica sulla base di quanto hanno concesso come ferie ai vari operatori, no?
+
+Quindi la mia la mia richiesta nasceva dal fatto che mi avete passato.
+
+Questi turni a me servirebbe inserire per analisi successive che andremo a fare Le ore corrispondente a questi turni.
+
+Quindi io qua mi sono postati i turni a cui dovrebbe andar la macchina io ho provato a fare un conto io.
+
+Però, chiaramente, se tramite UMS riusciamo ad estrarre Il numero esatto che i capiturno hanno concesso è tanto meglio è molto più preciso, ovviamente. Quindi volevo capire se era fattibile strada della UMS sulla base di quanto loro hanno già assegnato. Il numero di ferie appunto di questi tre mesi in ore.
+
+No, c'è un problema Ok, va bene Tu hai un mi immagino UM non mi ricordo tu hai un'utenza VM?
+
+No, io no.
+
+Ok, magari Filippo gliela lo abilitiamo adesso ci rifletto ok adesso che ho capito un attimo lasciami riflettere un secondo e ti scrivo in giornata ok perfetto, cioè dentro la mia testa il capo turno per comunicarmi questi turni ha fatto dei conti, ovviamente.
+
+Sì, per cui ci ho visto la partita dal monte ore totale, ad esempio nel primo caso dei due turni, lui permettermi uno significa che lui ha fatto dei conti partendo dal monte Ore totale del mese No, dalle persone, però comunque diciamo toglie che invece la tua MS Cuba ora, quindi.
+
+Esatto. E quindi così insomma questa era la richiesta.
+
+Ok, va bene, grazie.
+
+Magari appunto ti riscrivo in giornata, magari ci sentiamo anche senza occupare Paola e Filippo, magari ci sentiamo anche direttamente.
+
+Perfetto, super grazie mille.
+
+Grazie Mattia.
+
+Grazie.
+
+Ciao, ciao ciao ciao ciao ciao ritorniamo al nostro ordine del giorno.
+
+Sì, sì, sono andato un po' dritto anche perché avevamo un sacco di punti da discutere non volevo dopo magari approfondisco io con Mattia.
+
+Quindi, allora smarchiamone uno semplice Assessment montaggi da fissare per settembre.
+
+Sì, allora questo semi allineato un secondo forse Filippo mi ha accennato qualcosina al volo l'altro giorno, ma ci eravamo sentiti telefonicamente qualche settimana fa.
+
+Allora praticamente come ti ti dicevo, diciamo i reparti abbiamo già visto assieme.
+
+Carpenteria e logistica sulla parte logistica diciamo sono state fatte delle valutazioni legate al fatto che abbia senso prima adottare SAP e poi eventualmente adottare altri strumenti e quindi diciamo l'attenzione si è spostata sul reparto di montaggio che come potrei immaginare è uno dei reparti con centri uomo che ha una una pianificazione +1 schedulazione, quindi non è alimentato da Diana e non sarà ripto da Cyberplan Ma spannometricamente un monte ore mensile da rispettare è Dei banchi e delle persone da assegnare per la lavorazione sul banco.
+
+Sì, me lo ricordo l'avevamo visto brevemente all'epoca.
+
+Cioè, non mi ricordo che avevamo infilato il naso anche i montaggi a un certo punto.
+
+Ok, ecco l'idea sarebbe quello di ripartire da lì, quindi rifare un passaggio con i referenti del reparto.
+
+E andare a capire come poter mettere a terra l'attività.
+
+Abbiamo concordato comunque di Diciamo partire da ma obiettivi quindi mantenere visibilità sul rispetto del monte ore.
+
+Su quante persone servono per il rispetto del monte ore su quante assenze ho collezionato nel mese in modo tale che sia diventi più semplice capire lo scostamento eventuale tra il monteone obiettivo e le ore effettivamente lavorate se sia insomma da che cosa sia dovuto ecco se sia dovuto alle assenze o ad altri problemi, ecco.
+
+Questo è un po' il macro approccio, quindi io ho già chiesto al al reparto di individuare un loro referente. Che che faccia appunto da da figura di riferimento e di coordinamento per i key user sia per l'attività di assessment che poi eventualmente per attività di progetto.
+
+Però è chiaro che dobbiamo partire da una mezza giornata secondo me basta di approfondimento come abbiamo fatto per gli altri reparti per mettere un po' a terra Il progetto, la timelme e tutto.
+
+Ok, sì su questo va benissimo l'unica cosa che ti chiedo è cioè quanto sia convinti di partire con la parte di montaggi, cioè nel senso che anche con la parte di legistica, carpenteria poi si un po' allenata vuole un attimo capire Cioè, quanto sia convinti di questa cosa dei montaggi.
+
+Non so qua Paola lascio attendevo che No, allora solo tema sono due considerazioni diverse anche su carpentiera logistica, carpenteria andremo avanti.
+
+Stiamo facendo delle riflessioni sul tema importazione del carico , ma sulla carpenteria andremo avanti.
+
+La logistica invece non ha ancora un mentre la carpenteria sì non ha ancora un carico di fatto e quindi finché non ha il carico vede limitate autolimitate se le capacità della della VMS, il montaggio e ho la fortuna di avere accanto il capo del montaggio il montaggio perché si era abbastanza convinto, però c'è questo scoglio di SAP che è determinante anche esso per poi la gestione rivedere la gestione del carico per cui che tu dica se siamo convinti, siamo convinti a partire da Rinaldi in poi che le tempistiche di partenza siano strettamente imminenti a settembre un pochino meno perché.
+
+Partire con un Possiamo mettere a posto altre cose, però dobbiamo superare l'onda SAP.
+
+Okay, quindi si parlerebbe realisticamente di marzo.
+
+Beh sì, se pensi però per l'officina di cui dovevamo per certo di avere un dato carico, siamo partiti a settembre l'adoption.
+
+Cioè la prima utilizzo del sistema l'abbiamo avuto il 23 gennaio e la vera adoption ce l'abbiamo avuta da marzo, diciamo comunque l'intervallo di tempo è stato quello.
+
+Sì, sì, sì ok va bene è giusto per capire anche un attimo cosa dire poi quando riporto ad Alice a Davide questa questa richiesta per una orientarmi un attimo .
+
+Ok, va bene su questo qui ti poi vi riscrivo io magari facendovi delle proposte voi vorreste fare a settembre avete detto questa questo mezza giornata di assessment.
+
+Quindi, okay, vi mando io delle proposte per settembre.
+
+Magari dopo il tre, diciamo dalle quattro in poi cortesemente.
+
+Sicuramente dopo il tre perché vi ess il capo del montaggio per cui aspettiamo dalla seconda settimana alle sette poi.
+
+Va bene, questo me lo sono segnato bene.
+
+Ok, poi direi che possiamo andare avanti con gli altri punti.
+
+Io avrei un punto cyberplan. Che ho visto che non è nella lista nel senso che Allora, quello che voglio capire intanto è è confermato che va live a gennaio.
+
+Certo.
+
+Ok, mi piace questa sicurezza nella risposta.
+
+Neanch'io ce l'ho, perché ho confermato che vada live con SAP che sia che S F entro gennaio Ok e l'altra domanda che ho è questa.
+
+Ha senso mettere sull'integrazione, diciamo tra ottobre e dicembre.
+
+Quando il sistema Integrato, quindi cyber in questo caso va live due o tre mesi dopo quando ha realizzato l'integrazione.
+
+Perché qual è il rischio che io vedo?
+
+E c'è che io vedo e che abbiamo su cui ci siamo già schiantati in passato è stato di mettere su un flusso integrativo.
+
+Quando appunto il sistema Cy in questo caso stava ancora avendo messo insomma venendo costruito comunque non era ancora live e quindi poi.
+
+Abbiamo dovuto cambiare i flussi integrativi, perché poi andando live ci si resi conto di alcune cose in Cyberplank andavano modificate, fixate, eccetera queste cose hanno impattato anche sulla WM e quindi abbiamo dovuto fare tutta una serie di update della struttura di VM, ma soprattutto del flusso integrativo.
+
+Per cui.
+
+La mia domanda è siamo sicuri di voler mettere sul flusso adesso vabbè adesso a ottobre diciamo ottobre novembre.
+
+Con un sistema che non è ancora live e quindi che non ha ancora avuto una validazione su larga scala a livello di infrastruttura, utilizzo. Processo.
+
+Perché io lo vedo io lo vedo un grosso rischio.
+
+Ti dico la mia lato ACT, poi magari in Paola dirà la sua che ha più peso, però io vorrei farmi trovare pronto nel senso rispetto al piano di trasformazione aziendale Il primo settembre il primo gennaio parte SAP, quindi parte SAPL di conseguenza la pianificazione della World force verrà alimentata non più da da diane ma da Cyberplan mi dispiacerebbe dirsi che per le prime due settimane o un primo mese.
+
+Non riceviamo il carico da cyberplan perché diciamo stiamo aspettando che sia tutto stabilizzato a meno che.
+
+Non decidiamo che sia quello l'approccio, però secondo me.
+
+Per per avere un cyberp pienamente stabilizzato senza CM senza nessuna modifica ai campi. Come la configurazione attitiva che non sarà più toccata sulla base delle esigenze della schedulazione, secondo me non devi aspettare un mese devi aspettarne sei.
+
+Quindi Io mi prenderei avanti prima, proverei a definire il flusso.
+
+Cyberplan con Cyberplan poi ce l'avevamo detti quando ci siamo sentiti a maggio era maggio giugno non mi ricordo esattamente però ci siamo detti loro ci hanno detto ormai siamo abbastanza stabili siamo abbastanza fiduciosi che. L'impostazione resterà quella risentiamoci a settembre e ragioniamo su quando schedulare.
+
+Non mi aspetto sarà un'attività onerosa, quindi Possiamo anche pensare di invece che partire inizio ottobre di partire a novembre.
+
+Come ti dicevo, non aspetterei dicembre perché poi saranno presissimi.
+
+Per per essere allineati alla partenza di SAP, però partirei eventualmente mi terrei un piano B, cioè noi avevamo parlato di diversamente da diane che ci passa la vera e propria schedulazione, il vero e proprio piano macchina e quindi quel lato work order su quella macchina da quella data a quella data si può anche pensare per mitigare il dischio eventualmente di partire con i calendari e quelli non mi aspetto modifiche.
+
+Come alternativa nel momento in cui il piano macchine o il piano schedulato chiamano come vuoi.
+
+Dovesse subire delle modifiche nelle prime settimane di di live, però è una strategia diversa rispetto a dire.
+
+Boh, intanto che parta cyberplk quando si assestano poi vediamo come literarci.
+
+Quello mi dispiacerebbe perché faremo un po' la figura Del di quelli che non sono arrivati pronti.
+
+Questo è un po' la mia visione.
+
+Ok. Va bene, cioè io vedo molto realistico questo rischio di dover rifare il flusso n volte.
+
+Non la vedo aliena come ti dicevo l'alternativa Per appoggiarsi piuttosto per un periodo al calendario invece che al piano, cioè.
+
+No, no, ma comunque però attenzione, l'integrazione con comunque è strutturata diversamente da quella di Diane, cioè nel senso sono due flussi integrativi in realtà che poi si vanno a sovrapporre uno con l'altro.
+
+Quindi comunque si si tratta di realizzare il flusso del calendario e il flusso chiamato delle operazioni che sarebbe del del piano macchina sostanzialmente.
+
+Per cui comunque, si tratta di due flussi distinti e indipendenti. Quello che poi possiamo realizzarli contemporaneamente in modo sequenziato, non cambia niente, però quello comunque proprio per per per struttura è fatto in quel modo .
+
+Cioè, quindi la logica del flusso del calendario, posto che posso capire la tua preoccupazione. Sulle ultime, cioè sull'ultima fase prima del live e sulla prima fase dopo il live.
+
+Perché sì, ci sta è probabile che possano venire dei cambiamenti trato piano macchine, però lato calendario che è un dato veramente di base.
+
+Non mi aspetto ci siano questi queste grandi innovazioni su come.
+
+Sul modello dati del calendario, poi sul contenuto forse anche sì.
+
+No vabbè, ma il contratto non ha importanza Cioè la cosa importante è l'infrastruttura.
+
+L'infrastruttura è modello sono le due cose che non devono cambiare, perché se cambia una di quelle salta tutto il flusso.
+
+Poi, se dentro ci scrivi Pippo piuttosto che Pluto, chi se ne frega, cioè nel senso il flusso è sempre quello.
+
+Ok ti direi sentiamoci con loro a settembre e ci diranno anche loro il loro feeling se ci dicono stiamo rifacendo il progetto da zero Che non è così facciamo un ragionamento se ci dicono che sono abbastanza confidenti ne facciamo un altro, però comunque noi.
+
+L'obiettivo è il 1 gennaio che ha VMS sia utilizzabile.
+
+Ok, e su questo mi faccio un'altra vi chiedo un'altra cosa ma diane.
+
+Cioè, cosa succede il 1 gennaio viene spento Diana e acceso Cyberplan c'è una fase di affiancamento.
+
+C'è uno switch off graduale, cioè come funziona la transizione da sistema vecchio sistema nuovo.
+
+A me non risultano allineamenti, poi non sono diciamo la persona più informata a riguardo, posso chiedere conferma.
+
+Però a me risulta uno switch on off, cioè Quindi c'è il bottone rosso che viene schiacciato si prega che non esploda niente. È alimentato da One World Quindi nel momento in cui noi smettiamo di usare One World e usiamo solo SAP diane muore però faccio magari un ulteriore verifica al riguardo.
+
+Sì, sì, sono solo un po' perplesso da questo concetto del punto del bottone rosso che è molto. Cinematografico.
+
+Però poi nelle diciamo negli switch off che ho visto.
+
+Ha sempre causato tanti problemi, mentre in una fase di affiancamento è più magari lunga più laboriosa, però in genere.
+
+Accompagna un cambiamento più Meno come dire non caotico, ma meno Più tranquillo, ecco.
+
+Eh boh, magari sbaglio, cioè magari sbaglio io e non ho un'informazione corretta e quindi magari il problema non si pone, ma in ogni caso sono valutazioni fatte nell'ambito del progetto SAPHlo.
+
+Quindi Sì, non Sì, non non ha rilevanza quello che penso ecco riguardo.
+
+È un altro team fa altre valutazioni quindi.
+
+Ecco se proponiamo che mantengano diane, comunque non avverrà, quindi dobbiamo eventualmente attenerci a quello che è stato definito in quel piano di progetto.
+
+Va bene, allora niente informarti e poi vediamo.
+
+Ok, e poi l'altra cosa era l'app, quindi UM People. Ieri Filippo mi ha detto che qua non c'erano stati grandi sviluppi riguardo a questo tema. Io niente volevo solo mettere in chiaro che nel senso essendo che a UMP Polo sta dentro a Z Connect finché non c'è su Z Connect è impossibile mettere su UMPople in ZCct.
+
+Quello che possiamo fare in ogni momento è mettere su AM people a sé CioèM People come applicazione applicativo a sé stante.
+
+E non quindi embeddato dentro Z comment, perché per averlo dentro Z Connt c'è il vincolo tecnico che Z Connect deve essere su.
+
+Sì, su questo ho fatto salvo il il fatto che appunto noi stiamo un po'' smarcando con sul tuo su tua iniziale sollecitazione, no.
+
+Effettivamente poi è emerso che in passato doveva essere adottata Z Connect che poi non avevamo adottata.
+
+Quindi stiamo un po' facendo una verifica relativamente alle motivazioni per cui non è stata adottata che mi risultano essere Il fatto che all'epoca consentisse l'app Z connect la timbratura da telefonino immagino qua ti chiedo conferma che ci sia eventualmente la possibilità di adottarla, non dando accesso, io non lo so, cioè io non conosco Z Connect sono consulente Zucchetti Cas madre. Che quello su cui vi sollecitavo nel corso dell'estate è che secondo me resta valido al di là dei nostri chiarimenti efiniamo un piano di che cosa vuole dire adottare l'app, cioè Pocciarelli ci ha risposto che abbiamo 150 utenti inclusi ok noi vorremmo partire con un gruppo di utenti pilota, quindi diciamo una ventina di persone.
+
+Come funziona si parte con l'adozione di Z Connect, quanto ci vuole una giornata due settimane?
+
+Ma scusami, ti ha dato un riferimento tecnico per mettere a terra Z Connect?
+
+Allora, io vorrei però su questo evitare di parlare con Pucciarelli con referente tecnico di Pucciarelli.
+
+Poi tornare da voi e dirgli abbiamo finito c'è cioè io ho fatto una ristrutturazione, un cantiere in cui c'era l'idraulico poi c'era l'elettricista poi c'era E sono impazzito.
+
+No vabbè, ma va bene anche se ci metti tutti in una stanza, però cioè io ho bisogno di qualcuno che metta giù Connect, perché io non posso mettere giù Z Conc cioè se io potessi dargli Z Connect.
+
+Ve l'avrei già data, non starei a perdere tempo a fare queste discussioni.
+
+No avrei fatto molto prima, però avrei fatto molto partiamo da Z Connect ci diciamo che servono due settimane dal momento in cuidiamo l'ok al momento in cui c'è l'adozione poi si si eventa VM people che non lo so si sta un attimo oppure servono Serve uno stream di sviluppo, quindi che ne so tre settimane di attesa, cioè mi manca un feedback da quel punto di vista lì, quindi Se per farlo serve una call con dentro Pucciarelli, Vinelli, colombo e quant'altro facciamola.
+
+Al di là di quelli che sono i nostri chiarimenti interni, però ecco a me sarebbe utile avere un po' di visibilità da quel punto di vista lì.
+
+Ok, la facciamo così faccio parlo un attimo con Davide. Elli ha un po' raticato su questo, cioè tu mi dicevi sì poi ti risponde Davide però non mi ha mai risposto e quindi immagino sia anche complesso interagire poi con Con i colleghi di Z Connect, però lo dobbiamo fare.
+
+E quindi proviamo a farlo, insomma.
+
+Va bene, adesso solo ah cavolo oggi e domani è in ferie vabbè lunedì lunedì lo avviso.
+
+Okay Va bene.
+
+Integrazione corsi HS Sì, vi faccio vedere una slide su questo.
+
+Non so se volevi introdurre tu il tema Paola, mentre io cerco la slide.
+
+Un lupo che rassegnazione, allora noi il 19 giugno abbiamo fatto un incontro con il tema che sei dove ci siamo detti visto che messa tutte queste potenzialità, noi vorremmo anche vedere inserite la corsi oltre le visite mediche di modo che le escludiamo dalla capacità di fatto, cioè è inutile che programmiamo una persona una settimana, se in quella settimana tre giorni di corsi, cioè associamo una persona a un dato carico in una data settimana, se quella settimana abbiamo tre giorni nei corsi di formazione.
+
+Sì Sì, abbiamo i corsi inseriti non vediamo con la persona disponibile come nella realtà non è disponibile.
+
+Quindi, non non ci basta non vederla disponibile se in malattia o sei in ferie.
+
+Dobbiamo poterla non vederle disponibile, anche se.
+
+È impegnata in altre attività che l'azienda possa documentare e programmare .
+
+Okay, quindi tu stai dicendo Gabriele la settimana prossima al corso di formazione per l'utilizzo del torn uno.
+
+E quindi devo vedere che ha questo corso e non quindi non può svolgere attività può essere esatto Non può associarlo a un dato carico andato centro.
+
+Allora questa logica non esiste tra VM e Zucchetti, cioè non è una logica che esiste tra i due sistemi, quindi che la parte di safety di zucchetti manda le disponibilità delle persone o meglio le non disponibilità delle persone sulla base dei corsi che stanno seguendo, ci sono due strade, diciamo per gestire questo tema che sono o inserire in zucchetti un'assenza.
+
+Che però vabbè un'assenza percorso, quindi che significa che per AM la persona non è disponibile e questa la può inserire appunto o da zucchetti o anche direttamente da VM volendo.
+
+E oppure c'è la parte di modulo corsi di AVM.
+
+Che serve proprio a tracciare i corsi delle persone, questo significa che puoi creare, cioè sostanzialmente crei le classi .
+
+Quindi dici queste persone fanno questo corso in questo periodo in pianificazione chiaramente ti risultano non disponibili. Che che ha fatto sostanzialmente apposta per questa esigenza, però i due sistemi, quindi la parte safety di zucchetti e AVM non sono in grado di comunicare da questo punto di vista Cioè, non è un flusso comunicativo che che esiste.
+
+Allora.
+
+E quindi, cioè bene, io penso sempre che tu sia sia molto trasparente e non vendi quello che non sia possibile, ma quindi cosa ci suggerisci?
+
+Cioè, noi di fatto sappiamo che queste di queste indisponibilità come possiamo fare in modo di inserirle in modo che anche le persone e poi si vedano non so nella turca. Sai con i tabelloni che abbiamo in officina Formazione per esempio, o visita medica.
+
+Allora diciamo la domanda qui il tema è quanto.
+
+Allora l'obiettivo è che operation, quindi la parte operativa, diciamo, sappia chi è disponibile chi no anche sulla base di questa di questo tema di corsi o visite, eccetera.
+
+Eh sì, perché è sempre un tema aziendale programmabile, gestibile sistema, cioè l'informazione c'è bisogna farela confluire qua non credo che saremo i primi a chiedervelo.
+
+Esatto E dall'altro dall'altro lato, quindi giranando il punto di vista, mi viene da dire anche che la La parte di sicurezza vorrebbe aver visibilità su chi c'è in ogni momento per poter dire ok questa persona fa la visita adesso piuttosto che tra un mese io vorrei rendere autonomi finalmente.
+
+Esatto, quindi c'è una diciamo due interessi, uno per la parte di sicurezza, uno per la parte operation.
+
+Questi questa necessità può essere risolta dentro UM.
+
+Cioè, non facendo parlare i sistemi, ma gestendo la cosa dentro VM, quindi la parte sicurezza di zucchetti resta per tutta l'emissione di certificati di visite di idoneità sanitarie, eccetera .
+
+Però questa parte è puramente informativa, quindi sicurezza che si chiede quand'è che la persona è disponibile quand'è che le posso far fare il corso.
+
+E operation che si chiede quand'è che la persona non c'è perché ha il corso può essere gestita dentro a BM.
+
+Come o in un modo diciamo Tra virgolette improprio, quindi si utilizza la funzionalità delle assenze, quindi è possibile inserire delle assenze che non contano ai fini dell'assenteismo.
+
+Che sono appunto assenza performazione, assenza per Visita medica per cui è tutta la parte algoritmica sa che la persona non può essere pianificata in cui in quella in quelle fasce orarie.
+
+Nella parte di visione del dato viene notificato che la persona non c'è per formazione visita medica, eccetera .
+
+E per cui, operation risolve la sua necessità di riuscire a vedere chi è disponibile chi no.
+
+Sicurezza può utilizzare le classiche viste dei turni che abbiamo già visto per capire quando segnare i turni e quindi si risolve la cosa.
+
+L'altra modalità è appunto questo modulo di di gestione dei corsi Che è un pochino più organico nel senso che permette anche l'organizzazione del corso, quindi.
+
+Ho 10 persone che devono fare il corso sulla tornitura. Organizzo due classi da cinque che hanno le lezioni qui qui e qui e qui.
+
+E poi qui questo viene ovviamente visualizzato all'interno della parte di pianificazione, perché viene notificato attenzione alla persona al corso.
+
+E quindi non è neanche quell'uso improprio dell'assenteismo che però si può fare tranquillamente, cioè abbiamo clienti che lo utilizzano in quel modo.
+
+Per cui la mia risposta sono queste due strade, però dentro a VM, perché non esiste un flusso di questo tipo e non credo possa essere cioè Non verrà messo su a breve comunque, anche se facendo richiesta.
+
+Ok, allora l'attivazione del del corsi mi sembra un po' overkilling, diciamo. Mentre il fatto di gestire delle essenze chiamiamole fittizie, ma che comunque.
+
+Non consentono di pianificare l'operatore, mi sembra La cosa più facile, l'unico dal punto di vista tecnico e più immediato dal punto di vista della tempistica.
+
+L'unico problema è che questo comporta che I colleghi di ancheS teano entrare in AMS e fare un'attività in più che oggi non fanno, cioè oggi.
+
+Per farti per farti un riassunto come funziona. Faranno su un Esatto, però attenzione Filippo è vero hai ragione però ti dico vorrei farti notare anche un'altra cosa che ad oggi loro per capire.
+
+Quando la persona può fare un corso, quando è presente, eccetera hanno necessità di recuperare l'informazione da Excel piuttosto che giri chiamate eccetera. Il capo Quindi comunque, secondo me è ampiamente, cioè avere accesso al sistema gli dà un accesso immediato a tutta una serie di informazioni che gli fa recuperanno una grandissima quantità di tempo, anche dovendo aggiungere un'attività trascurabile come creare un'assenza in VM che è un'attività da letteralmente 30 secondi .
+
+Quindi, io comunque credo che ci sia una vantaggio.
+
+Consistente, cioè considerevole nella loro accesso al sistema e nel caso va anche fargli aggiungere a mano l'assenza.
+
+No, ma io nel caso sono contentissimo perché poi qua era un flusso un po' lungo di di attività e che partiva da modificare le logiche su safety, puoi modificare il flusso puoi modificare le logiche in VMS, quindi.
+
+Sicuramente quella lì è la strada più diretta e più semplice.
+
+Magari facciamo una prova assieme, io e te, cioè non non credo che siava Paola su questo.
+
+Sì, sì sì facciamo un test assieme e poi Una volta visto che appunto è immediato lo possiamo fare anche oggi pomeriggio, se oggi pomeriggio sono anche adesso un po' incasinato Poi anche adesso oppure quando vuoi facciamo che ti do ti scrivo, ti do delle disponibilità che magari ti faccio anche vedere un più in dettaglio cosa intendo così capisci un attimo.
+
+E poi cosa dici, Paola troviamo poi la disponibilità dei colleghi se glielo presentiamo facciamo vedere che cosa comporterebbe.
+
+E gli presentiamo il vantaggio, cioè invece che mandare la mail, farti rispondere male nei capiturno che ti dicono no quella settimana lì mi serve di là, eccetera, eccetera.
+
+Esatto, vai in AM vedi già vedi se l'operatore è in ferie programmate oppure no. Inserisci l'assenza lì sarà da stare attenti sulla manutenzione poi eventualmente sul capire come Il capo turno.
+
+Cioè, nel momento in cui anche se inserisce l'assenza fittizia a Gabriele per la prossima settimana o la settimana successiva e al Capoturno non va bene, va capito lì come si gestisce il tema no perché se comunque.
+
+Parto di nuovo per comunicazione informali in cui ti dicodificami quell'assenza e se tu non me la modifichi pianifico male l'operatore che mantiene l'assenza oppure se il capo turno direttamente ti sega via l'assenza te la cancella safety si trova a inseguire, cioè non so vari capito un po' Una buona pratica di gestione.
+
+Lì sì, tratta di campi un attimo a livello di processo.
+
+Però vabbè, ci possiamo pensare, insomma.
+
+Sì, magari se tu hai appunto già dei clienti che lo usano senza inventare l'acqua calda, magari Sì, ma la proposta che ti ho fatto a parte la proposta del modulo corsi che è quello che l'utizzo diciamo proprio, però questa seconda via è perché l'abbiamo già applicata l'ho già applicata ad altri clienti.
+
+Che avevano più o meno la stessa necessità, cioè noi mi diciamo è inutile che abbiamo un modulo intero, tanto l'unica cosa che mi interessa è che quando lancio optimizer la persona che ha il corso non venga cioè non non mi venga messa in produzione.
+
+Sì, no volevo capire un po' poi l'aspetto negoziale, cioè semplice se safety vince su tutto è semplice se la produzione vince su tutto.
+
+Se c'è da avere un po' di negoziazione e la parte un po' più complessa no perché tu hai un dato allora ho mi viene in mente o ti inseri o saf ti inserisce delle assenze pianificate che poi il capo turno conferma e quindi in quel caso il corso è confermato Questa non mi sembra male.
+
+No, no, buona idea no, mi piace come idea si può fare.
+
+Cosa ne dici, Paola di questo?
+
+Facciamo così.
+
+Che tempi ci diamo Ma secondo me possiamo parlarne la settimana prossima, Filippo e adottarlo se ci va bene che troviamo la quadra adottarlo già dalla settimana dopo.
+
+Ok, io sarò assente per 26 al 3, quindi se riusciamo a parlarne tra lunedì e martedì.
+
+Meglio.
+
+Sì, facciamo martedì Ti mando ti mando direttamente il meeting Questo non sarebbe male adottarlo per tutti Allora c'è un altro tema in realtà secondo me legato ai corsi riprendo la slide smentita solo come guida.
+
+Ma c'è il tema del Del certificato no l'ultima volta con Coin quando ne abbiamo parlato ci siamo detti.
+
+È utile capire se su safety c'è effettivamente il certificato di quella persona, perché magari.
+
+Io mi importo in UMS, dato del che ha fatto il corso .
+
+Poi magari arriva un controllo, quello che fa fede a livello legale è il certificato, quindi mi chiedono.
+
+Bene, fammi vedere il certificato, mi giro verso safety e il certificato può esserci o meno .
+
+Questo è un dato che su Safety mi dicono che c'è, quindi loro su safety caricano il certificato.
+
+C'era l'idea di passare un flag che confermasse la presenza del certificato così eravamo tranquilli del fatto che.
+
+Chi aveva fatto il corso, chi aveva la certificazione aveva proprio anche il certificato fisico Parte del processo potrebbe anche essere dire a safety Se vogliamo evitare l'integrazione Confermami che ha passato il corso, cioè quelli che.
+
+Abbiamo pianificato il corso, il capo turno te l'ha confermato dopo quando arrivano i certificati ricordati anche di venire in VS in VMS e mettermi un flag, mettermi un qualcosa che conferma che'è il certificato.
+
+Ma i certificati sono tipo carrellista defibrillatore, lavori elettrici per quelli, cioè li vedi certificato e anche cioè quando tu fai il corso per la sicurezza, poi c'è anche un test.
+
+E poi c'è il certificato il certificato è quello che fa fede legalmente, quindi se il tizio su 1 milione che non passa il test della sicurezza oppure Se c'è un'errata gestione del certificato.
+
+Ma guarda che è successo questo non c'è mica da ridere hanno perso una marea di certificati.
+
+Abbiamo dovuto rifare i corsi .
+
+Quindi questo ecco grazie una cosa che non mi va giù e quindi purtroppo lo ripeto ma questo è il tema so che sembrava una cosa stupida, però No, no, no, ma no ha un riso perché mi hai detto uno su 1 milione che non ha passato il test di sicurezza mi ha fatto ridere. Un sacco di casi anche di questo genere qui.
+
+Okay, ma non me l'aspettavo quindi sai, c'è il rischio di dare per scontato si è fatto il corso è inegabile poi però scusami, noi inw importiamo chi chi ha il certificato chi ha il corso superato e valido.
+
+Perché altrimenti per noi non ha nessun significato, cioè cosa ci serve importare un certificato che non ha validità o che non è stato ottenuto.
+
+Per cui, la mia domanda diventa ok?
+
+Perché non possiamo direttamente importare tutti anche i corsi sicurezza, eccetera a quel punto, perché adesso ad esempio, stavo guardando i corsi di sicurezza noi non li importiamo in questo momento .
+
+Sì, è quello che si chiama.
+
+È un nome particolare formazione Per rappresentante per la sicurezza, no Adesso te lo dico.
+
+Perché se c'è se c'è quello ha formato no forse cioè se c'è il certificato, quelli che tu vedi sono i certificati che le persone i certificati ottenuti dalle persone che sono in stato di validità .
+
+Questo credo che sia il corso lavoratori con moduli.
+
+Corso Perché poi è il modulo perché poi è il modulo sicurezza di base trovo chiamato così.
+
+Esatto, questo okay questo è l'accordo stato regione sarebbe. No, però quello che ho in testa io lo trovo scritto SR E in zucchetti o in UM.
+
+Comunque il concetto è quello che ti ha espresso Filippo, quindi Come mai ci mettiamo in sicurezza.
+
+Sì, qui però scusate, ma non mi è chiaro. Cioè nel senso in AM vengono già importati i corsi. Ma non certificati Ok, ma qual è una tipologia che manca?
+
+Non ci stiamo capendo, forse se mi confermate come se come ipotizzo che questo è il corso per la sicurezza dei lavoratori E quindi già tutti quelli che trovi tutti dovrebbero avere certificato.
+
+Non c'è un certificato accumulativo.
+
+Okay, quindi tutti questi messi assieme fanno va bene.
+
+No, io mi aspetto un certificato per ogni riga.
+
+Ok, ma cosa intendi tu con certificato Paola?
+
+Cioè tu vorresti vedere un allegato?
+
+Sì, quello che sì, io clicco sull'allegato lì troppo zero, no?
+
+Sì Ecco, secondo me sempre Questa è una strada oppure quella bro dimmi tu Gabriele se se è facilmente raggiungibile oppure come minimo avere un flag che certifica che nella repository, quindi in safety c'è il documento caricato.
+
+Quindi ed è quella di cui avevo parlato con STA, quindi chi carica il certificato mi notifica che l'ha messo che c'è e di conseguenza qua vi importo il fatto che c'è un flag a true che certificato è presente.
+
+Allora questione sono integrazioni standard.
+
+Con zucchetti, quindi non c quello che vedete quello che esiste.
+
+Okay, però a parte questo a me sfuggono due cose uno la prima è cioè sì qua c'è il record.
+
+Vuol dire che in zucchetti c'è il certificato, cioè non è possibile che qui noi abbiamo il record senza che zucchetti abbia il certificato.
+
+Quindi mi sembra un controllo ridondante questa cosa del flag.
+
+Perché il flag per noi è l'esistenza stessa del record?
+
+Se il flag fosse a Falls il Bliano fosse a Falls per noi non avremmo il record qua, capito perché se non c'è il certificato in zucchetti per noi quella roba non esiste e non la importiamo.
+
+Per quanto riguarda l'allegato invece Capisco la cioè capisco il punto e poi è anche un senso. Nel senso dire qua dentro uno si apre il certificato se lo può vedere se nel caso di necessità il tema è che non.
+
+Cioè non può non riesce a pescarsi PDF o comunque i file da zucchetti a importarseli.
+
+Cioè possono essere caricati a mano, anzi neanche perché sono integrati, quindi verrebbe descritto il record ogni giorno.
+
+Però non Cioè, difficile, non non vedo possibile il fatto che quel record si porti dietro un PDF in automatico.
+
+E comunque, anche se fosse, non mi è chiaro il beneficio a parte l'averlo lì e nel caso poterselo guardare, che però mi viene da dire.
+
+Sicurezza se lo guarda nel gestionale della sicurezza e invece a operation non è non è di interesse vedere effettivamente il certificato per cui.
+
+Non mi è chiarissimo effettivamente quanto può essere utile questa cosa di avere il PDF attaccato.
+
+Al record del certificato.
+
+Io sono abbastanza d'accordo, però.
+
+Sentiamo anche Paola l'unica cosa però è allora verificare effettivamente Quando avviene l'import della riga e verificare se tu veramente lo importi nel momento in cui c'è l'allegato fisico oppure no, cioè comporterebbe importare anche l'allegato, cioè non è proprio possibile scusate mi sono persa sto passaggio.
+
+Secondo me dovrebbero dovrebbe esserci un flusso a parte che porta tutti i file in una cartella da qualche parte E poi con delle altre logiche riporti i file associandoli alla riga corretta.
+
+È un po' una briosa allora è molto cioè da un punto di vista tecnico è un è un processo molto complicato, cioè perché uno non stiamo più comunicando dei record, quindi non stiamo più leggendo una tabella con delle informazioni , ma stiamo passando un oggetto fisico, nel senso che è un file fisico.
+
+Quindi il grado di complessità aumenta di ordini di grandezza.
+
+E questo è il primo punto, il secondo punto è che comunque.
+
+Anche ipotizzando di voler di poterlo fare.
+
+È qualcosa che non abbiamo mai fatto e che esce di molto dai nostri standard per cui sarebbe comunque da studiare da zero se. Ricostruire il flusso della parte di sicurezza con anche questa cosa realizzare un nuovo flusso che si va ad agganciare a quello vecchio, cioè richiederebbe comunque tutta una parte di design e di.
+
+E di valutazione tecnica.
+
+Cioè, nel senso mettere un allegato che viene portato da un sistema a un altro in automatico è complesso.
+
+Sì, è più complesso importare i file che i record come dice Gabriele, secondo me c'è anche un po' Un tema di di ridondanza nel senso che HS è all'onere di gestire certificati al posto dove farlo.
+
+A noi basta sapere che quel certificato c'è, però dobbiamo esserne certi per quello ti dico Gabriele che.
+
+Da un lato ti seguo sul tema proviamo a trovare un'alternativa all'importo del certificato fisico.
+
+Dall'altro vi dico andiamo a verificare bene le logiche con cui viene importato il record Perché hai capito che è un passaggio critico, no?
+
+Sì, sì, assolutamente vorrei essere sicuro di che cosa vuol dire avere lì la riga e se abbiamo sia righe con certificato o che righe senza certificato è un buon un problema dobbiamo capire come distinguerle.
+
+Magari non con un PDF fisico, ma con l'aggiunta di un flag che è meno complesso. Magari sì cioè scusa a me un'altra cosa perché questo controllo deve essere fatto in AMS c'è un gestionale dedicato a questa cosa?
+
+Però è una cosa diversa, perché Comunque per noi.
+
+Da quello da quello che capisco per noi e comunque ci sono tre livelli, cioè l'operatore che.
+
+Non ha fatto il corso L'operatore che ha fatto il corso, ma non ha il certificato che già mi dà un po'' di sicurezza in più.
+
+Il terzo livello è l'operatore che ha fatto il corso e che è certificato.
+
+Sono tre livelli di informazione diversa.
+
+Se tu importi solo l'ultimo, cioè se tu importi solo operatore che non ha il certificato è quello che ha il certificato ti perdi quello che ha fatto il corso, ma non è il certificato.
+
+Ma com'è possibile che una persona faccia il corso e non ha il certificato?
+
+Il certificato te lo danno entro 60 giorni Scusatemi, io devo proprio andare Filippo ci alleniamo dopo l' Sì, ti ritrovi su quello che sto dicendo.
+
+Sì Grazie, scusatemi.
+
+Grazie ciao cioè c'è quello il tema il certificatore mette un ente certificatore terzo che ci mette una vita.
+
+Ok capito quindi il tema è che non devono perdersi, cioè sicurezza deve assicurarsi .
+
+Che il certificato effettivamente in a un certo punto, cioè non deve dimenticarsi che quell'ente terzo non hai messo il certificato per tizio.
+
+Esatto, cioè allora se tu hai la riga se tu Gabriele è arrivato in azienda, fa il corso domani.
+
+Dopo due settimane, vedo la riga del corso della certifica sto facendo un'ipotesi no?
+
+Vedo la riga della certificazione perché so che ha fatto il corso vedo che non c'è l'allegato, ma sono tranquillo perché comunque è entrato da poco.
+
+Dopo un po' , però metti sono passati tre mesi ancora non vedo il certificato dico ma sto qua ha passato il corso.
+
+L'ente ci ha mandato i certificati oppure vedo la riga per un dipendente storico non vedo il flag del corso dico siamo sicuri.
+
+Che gli amici di Safety l'hanno messo da qualche parte, perché se ho capito bene qua è successo che sono arrivati sì sì hanno fatto tutti i corsi .
+
+Dammi il certificato, non c'è il certificato hanno rifatto il corso tutti, cioè tutti gli operatori.
+
+Sì, è stato un costo enorme sia in termini di costi tramite i tempi.
+
+No, no chiaro chiaro E poi l'esposizione legale, no perché di fatto era come se tu stessi facendo lavorare gente che non poteva.
+
+Quindi dobbiamo trovare un attimo la quadro, cioè approfondiamo un attimo le logiche con cui ti importi quelle righe basta quello secondo me.
+
+No, no, quello assolutamente volentieri le approfondisco il tema è che questo tipo di di di controlli o di comunque di gestione è un qualcosa che noi non abbiamo in AM, cioè nel senso ho capito questo voglio assirmi di fargli ho capito questo l'ho capito però fatto salvo che non importerei il PDF fisico se vediamo che per far stare in piedi sta logica basta aggiungere un flag su Safety.
+
+Eh ma comunque, io dovrei fare una customizzazione sia da VM sia da VM sia il flusso Perché Zucchetti dovrebbe mandarmi l'informazione aggiuntiva se ha o meno il certificato.
+
+Sì, mi mi torna nel caso la valutiamo la quotiamo, però è diverso rispetto a dire implemento un flusso di integrazione di file. Quello dei file, cioè sarebbe stato 100 giornate, cioè nel senso.
+
+Aggiungere un true fals sul flusso è capisco che rompa le balle perché devi prendere un flusso che è standard e farlo diventare custo un po' come avete fatto per le assenze .
+
+Però si fa.
+
+Sì, è un pochino più complesso, perché le assenze era il servizio è vero che era custom, ma le logiche erano standard.
+
+Ok, quello del questo qua sarebbe un servizio custom con logiche custom, quindi non dovrei cambiare solo l'estrattore, ma dovrei cambiare anche il Transformer.
+
+Quindi diventa molto più complesso, però comunque, nel senso ci pensiamo, cioè vediamo un attimo e ci pensiamo insomma un attimo e ci pensiamo.
+
+Anche perché ti dirò la verità che io non è che ci capisco molto, perché poi Ho chiuso per sbaglio.
+
+Perché poi ho quella data modifica che non capisco mai che modifica mi rappresenta, cioè se quando hai girato il flusso.
+
+Sì, è l'ultima volta che è stato importato dal flusso.
+
+Ti dico al volo le ultime due cose che non mi tornano.
+
+Sì, aspetta Non mi ricordo se ho finito tutti i punti in scaletta, ma sono cotto. C'era quello dei centri di costo Vabbè che mi serviva più Paola che tu.
+
+Vabbè comunque quella hai capito la logica, insomma.
+
+Sì, sì, sì, ho capito.
+
+E poi ho visto che hai messo anche verifica expected ti faccio vedere.
+
+Ma c'è ancora il tema dei ritardi della latenza No, no, è un tema mio che magari mi sbaglio io, però mi ricordavo diverso.
+
+Tipo, guarda qua, Roberto Fanna che ogni giorno timbra in ritardo, perché secondo me gli hanno messo l'orario sbagliato in Zucchetti che risulta che dovrebbe entrare alle sei, ma lui entra occhio che gli orari sono gestiti in AVM non li peschiamo da zucchetti devo dire che è stato messo l'orario dentro AVM sbagliato.
+
+Ok, boh vabbè cambia poco secondo me lui entra quando vuole a seconda dell'orario che gli mettono.
+
+Secondo me, cioè è fan cavagli il turno non è questo il Ok, va bene, il tema è che io dico vedo una ne expected, cioè vedo una riga di fan Roberto un expected orario 73 io mi aspetterei di fare doppio click mi ricordavo anche che entravo qua sto tirando su orari e vedo l'orario assegnato e le timbrature che ha fatto.
+
+Quelle le vedi in cronologia.
+
+Accessi esatto lì qui vedite Perché ti la vedi di là vedi le pianificazioni Ok, ma non è che magari prima da Nextected cadevo sul cronologia.
+
+Oddio, cioè non è una cosa che ho verificato, però non non penso ci siano state modifiche a questa cosa. Nel senso se se mi ricordavo male io bene così cioè mi ero un attimo perso perché dicevo, ma come.
+
+Cioè, vedo una timbratura diciamo un expected clicco mi aspetterei di entrare qua.
+
+Sì, allora la logica è che ti fa vedere Ti fa vedere la la parte degli orari, quindi l'altra tab, perché lì tu vedi anche la pianificazione.
+
+Quindi, tu sai subito dov'è che la persona ti starà lasciando lo scoperto.
+
+Perché vedi in orari?
+
+C'è a destra l'ultima colonna a destra, la penultima colonna destra è tasca.
+
+E quindi tu puoi vedere subito immediatamente qual è la la la l'area che la persona ti lascia in scoperto.
+
+Invece da accessi tu hai il dettaglio degli accessi, cioè la pagina accessi sei a vedere i delta esatto capito.
+
+C'è la logica un po'' questa cioè da un expected voglio vedere rapidamente dov'è il problema da fixare.
+
+E quindi, se clicco mi fa vedere la tab degli orari.
+
+Ho capito, va bene.
+
+Ok, ultima cosa per favore, martedì non quell'orario lì che mi hai messo.
+
+Ah scusa, sì certo ho messo a caso ma possiamo cambiare.
+
+Dimmi quando puoi l'unica cosa io prima delle di mezzogiorno faccio un po' fatica.
+
+Che sono alcune cose da fare.
+
+No, cioè anch'io non posso, quindi Ok Va bene Ottimo, beh i miei punti li ho già detti.
+
+Quindi direi che ci aggiorniamo martedì.
+
+E io vi devo mandare le proposte per l'assesso di settembre.
+
+Sì, adesso sento Alice.
+
+Va bene.
+
+Tu hai altri punti, Filippo?
+
+Ok. Hai altri punti?
+
+Non lo so, ma Oggi sono da solo qua, quindi.
+
+Noi siamo in treno No, è che io sono cioè tutti i colleghi del team manufacturing non ci sono quindi chiunque ha un programma che non entra in macchina.
+
+Una postazione che ne so che il panel è da refresciare qualunque problema devo andare, quindi sono un po' cotto.
+
+Però dai, ce la fa.
+
+Va bene, in bocca al lupo. Grazie.
+
+Ciao Filipposeguimento anche a te ciao ciao ciao
+
+---
+cliente: danieli, argomenti: need controllo di gestione, awm - people/zconnect, sicurezza, cyberplan. partecipanti: gabriele colombo, paola riva, filippo flaborea (nota: microfono solo di gabriele colombo)
