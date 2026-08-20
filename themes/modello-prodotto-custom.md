@@ -8,4 +8,4 @@ AVM sta definendo un modello ibrido in cui le customizzazioni cliente non passan
 
 ## Osservazioni aperte
 - L'approccio B è già in corso per dashboard BI e integrazioni (livello di complessità inferiore) — il vero salto è estendere il modello a customizzazioni con gestione di domini di dato più complessi, come OringONE. Non è chiaro quale soglia di complessità renda il modello sostenibile senza supervisione Prodotto stretta.
-- Alice e Dele vengono citati come stakeholder da sentire sulla direzione, ma non sono presenti al meeting — identità e ruolo non chiari dalla trascrizione.
+- Alice e Ele erano presenti ma con microfono spento — i loro contributi non sono distinguibili nella trascrizione automatica.

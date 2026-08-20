@@ -55,5 +55,5 @@ Accennato brevemente: altro cliente con esigenza simile (modulo timesheet, già 
 - Team tech: stimare effort harness
 
 ## Note di elaborazione
-- Alice e Dele vengono citati da Giovanni come persone da sentire sulla direzione strategica, ma non partecipano al meeting — non è chiaro se siano interni AVM (delivery? prodotto?) o stakeholder Oringone. Da verificare chi sono.
-- Il perimetro del custom OringONE è descritto con sicurezza da Giovanni (sort by date + delta giacenze) ma con scetticismo da Gabriele — non è chiaro se ci sia un documento di specifiche già redatto o solo una comprensione verbale di Giovanni dalla visita cliente. Vedere [meetings/oringone/2026-08-19-ownership-sviluppo-custom.md] al momento del deep dive della settimana successiva.
+- Alice e Ele erano presenti al meeting ma con microfono spento: i loro eventuali contributi risultano attribuiti a Gabriele o Giovanni nella trascrizione automatica. Non è possibile ricostruire cosa abbiano detto con certezza.
+- Il perimetro del custom OringONE è descritto con sicurezza da Giovanni (sort by date + delta giacenze) ma con scetticismo da Gabriele — non è chiaro se ci sia un documento di specifiche già redatto o solo una comprensione verbale di Giovanni dalla visita cliente. Da confermare nel deep dive della settimana del 26/08.
