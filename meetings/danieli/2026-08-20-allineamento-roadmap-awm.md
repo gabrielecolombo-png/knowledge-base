@@ -2,7 +2,7 @@
 date: 2026-08-20
 client: danieli
 project: AWM VMS — allineamento generale
-attendees: [Gabriele Colombo, Paola Riva, Filippo Flaborea, Mattia (CdG Danieli — parziale)]
+attendees: [Gabriele Colombo, Paola Riva, Filippo Flaborea, Mattia Canever (CdG Danieli — parziale)]
 themes: [gestione-ferie-assenze, pianificazione-logistica, cyberplan-integrazione, zucchetti-integrazioni, safety-compliance]
 related_meetings: [meetings/danieli/2026-06-05-assessment-logistica.md]
 ---
@@ -13,7 +13,7 @@ Meeting di allineamento multi-tema su AWM in Danieli. Partecipazione a sorpresa 
 
 ## Argomenti trattati
 
-### 1. Dati ferie VMS per controllo di gestione (Mattia, CdG)
+### 1. Dati ferie VMS per controllo di gestione (Mattia Canever, CdG)
 Il CdG Danieli fa il budget annuale delle ore produttive per reparto calcolando ferie, assenteismo e straordinari: usa percentuali storiche da Zucchetti (consuntivo disponibile dal 16 del mese successivo). Il problema è il forecast: quando il budget viene fatto ad aprile, VMS ha già le ferie programmate per l'estate con buona precisione — ma il CdG non le usa. Quest'anno i capi reparto machining/gears hanno direttamente fornito le turnistiche per i mesi estivi (già depurate dalla componente ferie): Mattia vorrebbe ricavare da queste le ore di ferie concesse per reparto/macchina. Proposta di Gabriele: abilitare un'utenza VMS a Mattia e sentirsi direttamente per capire come estrarre il dato. Il DVH (data warehouse AWM) sarebbe la soluzione ideale ma non è ancora attivo in Danieli.
 
 ### 2. Assessment reparto montaggi
@@ -49,7 +49,7 @@ Filippo ha notato che dal pannello "not expected" cliccando su una riga si apre 
 
 | Owner | Cosa | Scadenza | Note |
 |-------|------|----------|------|
-| Gabriele | Scrivere a Mattia (CdG) e sentirsi direttamente per estrazioni ferie da VMS | 2026-08-20 | Eventualmente abilitare utenza VMS a Mattia |
+| Gabriele | Scrivere a Mattia Canever (CdG) e sentirsi direttamente per estrazioni ferie da VMS | 2026-08-20 | Eventualmente abilitare utenza VMS a Mattia |
 | Gabriele | Mandare proposte a Paola per assessment montaggi a settembre | Prossimi giorni | Seconda settimana di settembre, dopo il 3 |
 | Gabriele | Sentire Davide per sbloccare Z Connect in Danieli | 2026-08-25 (lunedì) | Davide in ferie giovedì-venerdì 21-22/08 |
 | Gabriele | Test assenze fittizie in VMS con Filippo | 2026-08-26 (martedì) | Solo pomeriggio (Gabriele non disponibile mattina) |
@@ -64,7 +64,7 @@ Filippo ha notato che dal pannello "not expected" cliccando su una riga si apre 
 
 ## Prossimi passi
 
-- Gabriele si sente con Mattia (CdG) separatamente per estrazioni ferie.
+- Gabriele si sente con Mattia Canever (CdG) separatamente per estrazioni ferie.
 - Gabriele manda proposte date per assessment montaggi (seconda settimana settembre).
 - Gabriele parla con Davide lunedì 25 per Z Connect.
 - Test assenze fittizie VMS con Filippo martedì 26/08 pomeriggio.
@@ -73,7 +73,6 @@ Filippo ha notato che dal pannello "not expected" cliccando su una riga si apre 
 
 ## Note di elaborazione
 
-- "Mattia" è il referente del controllo di gestione Danieli: presente solo nella prima parte della call, invitato a sorpresa da Paola. Nessun cognome emerso dalla trascrizione.
-- "Alice" a cui Paola dice di dover riportare il tema montaggi: non identificabile con certezza dalla trascrizione. Potrebbe essere un'altra stakeholder interna Danieli o AWM.
-- "Coin" (o simile, difficile dalla trascrizione) menzionato da Filippo in relazione a un precedente incontro sui certificati safety (19 giugno) — identità non chiara.
+- "Coin" (o simile, difficile dalla trascrizione) menzionato da Filippo in relazione a un precedente incontro sui certificati safety (19 giugno) — identità non chiara nemmeno a Gabriele.
+- Le logiche di import dei certificati safety da Zucchetti descritte nel meeting non sono state comprese correttamente: la descrizione nella sezione "Argomenti trattati §6" e nelle criticità riflette quanto emerge dalla trascrizione, ma Gabriele ha segnalato che la realtà tecnica è diversa — da chiarire con lui prima di aggiornare i file.
 - La nota d'inizio indica che il microfono era solo di Gabriele Colombo: le parole degli altri partecipanti sono riportate come le ha percepite la trascrizione automatica e potrebbero contenere distorsioni.

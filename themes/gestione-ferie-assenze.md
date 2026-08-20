@@ -17,6 +17,6 @@ Il controllo di gestione Danieli fa il budget delle ore produttive per reparto u
 
 ## Osservazioni aperte
 
-- "Mattia" è il referente CdG: cognome non emerso dalla trascrizione, non ancora identificato.
+- Mattia Canever è il referente CdG Danieli per questa richiesta.
 - Il DVH (data warehouse AWM) è la soluzione ideale a lungo termine per dare accesso ai dati analitici a più funzioni aziendali, ma non è ancora attivo in Danieli — da monitorare quando si apre questo workstream.
 - Esiste un potenziale disallineamento tra il dato ferie in VMS (programmato, aggiornato man mano) e quello in Zucchetti (consuntivo storico): chi è responsabile della riconciliazione se le due fonti divergono? Tema di governance non ancora discusso.
