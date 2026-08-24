@@ -1,0 +1,606 @@
+ago 24, 2026
+Cyberplan - integrazione standard - Trascrizione
+00:00:01
+
+Gabriele Colombo: A internet. Sì. c**** di Wi-Fi di m****. Aspetta. Z Group Group loro Dio sistema di m****. Oh, ce l'ha fatta. p**** t****. impresa No, questa è quella che vediamo se riesco ad entrare. Grazie a questo Grazie a questa cosa non mi ricordo più che c**** stavo facendo.
+
+
+00:01:01
+
+Gabriele Colombo: Ne. qua. Ah, ecco poi dicevo anche che gli URL non andavano. Eh sì, ma quelli li hai guardati? Sì, funziona. No, effettivamente investisce 4. Certo, devi usarlo da post devienticarti, cioè devi devi autenticarti è E devo recuperare il documento che ce l'ho qua. Qua m aspetta recuperare al ticket.
+
+
+00:03:28
+
+Gabriele Colombo: Sì, che poi non so cosa avete fatto, siete sicuri che poi non avete Ah, perché c'era quell XT cosa? Eh no, che è stato migrato il coso. Non so se esiste un tente ancora. Ah, diciamo un problema dienza. Eh, boh. Eh, perché sono stati cambiati tutti. Vedi, com'è che si chiama con l'utente?
+
+
+00:04:00
+
+Gabriele Colombo: Scusa. Und test. Eh, ma scusa, tu non hai guardato se c'era il mh se c'era quell'utente? No, eh perché si chiama ext cyber_ test. Perché poi non usare addirittura questa perché c**** è interna? Qui c'è anche un Cyberp. Ah no, ok. C username si chiama Cyberplan. Cyberplan.
+
+
+00:04:57
+
+Gabriele Colombo: A XT Cyberp Cyberpent. Ma perché si sono stati rinominati? p********, aspetta che te li rinomino. Ma perché abbiamo abbiamo mosso abbiamo spostato l'abbiamo spostato da Butrio a a Cyberplan e quindi gli utenti hanno cambiato nome, non si chiamano più come sta usando lui. c****, oggi uccido qualcuno, te lo giuro. Vabbè, facciamo così.
+
+
+00:05:47
+
+Gabriele Colombo: Ma poi perché ce ne sono due? Come due? sono due. lo stesso username a Server Planapi. Server Plani. Com'è che si chiama? Quali come com'è che si chiama l'utente che gli abbiamo passato? Così te lo mando in chat. Flash. Boh, prova a rifare login adesso. Ma non è quello lì eh http non c'entra niente.
+
+
+00:07:15
+
+Gabriele Colombo: Sì, ma te l'ha passato non c'entra niente. Perché chissà come ho copiato. Siamo qua. No, lo vince. Ah, ok. E questa è un una post posts all'inizio non c'hai collegato in qualche non stava funzionando niente, cioè non sei collegato a internet. Come sono collegato a internet? Qualcuno non sta perché non ti sto dando cos'è quella roba?
+
+
+00:08:10
+
+Gabriele Colombo: Cioè cosa sto usando? Opscotch perché Postman non mi non so perché non mi si apre più. Perché non lo so. mi dice, cioè mi dà un errore. Ho aperto un ticket interno, quelli di Postman mi hanno detto è tutto a posto e me l'hanno chiuso e l'ero andato a fare in c***. Vabbè, comunque tra l'altro non è quello.
+
+
+00:08:29
+
+Gabriele Colombo: Sì, ma scusa. M no, quella di login, eh. Ok. è giusto.it è quello l'errore? No, no, no. Ah, no, poi ex salva. No, è che no. C'è una cosa che non va, che quel coso lì che hai messo autorizzazione basic out non funziona perché metti corpo dirà no, non puoi farlo qua.
+
+
+00:09:29
+
+Gabriele Colombo: Devi scrivere username e password. Ma devo metterlo dentro al Jason. Sì, non credo che l'ero visto qua. metterlo. Ah, lo giusto? No, quella ha sempre rivolta. Anca la virgola, eh? Manca la virgola. Ah, adesso ha funzionato. Eh, sì. E poi prova dopo prova a caricare un file.
+
+
+00:10:38
+
+Gabriele Colombo: Ma sì, ma si chiamava solo diverso e poi quello dell'autenticazione. Sì, si potrebbe anche cambiare questa compost. Wow! Apro io. Vediamo. Apro io in roadmap. Cosa? La apro in roadmap, quella del dell intanto comunque devi usare questa No. อ Buon pomeriggio. Ah, ciao.
+
+
+00:13:33
+
+Gabriele Colombo: Io prendo in E quindi riesco a fare questo, non è un berer. Sì, sì, giusto. Eh, ma allora non funziona. Cosa che dice? Network error. Lo stesso di prima. Non è che non stia sbagliando qualcosa nel corpo. No, no, quello quello dove essere qualunque, cioè potrei scrivere qualunque roba in teoria scrivere quello che ti pare.
+
+
+00:14:17
+
+Gabriele Colombo: Load machine calendar. Non è una post forse questo sicuro che è abilitato questo machine calendar perché perché c'è anche test devo mettere eh c**** è adesso? Qua queste qui non sono parametri. Il plant code deve essere il plant code e devi mettere, se non vuoi specificarlo devi mettere zero. Distance ID è effettivamente un parametro. Eh, ma se li metto io non eh poi mettere zero e poi le distansi di lì poi mettere quell però Yeah.
+
+
+00:14:58
+
+Gabriele Colombo: Comunque qua mi sembra che fallisca Monte Xumdi upload. No, eh, che va proprio in errore. Ma poi scop scoccio fa cagare. Non ci sta dando neanche i messaggi di errore del del della network. c**** vuol dire? Cioè, quel c**** è il codice di errore? 500 401 non ci faccio un c****.
+
+
+00:15:27
+
+Gabriele Colombo: Post posto una cosa. Aspetta che devo mettere tutto questo. No, se arriva a buon fine mi dà la risposta. St 200 che qua mi aveva dato la risposta. Eh, ma infatti però quando vai in errore sì che quando ti serve la risposta, tra l'altro vè non dice niente. Eh, aspetta, fammi controllare pro un altro end point. No, vado a verificare che ci sia ancora.
+
+
+00:16:05
+
+Gabriele Colombo: No, non questo. Vado a verificare che ci sia ancora abilitata la l'It. Ma dove c**** è laadi? Boh, questo can di m****. C non c'è la di, cioè capito, ma dove c****? Ma io non ho fatto niente nel tenant, cioè non ho attivato roba. No, lo so, ma perché aveva attivato delle cose Franco, ma io non ma non mi sembra che l'abbia fatto correttamente, cioè lui ha rinominato solo il tenon, poi me l'ha dato da revisionare, io poi sono andato in ferie e questo qua sto qua non c'è
+
+
+00:16:58
+
+Gabriele Colombo: niente Mbappé. Ah, eccolo qua. Plus connettori. Allora, connettori server PPI c'è ehm Standard Operation Machine Calendars. Vuoi vedere questo? Maine calendars. E beh, allora dovrebbe lasciartelo caricare. Dove che sei? Sei su dev. Allora, su qua c'è qualcosa.
+
+
+00:17:58
+
+Gabriele Colombo: No. dice 200. Aspetta, transit Ah, giusto. È transit transit c'è un un coso che si chiama e dev, scusami. Sì. Ah, ma si chiama Daniele Lutrio. Ah, vabbè. No, aspetta, aspetta. No, ma questo è 3 agosto, è prima della migrazione, secondo me. Sì. Allora, intanto qua dev xd.
+
+
+00:18:36
+
+Gabriele Colombo: No, ma deve andare tra l'altro deve andare su dev comunque XT Cyberplan, cioè non si chiama Domini. No, no, infatti dovrebbe chiamare extra_ Cyberp. Aspetta, però. Ah no, upload type. E il type è questo qua. No, quello è il prefisso della cartella. Il type sono quelli sotto i machine calendar. Giù, vai giù.
+
+
+00:19:06
+
+Gabriele Colombo: Quelli tre lì. Ok. E se consulta la documentazione. Eh, boh. No, no, perché mi sa che avevamo fatto una pagina. Vabbè, ma quindi di cosa dobbiamo parlare? E devo devo dire devo capire cosa dire a sto tizio uno. Ah. Eh, per cui sta roba del login cosa facciamo? Questa roba da login.
+
+
+00:19:38
+
+Gabriele Colombo: Intanto usano quello e poi faremo anche l'altro, ma non non adesso. Eh, però loro non credo possono usare questo. Sì che possono perché dicevi di usare le password, quindi sicuramente possono. Ma l'hanno già fatto su Frank. Ok. Cioè, quindi per provare intanto possono usare benissimo quello, poi eh esporremo l'altro. Ok, va bene.
+
+
+00:20:07
+
+Gabriele Colombo: Su questo dico così dei standp che non funzionano. Eh, no, adesso non funziona. Dici che adesso funzionano ed è il secondo. Vabbè, ma il giro di vè Ma glieli devo rigirare, scusa. Non ce li ha già? Sì, ma non so, ma poi si è messo a provare vari varie versioni perché ha visto che non funzionava.
+
+
+00:20:30
+
+Gabriele Colombo: E vabbè, ma gli dirò che quello della della documentazione è corretto. Sì, sì, solo Ok. Non dirglio che era cambiato beh, gli dico che la documentazione era corretta e c'è stato un errore. Vabbè, qualcosa. Comunque dico di usare quelli della documentazione. Sì, sì. Boh, a posto. Era io avevo questi due punti da capire.
+
+
+00:20:51
+
+Gabriele Colombo: Come c**** No, più che altro che non so perché non riesci a caricare quella m****. Ah, perché noi non riusciamo a caricarla da qua. Eh, vuoi provare tu da Postman? Ma dovrebbe essere uguale. Vabbè, ma vabbè, dopo apri un ticket che vediamo. Sen no, girami quello là. Non so se ce n'è già uno di cosa?
+
+
+00:21:10
+
+Gabriele Colombo: I ticket. Ticket riguardo questa cosa qua. No, c'è questo qua dove me li avevi fatti. Eh, vabbè, questo non hai chiuso, però. Però No, no, te ne giro un altro. Va bene. Perché questo funzionava. Eh, sì. È che poi abbiamo cambiato sta roba. Eh, esatto, perché l'abbiamo spostato di te.
+
+
+00:21:28
+
+Gabriele Colombo: No, vabbè, apri come il figlio. Figlio? No, no, no, poi non si capisce niente coi ticket quelli là. Va bene, allora dopo te lo apro. Ok, basta. Io ho finito. Eh, Alberto, c'è la parte dell'Horizon. Eon ci devi illuminare. E come? Allora, venerdì abbiamo fatto ste chiacchierat.
+
+
+00:22:05
+
+Gabriele Colombo: Venerdì abbiamo fatto sta chiamata con Marco, fondamentalmente, ehm, quando vorrà si collegherà. L'ha scritto anche lui qua nell'email che non so se avete avuto modo di leggere. No, ancora. Ok, per allora prendo Lui ha mandato questo screen perché ho detto riusciresti a mandarci questo screen poi degli altri. vicino ancora giusto. Oddio mio, c****.
+
+
+00:22:46
+
+Gabriele Colombo: È veramente dura utilizzare uno strumento Boh. Eh, praticamente qual è il concetto? che lui è partito a spiegarmi la questione che forse voi già sapete che Vediamo se sta o meglio. Sì. Eh, vediamo se avevo preso la parte dell'orario. Sì, ecco, è qua. Sì, sì. Allora, c**** praticamente cosa è partito raccontandomi la questione che l'Horizon si divide per schedulazione e pianificazione, il discorso sempre a capacità finita, cioè FCS,
+
+
+00:23:36
+
+Gabriele Colombo: FCP che è la loro dicitura per dire quando vai a schedulazione a capacità finita a livello di macchina sei sull'FCS che è quello che loro dicono vai circa sulle due settimane non di più mh poi invece vai sull'CP che è una schedulazione di dettaglio a livello di CDL, quindi CDL che abbiamo capito essere il contenitore dei delle macchine Yeah. Ehm i CDL quindi ragionano per due concetti, la schedulazione a capacità finita mh che è determinata per questo Horizon e poi possono lavorare a capacità infinita quando loro gli danno l'FCP, cioè lo fanno lavorare FP,
+
+
+00:24:15
+
+Gabriele Colombo: quindi con eh un un orizzonte temporale, lì vengono fuori ovviamente una serie di criticità su perché ci sono più regole e più vincoli e quindi Fin qua non c'è niente di che. La parte più interessante è che il concetto di Horizon è un settaggio che si può mettere o a livello di istanza, quindi globale, o a livello di CDL. Sì, quando tu lo assegni al CDL, eccolo qua l'esempio qua sotto, tu hai una colonna così dove vedi tutte le tue press.
+
+
+00:24:49
+
+Gabriele Colombo: Se tu assegni a una macchina, una pressa lo razon, tutte le altre lo reditano uguale perché perché è un valore che tu assegni al concetto di CDL e non di singola macchina. Mh. Boh. Quindi già questo portava la frase che ci aveva scritto che da cui è andato il meeting a non focalizzarci sul concetto di macchina ma sul concetto di CDL perché ma era già così. Infatti mi ha detto che che usano l'horizon sul concetto di CBL sono circa nel loro esis dal 10 al 20% dei clienti che hanno attualmente che son pochi rispetto al loro 100% sono pochi ma non sono trascurabili però ho detto che il vero problema è che dentro a
+
+
+00:25:30
+
+Gabriele Colombo: quel 20 1520% ci sono 50 dei 50% dei progetti che per AVM sono in target. Eh, quindi ha detto voi siete là dentro. Ehm, ok. Sì, vabbè, il concetto è che se tu setti un Horizon sul a livello globale e poi lo definisci su un singolo CDL in maniera specifica, ehm, vince il valore più specifico che è associato al CNR, quindi quella è la però quello or trasparente tanto Sì,
+
+
+00:26:02
+
+Gabriele Colombo: sì, infatti qual è l'unica cosa che però varia un sacco e c'è chi ci a noi ci interessa è questo. Questo è l'esempio. E anche nel file che lui ci ha mandato, in questo caso qua, cos'è che lui ci ha mandato? ci ha detto,"Ho impostato un orizzonte di 3 giorni e come si vede la schedulazione FCS, quindi a livello di macchina per il singolo CDL arriva ai 3 giorni. Passati i 3 giorni lavora a un concetto di orizzonte FCP che se non è segnalato ovviamente parte a
+
+
+00:26:32
+
+Gabriele Colombo: capacità infinita. Quindi quello che è un po' il punto è capire la differenza che ci sta fra questi dati che hanno questo tipo di grafica, ma adesso vediamo come si traduce a livello tabellare e quello che succede dopo che è questo. Qua si vede un poco da c***, però qua si vede che fintanto io non ho prenato la sala. Ah, sei tu che fai il ladron? Yeah.
+
+
+00:27:03
+
+Gabriele Colombo: ha cambiato standard. No, no, io non ho prenotato sale. Ah, eh, però la weekly ce l'abbiamo qua, però non Grazie. Sì, tanto sono tutte libere le stanze, raga. Cioè, io posso stare dove voglio. Ho anche quell'altra. Ho anche quell'altra. Ah, ecco, l'ho prenotata io questa.
+
+
+00:27:31
+
+Gabriele Colombo: Non è vero. La settimana scorsa di là post. Se volete facciamo scambio. Eh, quindi qual è la differenza? Quattro tutto il building. Non pensavo se avesse prenotare la sala. Vabbè, quindi qual è la differenza? La differenza è tre giorni sono settati, ma la differenza è questa che fintanto che tu arrivi alla data entro i tre giorni, che qua era il due, l'ultimo dei tre giorni, partiva all'uno, dal 31, faceva il fino al due.
+
+
+00:28:02
+
+Gabriele Colombo: Da quando scade l'horizon m il la colonna della macchina e della sequenza non c'è più, cioè si arriva ad avere il concetto di schedulazione su CDL e non più su macchina. Quindi cosa succede? che di base quello che noi dobbiamo capire è capire, cioè definire qual è l'impatto che questo Horizon può avere verso AVM. Perché Marco mi diceva a voi a livello di Ma eh cosa come ragionano?
+
+
+00:28:36
+
+Gabriele Colombo: Cioè qual è la Ah, è solo che vai sulla macchina e non ma e qual è la differenza che non avevano più Cos'è che non avevano più? Forse avevano il numero. Ah, beh, certo, perché qui c'hanno il numero di macchine da attivare fino all'Horizon do, cioè dall'horizon prima invece c'hanno le macchine specifiche. le macchine specifiche, cioè in una parte ti dicono macchina 1 2, lavorate, fate questi ordini dalle alle, poi diventa tutte le di tutte le macchine che ho dentro al CDL, io so come ne devo attivare due.
+
+
+00:29:12
+
+Gabriele Colombo: Non so se è la macchina uno o due, son due delle cinque che ho, sei. Esatto. E dovrà in questi ordini, quindi so che devo riempirmi. Questa è un'informazione che io gli ho chiesto e ho detto"Ma scusa, ma chi pianifica su su Cyberpet Schedule?" Gli interessa sapere questa informazione qua, cioè gli interessa sapere che fino a qua è in FCS, da qua è in FCP.
+
+
+00:29:37
+
+Gabriele Colombo: Eh beh, sì, ma a livello di informazione lui mi fa"No, non frega un c**** perché tanto lo vede subito, cioè lui vede questa schermata e vede che da poi in poi non ha più l'indicazione di la macchina." Sì, sì, va bene. Quindi l'unica cosa che avevo pensato che a noi potesse tornare utile era far visualizzare sta roba. Ma ma noi, cioè secondo me a noi noi a noi e ai nostri utilizzatori non interessa quel punto del tempo perché comunque in AUM schedule delle persone per cui l'obiettivo di avere sta roba, il piano produttivo è dimensionare la tua capacità di manodopera,
+
+
+00:30:11
+
+Gabriele Colombo: cioè la tua manodopera. Quindi non ti interessa poi, cioè nel breve termine ti interessa anche il dettaglio di dov'è la manodopera, com'è distribuita, però sul lungo termine vuoi solo un dimensionamento in realtà, per cui secondo me non è fondamentale che la persona sappia eh distingere dov'è questo. Esatto. Non so. Io l'unico caso ho pensato, ma è quello più merdoso, è dove hai il cliente che dice voglio pianificare sui 30 giorni dove la schedulazione di dettaglio lo odio entro i 15 m e quindi lì comincia a essere impattante,
+
+
+00:30:44
+
+Gabriele Colombo: soprattutto se cominci a avere situazioni quelle annardose con le famiglie prodotto dove le skill cominciano a essere impattate da sta roba e le macchine anche in base al tipo di di cadenza che hanno, però lì è una situazione iper complessa che mi viene da Infatti è stato l'unico coso che ho un po' spinto su Marco a dirg di guarda, ma com'è che funziona? E detto funziona che o eh aspetta, com'è che ci arrivava, tra l'altro ci arrivavano quindi un orario col numero test?
+
+
+00:31:12
+
+Gabriele Colombo: Che c**** ci arrivava? Marco ha fatto una proposta che non so se ha scritto su email, cioè aveva fatto tre proposte per affrontare sto discorso qua senza impagarsi e prima era trovare una semplificazione. Quindi la prima era trovare una semplificazione e la seconda è valutare l'integrazione con l'anagrafica dei CDL di Cyberplant per farsi passare l'Horizon preciso per ogni CDL. No, vabbè, ma cioè come adesso, allora va bene, però c'abbiamo un problema internamente perché cioè sono due import diversi, eh.
+
+
+00:32:00
+
+Gabriele Colombo: Cioè ipoteticamente potrebbero andare sulle stesse cose, hai capito? Però infatti su questo mai Marco mi ha detto così di valutarla perché anche lui ho detto sto buttando idee mi ha detto si potrebbe anche pensare prima di tutto e mettere in piedi il flusso delle operazioni, farlo andare, cioè vedere come vien fuori e vedere che dati cominciano ad arrivare, cioè capire anche noi se stiamo parlando la stessa lingua o meno. E poi ha detto in base agli oggetti andiamo a vedere sto concetto di Horizon dove va a impattare i casi, quindi considerarlo come un next step di evoluzione perché ha detto in questo caso qua ci sono tante situazioni che possono verificarsi,
+
+
+00:32:37
+
+Gabriele Colombo: ha detto dipende sempre da cosa si vuole ottenere. Questa è la sua messo sul tavoli perché hai detto io, cioè lui mi ha detto chiaro ha detto per me il lato chi pianifica le persone Horizon non ne frega un c****. lui mi ha detto non così ver un po' più però mi ha fatto intendere che non è un'informazione che dovrebbe No, ma non l'informazione, ma eh comunque ci arrivano delle cose dei CDL che c'hanno che iniziano a schedulare nel
+
+
+00:33:05
+
+Gabriele Colombo: dettaglio da oggi, cioè che schedulano nel dettaglio da oggi fino a per due mesi e ce ne arrivano altri che invece non schedulano mai nel dettaglio. Corretto? Eh, quindi comunque abbiamo gestire tutte e due. Il punto è che adesso erano due flussi separati e eh appena detto è proprio quello che lui ha detto, ha detto nel 99% dei casi hai che dentro un'istanza hai CDL che vengono capacità infinita e altri solo alcuni a capacità finita perché ovviamente il
+
+
+00:33:38
+
+Gabriele Colombo: calcolo e i vincoli che vengono richiesti sono tanti, quindi quello che detto è proprio quello che ho detto è quello che si verifica sempre. Quindi sono due flussi mh perché adesso vabbè, però forse non è un grosso problema, cioè è un problema se effettivamente è configurato male perché dipende dal flusso che gira prima. Cioè, se noi facciamo girare prima il flusso dei gruppi e poi quello delle macchine, se quello se ci sono delle macchine che poi vanno sopra allo stesso gruppo, noi eh buttiamo via e riscriviamo, cioè nel senso riscriviamo parte del dato lo perdiamo.
+
+
+00:34:18
+
+Gabriele Colombo: Ok? Quindi tutti aspetti che tutte le macchine che appartengono a un gruppo abbiano o abbiano, cioè tutte le macchine che appartengono a un gruppo da Cyberplan sicuramente non sono configurate in eh nel dettaglio con la schedulazione del breve termine se il gruppo è configurato con l'Horizon che parte da oggi. Eh, cioè più che altro erano tutte lo stesso Ryony quello sempre. Esatto, sempre. Comunque quello sempre.
+
+
+00:34:55
+
+Gabriele Colombo: Però il punto è che il punto è che magari da noi quei codici li abbiamo mappati anche su eh altri CDL che in realtà ci arrivano con eh la schedulazione definita per task che però anche là vabbè chi se ne frega, vuol dire che è configurato di m****, lo configuri bene. Ma c****, c'ai ragione. Vabbè, però quello lì non è un grosso problema.
+
+
+00:35:26
+
+Gabriele Colombo: il l'altro il problema principale che non mi ricordo cosa avevo visto l'altra l'altra volta nell'importare cancelliamo e poi riscriviamo. Sì, perché perché non possiamo fare altrimenti perché altrimenti non riusciamo a cancellare le cose, cioè cancelliamo e poi riscriviamo perché altrimenti nell'importo, non come sono le cose adesso, ma dovresti dire tutte le cose che sono cambiate, che chiaramente è un'area m****.
+
+
+00:35:58
+
+Gabriele Colombo: M. Ehm, però non mi ricordo con che meccanismo cancelliamo, cioè se cancelliamo solo le cose che ci arrivano se cancelliamo il programma intero del di demand. Eh, demand come funziona. Vabbè, ma in ogni caso, cioè di solito quando facciamo l'incorbis cancelliamo tutto e poi liiamo. Eh, eh, però come facciamo a cancellare? Perché qua dobbiamo cancellare, però solo alcune cose.
+
+
+00:36:27
+
+Gabriele Colombo: Dobbiamo cancellare su un determinato orizzonte temporale per alcune cose tutte quelle e su un altro orizzonte temporale, tra l'altro tutti variati perché non è che eh no per il singolo e per quale con l'Horizon a livello di in cima era più semplice perché noi diciamo cancelliamo da qua a due mesi per tutte le macchine e cancelliamo dai due mesi in avanti per tutti i gruppi e quindi c'avevamo un giorno in cui Spezza dalla giorno in poi iniziavi a ragionare in un altro modo.
+
+
+00:36:58
+
+Gabriele Colombo: Così invece è in base al CDL quelli ragionano in maniere diverse, capito? Certo. Quindi è un po' una m****, ma rende tutto iper complicato, eh? Te rende tutto iper complicato. Eh, boh, non lo so. Cioè, nel senso, a parte la visualizzazione su Messe, ma quella è un problema. nel senso che non hai nessuna visibilità su No, più che altro che eh così come facciamo a sapere cosa cancellare che o cancelliamo solo le cose che ci arrivano,
+
+
+00:37:45
+
+Gabriele Colombo: però vuol dire che se ti svuotano una macchina o se ti svuotano un CDL e non te lo mandano più, quello là rimarrà per sempre così. Esatto. Oppure non so come cancellare, cioè base cancelli che adesso vengono cancellate, credo. Ma scusami, ma se tu cancelli tutto perché non funziona? Cancelli tutto, provi a riscrivere.
+
+
+00:38:08
+
+Gabriele Colombo: Cioè tu cancelli tutto perché abbiamo perché abbi perché abbiamo due flussi. Perché sono due flussi separati, sennò dobbiamo unirli. Ah e a corto i gruppi, cancello tutto e scrivo. Poi porto le macchine, cancello tutto e scrivo. I gruppi sono i gruppi sono andati a p******. Ok. Sì, adesso ti dico anche programader program non pro plan.
+
+
+00:38:38
+
+Gabriele Colombo: Cioè qual è? C'è un un qualcosa, una chiave tale per cui non capire cosa non cancellare, perché qua in quello schema lì vedi, no? Il problema è che dovresti leggere macchina per, cioè task per task, task per task, sempre entrambi i flussi e decidere task per task cosa cancellare. Sì, neanche CDL qua. No, è sempre tasto per dare il più grane.
+
+
+00:39:05
+
+Gabriele Colombo: Invece prima Sì, sì, no, è chiaro tagliari a testa al Toro. Ma infatti sto pensando, noi come proposta non possiamo dire a Cyberplan un nuovo campo a livello globale e consideriamo quello. Eh vabbè, ma tanto no risposto risposto perché dopo la questione che già mi immagino qual è? l'utente finale ti dice sì, ma vedo che fino a un certo punto AVM uguale a S, poi no, che se no creiamo questa forzatura, mentre l'utente ti dirà sempre voglio vedere due cose pari pari quindi non vedo tanti altri giri
+
+
+00:39:38
+
+Gabriele Colombo: possibili, però la vera questione è Io ho un meeting alle 12:30. No, aspetta, aspetta, aspetta, aspetta. Vabbè, ma tanto ma tanto cioè no, perché se dite sposto oggi pomeriggio, devo solo fare un allenamento con mattina per altra rogna di sì. Vbè, vai. Insomma, vabbè, facciamo una cosa, eh, ci pensiamo un attimo, vediamo se riusciamo a usare lo stesso loader, sennò ci pensiamo un attimo, vediamo se riusciamo a usare lo stesso loader, senò ne faremo un altro che fa questa cosa,
+
+
+00:40:29
+
+Gabriele Colombo: non so come, però eh non so come altro Cioè, o cancelliamo, cioè o cancelliamo solo quello che ci arriva. Però allora vuol dire che loro devono mandarci anche il fatto che svuotano la postazione, cioè nel caso spengano una macchina o qualunque cosa, loro devono mandarci che quella macchina adesso è vuota. Cominciamo a domandare la macchina col planning o la macchina o gruppo col planning vuoto.
+
+
+00:41:11
+
+Gabriele Colombo: Macchina al gruppo. Sì, è che adesso è tutto il noder nuovo perché adesso cancelliamo e scriviamo. Ride devo per la Z togliendo gli occhi. Ma no, ma sì, ma perché tra l'altro l'altra volta se mi ricordo che ne avevamo già parlato di sta roba qua, abbiam detto allora lasciamo l'Horizon lì dentro, ma tanto l'Horizon poi prenderemo quello, cioè ne pr prenderemo il primo perché facciamo che da un fino a un certo punto che
+
+
+00:41:44
+
+Gabriele Colombo: infatti gli avevan detto fino a un certo punto quindi si ragiona così e da un certo punto in poi quel tenant ragiona in un altro modo. Se dicono adesso tirano fuori nuovi dati dicono che in realtà tutti i shciotti. Volete che facciamo la chiamata? a gente che dipl chiamiamo Amedeo e chiediamo a lui se non ha mai usato campo giusto per toglierci. No, ma tanto non camb niente, tanto se ci dicono che lo dobbiamo gestire poi dopo il primo tenant che arriva in cui effettivamente ci serve ci dicono certo abbiam detto cioè se comunque un 10-20% clienti ha una percentuale molto alta.
+
+
+00:42:17
+
+Gabriele Colombo: No, no, a me interessa No, no, a me interessa. Marco, mi hai detto che quelli che usano quelli sul CDL sono quelli che usano, cioè quelli che usano l'Horizon sono buona parte, però non è che mi ha dato numeri basati su qualcosa di reale, cioè fatti a Spann. Sì, sì, merita. Dopo comprendo che per pulizia e per aggiornamenti bisognerebbe farla così, però.
+
+
+00:42:46
+
+Gabriele Colombo: Vabbè, allora se gli facciamo senò gli facciamo inserire anche quelle vuote. Ma aspetta, non cioè non serve tutte quelle vuote, servono quelle svuotate l'ultima volta. Beh, tutte no, tutte perché tanto chi se ne frega. Quindi vuol dire un bordello perché c vuol dire che ci devono mandare sempre tutta la lista di tutte le macchine e nel caso siano spente tanto c'è cioè che poi nel caso siano spente vuol dire che vuol dire nel caso in cui siano spenti in tutto l'orizzonte temporale considerato in
+
+
+00:43:19
+
+Gabriele Colombo: realtà perché eh se è accesa tra un mese e la pianificazione a lungo termine lo ci danno la finestra di Sì. Sì, poi tra l'altro anche qui però per anagrafica loro tante volte non ti cancellano mai macchine. Ma no, ma aspetta, scusa, però aspetta. Un casino, cioè se abbiamo una macchina che è accesa da dal 20 settembre al 25 settembre, ok? M c'è un cambio di pianificazione e la cambiano accendendola dal 15 al 20 e poi dal 25 al 30. Sì, loro ci devono dire che la macchina è accesa dal 15 al 20, poi di nuovo dal 25 al 30,
+
+
+00:43:58
+
+Gabriele Colombo: ma ci devono anche rimandare l'orizzonte 2025 senza planning. No, e no se non cancelliamo. Ma a noi ci interessa quali a noi ci interessa sapere quali sono le i task i task e CDL coinvolti nell'import. m****. Quindi in teoria quelli là quelli là son dentro nel son dentro nell'importamo, cioè tutti i pezzi in cui quelli là non c'hanno il calendario cancelliamo perché stiamo perché lo stiamo considerando, cioè sappiamo che esiste per Cyberplan,
+
+
+00:44:41
+
+Gabriele Colombo: cioè il punto è distinguere quelli che sono il punto è distinguere quelli da cancellare perché arrivano dall'import, quelli che sono considerati nell'import e i task che non sono considerati nell'import. Adesso questa cosa la facevamo a linee, quindi se tu stai integrando una linea, quella linea ragiona a a in questa maniera qua e quindi eh se ti arrivano dei tutto quello che ti arriva su quella linea, noi cancelliamo la linea e riscriviamo con i dati che ci sono arrivati, ok?
+
+
+00:45:17
+
+Gabriele Colombo: tranne per i alcuni tasche che non mi ricordo, tipo i forza abilitati, quella roba là che tra l'altro su sul su demande non mi ricordo neanche se quel flag è supportato, però vabbè, sulla flex i forza abilitati non venivano cancellati. Gli altri, siccome quella linea è integrata a la roba che arrivava, tutta la roba che arrivava, noi cancelliamo e scriviamo con tutta la roba che ci arriva.
+
+
+00:45:50
+
+Gabriele Colombo: Senò lo continuiamo a fare così, sennò lo facciamo. Forse non ci serve che ci mandino niente. Non serve che ci mandino niente. Continuiamo a fare l'aggiornamento che stiamo facendo adesso. Guardi la differenza l'ultima volta, no? è che dobbiamo mettere insieme, però nel nello stesso importamo insieme sia i calendari che io operazioni, no, scusa, sia ehm eh sia i gruppi che le macchine.
+
+
+00:46:26
+
+Gabriele Colombo: Sì, mettiamo tutti assieme. Ma loro continuano a mandarci su due flussi divisi. Loro continuano andare noi li noi li eh li mettiamo assieme. Guardi solo i tasti l' dell'orizon non me ne sbatte il c**** perché non non ci interessa perché noi sapremo ci saranno dentro dei calendari che avranno delle dei calendari che avranno del un numero di di tasche da abilitare.
+
+
+00:46:59
+
+Gabriele Colombo: Sì, ce ne saranno altri che invece avranno mh un orizzonte temporale. Ma quindi lì tu puoi f in quel caso siamo noi che facciamo trasformazione del dato, quindi cioè Sì, solo che li mettiamo al posto che lasciarli separati. Non possiamo più lasciarli separati, ma li dobbiamo mettere assieme perché sennò così al al quando ci arrivano li cancelliamo, li scriviamo. Ok?
+
+
+00:47:24
+
+Gabriele Colombo: Però questo vuol dire che tu dallo stesso flusso devi tirare due logiche diverse perché non puoi leggere allo stesso modo i calendari dei gruppi e calendari dei dei delle macin no significa che eh significa che dobbiamo trovare un modo poi nel loader per dirgli su che entità andare perché li avevamo lasciati separati perché quello dei gruppi così lo configuravamo per andare sui CDL per cercare il codice dei CDL e quello dei task così lo configuravamo per andare o sui task o sul bilanciamento.
+
+
+00:47:56
+
+Gabriele Colombo: Cac mazzi. Ma scusa, così dobbiamo trovare un modo nell'ader però li fai sempre sui taschi lo discorso facciamo prima che tu li unisci li unisci assieme. Ma se eh No, tu li unisci assieme e da è una regola di quelle basic del tipo se hai il fatto che hai un CL mh che è formato da cinque macchine e una di queste macchine è schedulata. Mh. Ok.
+
+
+00:48:20
+
+Gabriele Colombo: e quindi hai tutto quello che serve, ma dopo un certo orizzonte ti viene passato il la schedulazione a CDL e non più a macchina dove ti viene detto che hai tre macchine, quindi primo caso hai solo una macchina specifica che deve andare che è questa. Poi passato l'Horizon che a noi non ce ne frega un c****, tu semplicemente sai che a un certo punto qua non hai più informazione, finisce la sua stimolazione e da questa data in poi però vedi che hai il CDL pianificato a tre macchine.
+
+
+00:48:51
+
+Gabriele Colombo: Ritorna come caso. Sì, ma il punto è che io devo sapere se cercare i codici che mi mi inviano. Devo sapere se cercarli per CDL. No, sono flussi separati, giusto? Eh, ma non possiamo separarli perché sennò non funziona più. No, no, questi sono i due flussi separati che due flussi separati, sì, che ti arriverebbero perché il primo flusso è a questo punto tu li unisci e gli fai, cioè li unisci a livello di tracciato e l'informazione che passa sono due slot
+
+
+00:49:20
+
+Gabriele Colombo: dove nel primo sai il task preciso, nel secondo attivi i primi tre task in maniera randomica. Eh, ma come fai? Cioè, ma io non so quale task, cioè non non so come cercarli. Eh, ei, sono dentro al CDL. Ma non so se devo Ma come faccio a sapere che devo cercare il CDL o il task? Cioè, Cioè, qui l'unica differenza è che uno non c'ha il machine code e l'altro c'ha il group code.
+
+
+00:49:54
+
+Gabriele Colombo: Eh, sen no si può fare così. Possiamo caricare, però dobbiamo farlo. Fammi vedere come fa. Come fa adesso sto loader di m****? Ecco qua. T è più complicato. Non riesco a fare in termini di prestazioni la vhne frega quella quella giustamente lin task code. Ecco. In teoria facciamo già così, eh.
+
+
+00:50:54
+
+Gabriele Colombo: Ok. อ Sto c**** di coso. Grambols. data di riferimento. Ok. Eh, boh. Sì, potremmo fare anche così, forse non c'è nessun problema. Solo che questi, quindi qua fino a un certo giorno ragionano a teste e poi da un certo giorno in poi ragionano a eh scusate, da un certo giorno ragion ragione vedere questo.
+
+
+00:52:13
+
+Gabriele Colombo: Ok. Vabbè, questa è configurazione. Eh, fare programation ID. Ah, beh, possiamo fare così. Quindi e tra le ste teste di c**** forse bisogna cambiare un attimo la logica. Non so se supportati i gruppi perché noi dei gruppi cos'è che volevamo fare? Accendere e i gruppi devono essere omogeni. Eh no, ma esatto.
+
+
+00:53:53
+
+Gabriele Colombo: Ma quindi come fanno ad essere omogenei? M. Son sempre, quindi sono tutti omogenei. Beh, se loro partono dal presupposto che siano omogenei, perché se non indicano la macchina specifica vuol dire che non gli cambia qual è la macchina da accendere. Eh, ma ho capito, ma quindi se se io ragiono a a nello specifico, se io ragiono con una schedulazione di dettaglio da qui a due mesi, da due mesi in poi invece ragiono sul gruppo, ma il gruppo è sempre configurato uguale.
+
+
+00:54:26
+
+Gabriele Colombo: Sì. M m quindi significa che tutti quelli che cambiano e c'hanno un Horizon sono gruppi omogenei perché prima poi devono essere omogene, quindi omogene già da oggi. Ma in generale Ma quindi da noi dobbiamo configurare sempre dei CDL di m****? Sì, ma la configurazione però eh ma ho capito, ma quindi vuol dire che da noi saranno dei layout di m****, perché saranno tutti CDL con dentro gli stessi task, che praticamente significa CDL con un task con un' numerosità 100.
+
+
+00:54:57
+
+Gabriele Colombo: Beh, nel caso in cui in Cyberp ci sia questa cosa, gruppi, non hai detto, nel caso ci siano i gruppi macchina di Cyberplan, allora A deve avere una configurazione che con i CDL 1 a un coi task, praticamente. Sì. Eh, come che cioè il nostro CDL deve corrispondere al loro gruppo macchina. Se il gruppo questo significa che il gruppo macchina di SB è omogeneo, allora anche il CDLD a VM deve essere omogeneo.
+
+
+00:55:28
+
+Gabriele Colombo: E però questo crea mica che tu puoi prendere lo stesso tasche al momento di fare l'apporto 11 CBL task du. Anzi no, aspetta un attimo perché più numerosità pari a quello che ti viene inviato il film. Sì, sì, però aspetta, però però aspetta perché se abbiamo per gestire il caso in cui vogliamo differenziare il calendario sui task, vuol dire che abbiamo dovuto creare più task dentro lo stesso CDL.
+
+
+00:55:55
+
+Gabriele Colombo: Sì. Quindi quando poi diventa il gruppo che ci arriva il gruppo, noi la numerosità lo aumentiamo su quale tasche? No, allora, aspetta, qua dobbiamo decidere se vogliamo fare un task unico che tanto eh ma perché se fai un task unico non cioè un task unico va bene per quando stai ragionando a gruppi, ma se per due mesi ragioni su con tre tasche, vuol dire che tu i tre task devi crearli. Sì, sì.
+
+
+00:56:20
+
+Gabriele Colombo: No, adesso capisco, però tas, sai già che saranno tre task uguali, ma uguali per non si sa cosa, cioè per AVMS sono diversi perché sono tre task e poi dopo quando inizi a ragionare a gruppi aumenti la numerosità di quale task? Il primo, il secondo del terzo? Cioè tu sai che sono uguali però Eh, no, ma a quel punto è sbagliato il concetto di numerosità perché non puoi aumentare la numerosità di un task.
+
+
+00:56:46
+
+Gabriele Colombo: Se tu hai cinque tasche dentro un CDL, perché a sul breve termine ci dici task 1, task 3, se poi ti arriva se poi se poi mi arriva il il gruppo che ha mi dice numerosità 7, Ah. Esatto. A parte che non usa essere massima la nostra configurata per tasca. Sì, vabbè, ma il punto è il punto è che da noi configurate per task, quindi mi arriva a sette.
+
+
+00:57:08
+
+Gabriele Colombo: Io metto sette sul primo, 7 sul secondo, sette sul terzo, sette sul quarto, sette sul quinto. Quale dei cinque? Ma se tas omogeneo non cambia niente, lo metti direi però. E quindi ne metto uno a caso. Esatto. Però il primo però mi chiedo se sia corretto comunque non è la stessa cosa avere per noi non è la stessa cosa avere un task ripetuto tre volte o tre task diversi chiamati allo stesso modo.
+
+
+00:57:32
+
+Gabriele Colombo: No, per noi però in questo caso per SC, quindi possiamo anche ragionare così. Beh, però poi a noi cosa succede dopo? Quando switchi? Quando switci, esatto. Eh, quando switchi verranno cancellati. le cose sul la numerosità sul primo task e andrà a finire, cioè se ne avevi attivati tre su cinque, quindi la m**** a livello di ah il tipo di di DVH nel nella Sì, nello switch è una m****.
+
+
+00:58:02
+
+Gabriele Colombo: Ecco perché prima avevi n volte un task e poi invece hai N volte N task. Eh sì, però possiamo anche fare in modo che è per quello che il misto è un po' uno schifo, oppure facciamo in modo che facciamo in modo che cioè che che chi per i gruppi questi gruppi che hanno un Horizon, quindi che a un certo punto cambiano il modo di ragionare m eh per questi qua possiamo anche fare che cosa possiamo fare?
+
+
+00:58:42
+
+Gabriele Colombo: Per questi qua possiamo fare che no che se c'è solo un task prendo quello perché vuol dire che il gruppo sta ragionando ragionerà sempre a gruppo. Cioè, se il gruppo se il se nel gruppo se mi arriva un gruppo quel gruppo c'ha dentro solo un task, aumento la numerosità di quel task. Sì. Fine. Se ce n'ha più di uno, significa che sto configur che significa che quel gruppo da un fino a un certo punto ragiona task e poi inizia a ragionare al gruppo.
+
+
+00:59:23
+
+Gabriele Colombo: Ma vorrà dire che anche in Cyberplan non è che la numerosità del gruppo diventerà mai di più dei task. No, quello no. Esatto. Ecco, quindi possiamo quindi possiamo possiamo andare per scontato. Tre attiviamo i primi tre. Attivartivare attiviamo i primi tre. Se ne se attiviamo sette attiviamo i primi sette.
+
+
+00:59:43
+
+Gabriele Colombo: Esatto. Non si sa per quale ordinamento mistico, ma eh per quale ordinamento? Omogeneo. No, ma è omogeneo. Puoi farlo randomico. No, randomico no, perché senò ogni volta che ci arriva l'import no. dico per la concezione di omogeneo potrebbe essere panomico. Noi diamo una regola che diciamo attiviamo sempre i primi tre possiamo ordinarli come al solito per come sono nel layout.
+
+
+01:00:04
+
+Gabriele Colombo: Attiviamo i primi tre perdinar un po' ci sta l'ordinamento del layout. L'unico caso infatti sono quegli quei tas quei gruppi che ragionano sempre a gruppo. Quelli vorrà dire che in AVM saranno configurati a uno con i task e quindi l'aumento del delle teste aumenta la numer cioè aumenta la numerà aumenta la numerosità dell'unico task che c'è dentro. Non può esserci un tas un tas, cioè comunque noiamo noi partiamo dal eh presupposto che la numerosità di macchine che viene impostata in cyberp all'interno del gruppo corrisponde alla numerosità di tasche, cioè al al numero di task associato al CDL.
+
+
+01:00:47
+
+Gabriele Colombo: Deve essere così, perché se nel gruppo di Solan ci sono cinque presse, noi dobbiamo avere la possibilità di mettere cin Sì, ma se tu hai Sì, ma se tu hai un gruppo che non ragiona mai a UTASK, loro configurano solo il gruppo, non c'hanno dentro, cioè un gruppo che richiede quattro macchine. Sì, loro poi non mettono dentro anche le quattro macchine. Se ragiono sempre a gruppo.
+
+
+01:01:12
+
+Gabriele Colombo: Ma noi avremo quattro quattro task dentro. Ma perché? Allora cosa ci serve a fare il numero del task? Cioè se uno è 10, quindi creiamo 10 task. Quello lì ragiona sempre a gruppo. Cioè no, io ho capito cosa vuoi dire. Cioè tu dici se nel momento in cui No, ho capito cosa dici, cioè nel momento in cui ragiono solo a gruppo a me non me ne frega niente di avere n task.
+
+
+01:01:32
+
+Gabriele Colombo: Tas es anche perché sennò in demand ne vedi già n, cioè il layout fa schifo in demanden. Ma questo è un problema per tutti i gruppi, no? Perché quelli in quelli lì, quelli che ragionano sempre a gruppo, in demanda avresti la possibilità di vedere una sola riga, perché c'è un gruppo, un task, quello lì ha numerosità 100, ma vedi un task con numerosità 100 e basta.
+
+
+01:01:57
+
+Gabriele Colombo: Poi se se poi li accendi tutti e 100, chiaramente impanab di 100 righe perché altrimenti perché devi però su demande potresti vederne solo una con numerosità 100. Sì, invece crei cinque task, 100 task per AVM sono 100 task diversi, quindi vedi 100 righe. Poi alcune dobbiamo distinguere tre casi, cioè il caso per macchina, il caso per gruppo, ma che a volte ragiona macchina e il caso per gruppo che ragiona macchina.
+
+
+01:02:26
+
+Gabriele Colombo: Sì, però il punto è che non dobbiamo in realtà non dobbiamo veramente ragionare che questa discriminante è data semplicemente dal fatto che in AVM hai configurato un task dentro alla macchina o n task dentro la macchina, cioè dal momento in cui ne configuri più di uno. Oppure possiamo anche fare questa cosa che così omogenea per tutti. Mettiamo il mettiamo che di default di numerosità. Il di default mettiamo accendiamo gli i task, i primi N task.
+
+
+01:03:03
+
+Gabriele Colombo: Mh. Tutto l'eccesso lo mettiamo sulla nominosità del primo task. Hai capito? Vabbè, ok. Così caso in cui magari sal aggiunta delle macchine non c'è stato detto. Sì, va vanno sulla numerosità del primo, le due configurazioni e il caso in cui si ragiona solo a gruppo e è tutto extra, quindi è tutto sul Google che può funzionare perché può così questo qua funziona sempre e funziona sempre in tutti i casi,
+
+
+01:03:34
+
+Gabriele Colombo: cioè però, cioè con questa con questa struttura i flussi i due che avevamo già considerato, quindi solo macchine o solo CDL sia a posto per gli import, giusto? Certo. Sì, posso tenerne uno solo. Sì. Giusto. Quando invece vuoi fare il mix devi fare due import, come dicevi tu, li devi unire. Vabbè, ma faccio sempre così.
+
+
+01:03:59
+
+Gabriele Colombo: Ok. E com'è che ragiona? Gli devi fare due due tornate o analizzi sempre solo i task? No, faccio lo facciamo tutto assieme e là ci sarà il vincolo chiaramente che in VM non devi aver, cioè non puoi aver configurato due gruppi di Cyberplan, eh, cioè lo stesso gruppo di Cyberplan su CDL diversi e che ragionano in maniera No, aspetta, cosa che volevo dire?
+
+
+01:04:26
+
+Gabriele Colombo: No, due gruppi di cyberp che sono un CDL di AVM che ragionano di roba in maniera diversa, perché sennò, cioè, su uno ti arriva su un loro gruppo che finisce sullo stesso CDL nostro, ti arriva eh il calendario per numero teste, per gruppo, sull'altro l'altro ragiona a macchina e viene salto fuori un casino. che questo è l'unico l'unico caso che riesco a immaginarmi così a mix quello che noi non andremo a gestire è un caso in cui hai delle presse, in cui per un periodo dell'anno lavori a CDL, cioè vuol dire che a CDL lo fai ragionare,
+
+
+01:05:06
+
+Gabriele Colombo: lo fai lavorare eh distingu, non distinguendo le presse, tutte le presse sono uguali, quindi come dire vai sulla numerosità della prima pressa e poi basta, mentre il secondo caso è no, ho la pressa uno che però fa una particolare lavorazione che è diversa dalla pressa 2 per determinati articoli e quindi quando ho da fare quei determinati articoli lavoro su singola pressa. Questo è l'unico caso che vedo in cui si può un po' distinguere la situazione, cioè complessa, più complessa, cioè ipotizza il caso, da gennaio a febbraio, da gennaio a marzo, m anzi in periodi freddi, gennaio, aprile, settembre,
+
+
+01:05:51
+
+Gabriele Colombo: dicembre, le presse lavorano tutte uguali per qualche motivo, cioè tutte le presse del mio CDL lavorano tutte uguali. Ok? Quando va sulla temperatura esterna, cioè dell'ambiente, la pressa uno performa più della pressa 2, ok? Per dati oggettivi del controllo qualità. Quindi io al posto di andare a scendere i CDL dico:"Ok, faccio lavorare da macchina da macchina uno e da macchina due assegnando lavorando eh con il calendario macchine e non con il calendario CL. Ok,
+
+
+01:06:22
+
+Gabriele Colombo: duo però e sto immaginandomi cosa succede in AVM, no? quel caso ci mandi, cioè comunque ci manderà l'inazione che prima di una certa data quella macchina lavora da sé e dopo una certa data invece non c'è più manca argoment immagini giusta roba. Cioè tu immagini che il flusso delle macchine, il flusso dei CDL ti mandano sempre dati in parallelo. Eh sì, per forza.
+
+
+01:06:42
+
+Gabriele Colombo: Perfetto. Quindi fintanto che sei nei periodi freddi del del flusso delle macchine non ti arriverà mai nessuna specifica. Quando invece poi arriviamo sul periodo estivo, ti arrivano informazioni da tutti e due i flussi. Sì, dove tu ti aspetti di vedere la specifica della pressa uno o pressa 2 sulle macchine e le altre presse che non ti sono state specificate. Anzi, no no no no.
+
+
+01:07:06
+
+Gabriele Colombo: Eh no, e no, perché no te per attenzione tu non puoi all'interno tu sa lo stesso gruppo o ragioni per macchina o ragioni per gruppo. Puoi che alcune macchine del gruppo le ragioni a macchine e alcune e altre macchine di gruppo le ragioni a gruppo. Tu hai cinque presse, non può essere che mi dici la pressa uno e due. Per me è chiaro. Per me è chiaro. Non so se è una situazione Ma no, non ha senso.
+
+
+01:07:26
+
+Gabriele Colombo: Cioè a livello logico allora i gruppi loro Sì. No, sennò loro no, ma sennò anche loro anche loro tanto la visualizzazione ha visto che ce l'hanno tutta, cioè o sei popolato la macchina o non ce l'hai popolata, quindi non penso che facciano un un mischiotto. No, anche perché dovrebbero staccare nel caso in due gruppi, no? Esatto. Quello è l'unico deve essere se ci fosse sta situazione non logica la nostra risposta deve essere come facciamo noi col centro di linea quando abbiamo ste situazioni bomardose che è spacchetta e fai che hai pressa un pressa 2 che sono
+
+
+01:07:56
+
+Gabriele Colombo: due CDL a sé e che sto pensando a delle situazioni che non so se esistono. Quindi c'è tipo la la saturazione della persona dove quando sei su un periodo freddo una persona ti gestisce sette presse, quando sei nel periodo caldo hai la persona che ti segue 100% la pressa uno, un'altra persona la pressa due, le altre tre la terza persona. Lo che quindi in quel caso lì cosa succede?
+
+
+01:08:23
+
+Gabriele Colombo: Che tu dovresti andare a darli a saturazione per CDL. E noi non abbiamo tolto in considerazione cosa, scusa, non non ascoltato che la saturazione, eh. E e questo lo dico perché su Gwis c'è sta roba qua che Gwis ad oggi non ci passano la loro saturazione. Loro non hanno di salutazione. Eh no, appunto. Quindi prende qu viene presa quella configurata in AVM.
+
+
+01:08:49
+
+Gabriele Colombo: Eh, però tu dic magari è un periodo dove la pressa uno e du sono scarichi e quindi la stessa persona riesce a seguirla. Eh, vuol dire però No, vabbè, però in quel caso tu in demandati sei delle saturazioni diverse. Ah, manella tu perché dici eh vabbè loro non gestiscono la saturazione, quindi in teoria dovresti farla sempre a Manella, cioè con Cyberp non ce la passano mai, quindi cioè nel senso noi assumiamo 100, nel senso assumiamo quello che è configurato.
+
+
+01:09:15
+
+Gabriele Colombo: Se sai che quella pressa potrà funzionare in Vabbè, come facciamo di solito, se sai che quella pressa potrà funzionare con sia saturazione 100 che saturazione 33, in realtà imposti 33 perché è il caso migliore e poi sai che eh Sì, cioè sì sì sì no. Ok, effettivamente anche perché in realtà quella la saturazione, cioè quella saturazione là una proprietà di della pressa, cioè il fatto che possano lavorarci, il fatto che la persona che ci lavora la là dentro non gli cuba il 100% del tempo è perché
+
+
+01:09:51
+
+Gabriele Colombo: probabilmente il lavoro che fai su quelle presse di solito è un lavoro semplice, quindi puoi parallelizzarlo su altre o perché c'hai presse vicine che allora dici qua se ne tiene tre, però è una proprietà della pressa, non è tanto una proprietà dei No, no, mi fa mi come c'è, cioè poi il fatto che una persona, il fatto che in questo periodo non stiamo facendo un c**** e quindi ci mettiamo sopra solo una persona, però è giusto che si veda che quella persona è saturata a 33,
+
+
+01:10:18
+
+Gabriele Colombo: è saturata poco perché non stiamo facendo un c****, abbiamo 100 persone, le le pianifichiamo tutte, però sappiamo che tutte potrebbero fare il triplo di quello che stanno facendo. Chiaro, chiaro, chiaro. Cioè, mi era venuto infatti il caso sto qua che ho detto era uno dei casi che ci ha messo sul tavolo sugli e ma non Ok, allora scusate, restiamo eh quindi restiamo così.
+
+
+01:10:42
+
+Gabriele Colombo: Io dopo io rispondo a a Bello eh dicendogli che l'autorizzazione per il momento usiamo quella e che comunque l'hanno già usata in Franche ehm e che gli end point adesso sono stati abilitati. dice che c'è stato un problema di vabbè di alcune robe di sotto e ok. Invece per quanto riguarda questo tema dell'Horizon e a Cyberplan non facciamo fare nessuna modifica, nel senso che continuiamo la struttura resta così per loro e noi e noi eh e noi lo andiamo a considerare secondo quello che ci siamo detti.
+
+
+01:11:16
+
+Gabriele Colombo: Esatto. Quindi andiamo a prendere eh i due flussi dopo noi li andiamo a 2000, cioè un loader unico. Sì. E in base al eh se se vediamo che c'è il codice macchina, andiamo sulla macchina, quindi sul task. Se invece c'è una numerosità andiamo sul CTL. Sì. L'unico fatto No, stavo stavo pensando eh non mi ricordo quali erano le configurazioni che avevamo detto che si potevano fare con la macchina.
+
+
+01:11:47
+
+Gabriele Colombo: In che senso? Cioè se se il loader avevamo detto che potevamo rimappare, no? Sì. Eh, che tipi di rimappaggi c'eravamo detti che c'erano possibili, tipo Macchina tasca, macchina CDL. Eh, per ora era perché macchina task e gruppo CDL. Esatto. Sì, però erano quelli quindi non c'è niente da configurare in realtà così perché macchina task gruppo CDL è solo una No. Sì, sì, quell, cioè non c'è il caso in cui CDL Task, CDL di SL gruppo task non c'è gruppo task e non avrebbe neanche
+
+
+01:12:23
+
+Gabriele Colombo: senso e macchina CDL è molto più vicina a questa cioè macchina CDL può avere un senso, ma possiamo anche decidere di non farlo. Macchina CDL, però vuol dire che macch è quella più quella che può vuole più frequentare. Sì, però quella la puoi risolvere andando a fare macchina task, cioè lì si può si può decidere di andare a una capillarità più alta, no? Vabbè, per macchina CDL possiamo sempre applicare la stessa, cioè quello che ci arriva dal task lo chiama tutta la CDM.
+
+
+01:12:54
+
+Gabriele Colombo: Esatto. Che però è quello che in realtà stiamo facendo adesso anche con i CDL, però macchina CDL è molto realistica come configurazione. Vabbè, devo vedere un attimo come macchina pianifico più persone. Devo vedere un attimo come fare perché adesso se ci arriva un numero teste su un CDL noi in realtà applichiamo lo stesso la stessa numerosità su tutti i task di quel CDL. Eh sì, però test arriva due, non è che accendiamo due tasche, che accendiamo due volte tutti i task del CDL.
+
+
+01:13:23
+
+Gabriele Colombo: C mettiamo numerosità due su tutti i tasti. Però per me quella roba lì è giusta, cioè a quel punto è giusta là, però non è giusta nel gruppo perché se tu mi dici che devo mettere tre, devo accendere tre tasche, non accendere tre volte tutti i task, però lì perché nel caso di Switch, nel caso di Switch ah, nel caso di Switch, basta, hai ragione, hai ragione, hai ragione, hai ragione, hai ragione.
+
+
+01:13:43
+
+Gabriele Colombo: Quindi è un po' non so adesso bene come fare questa cosa perché deve ragionare in due modi diversi seconda di chi c**** è. Quindi probabilmente nel probabilmente nel loader ce ne nuovo campo a nostro database no più più che altro che dentro nel loader probabilmente ci dovrà essere un flag per dirgli che quello è un gruppo e che in realtà non è un task perché i task ragionano in un modo. I gruppi c'hanno questa caccata qua. Giusto caccata. Eh, vabbè, vediamo. Ci penso.
+
+
+Trascrizione terminata dopo 01:14:23
+
+---
+Nota contestuale: meeting interno, partecipanti Emilio Bendotti, Gabriele Colombo e Alberto Spiller. Solo microfono di Gabriele Colombo attivo nella registrazione.

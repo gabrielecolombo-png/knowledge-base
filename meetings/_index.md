@@ -10,3 +10,4 @@ dover aprire ogni singolo file.
 | 2026-08-19 | Franke Poland | Floor View alignment | floor-view | [meetings/franke-poland/2026-08-19-floor-view-alignment.md](franke-poland/2026-08-19-floor-view-alignment.md) |
 | 2026-08-19 | OringONE | Ownership sviluppo custom | modello-prodotto-custom | [meetings/oringone/2026-08-19-ownership-sviluppo-custom.md](oringone/2026-08-19-ownership-sviluppo-custom.md) |
 | 2026-08-20 | Danieli | Allineamento roadmap AWM | gestione-ferie-assenze, pianificazione-logistica, cyberplan-integrazione, zucchetti-integrazioni, safety-compliance | [meetings/danieli/2026-08-20-allineamento-roadmap-awm.md](danieli/2026-08-20-allineamento-roadmap-awm.md) |
+| 2026-08-24 | interno | Cyberplan integrazione standard | cyberplan-integrazione | [meetings/interno/2026-08-24-cyberplan-integrazione-standard.md](interno/2026-08-24-cyberplan-integrazione-standard.md) |
