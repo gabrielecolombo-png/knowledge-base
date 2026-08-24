@@ -85,5 +85,4 @@ Meeting tecnico interno su due argomenti: (1) debug e risoluzione dei problemi d
 
 ## Note di elaborazione
 
-- "Bello" (contatto esterno a cui Gabriele deve rispondere): non identificabile con certezza dalla trascrizione. Potrebbe essere un contatto Cyberplan o di un cliente che sta testando le API. La trascrizione non lo chiarisce.
-- Il terzo partecipante Alberto Spiller è identificato come quello che spiega l'Horizon (Gabriele dice "Alberto, c'è la parte dell'Horizon, tu ci devi illuminare") — classificato come interno AWM per coerenza con il contesto del meeting, ma il cognome non è verificabile dalla trascrizione.
+- Il contatto esterno a cui Gabriele risponde su auth+endpoint è Matteo Belullo.
