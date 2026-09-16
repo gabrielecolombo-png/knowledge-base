@@ -1,0 +1,227 @@
+Il problema che con le sbattaglio che l'ufficio personale potrebbe mettere delle ferie o registrare la malattia o qualsiasi cosa io lo faccio con un SP e su il protocollo descritto da quell'offerta lì voi non non l'avete mai vista.
+
+No, il tema era che non c'erano due problemi, il primo o quello che dicevi, quindi che non ce l'ha il push verso AM.
+
+E il secondo invece è una questione di dato nel senso che le assenze venivano segnate con una durata e non con un intervallo di tempo.
+
+Quindi la persona è assente quattro ore. Parte del fatto che l'ufficio presidente anziché scrivere che facendo due ore, ma va a scrivere che scarto assente dalle 12 alle 13 e poi dalle 14 alle 15 Quella era stata validata comezione non ricordo se quella parte specifica era già stata vinta.
+
+E quello mi sembra di sì che c'è stato un po'' anche di disguido quando era c'era stato lo switch ricordo .
+
+A giugno poteva essere Esatto esatto, sì sì avevano spostato lì è stato fatto ed è Esatto, perfetto quindi adesso manca diciamo la parte di di push. Verificare se quindi l'offerta che è ancora valida a questo punto, però secondo me manca sempre il push Tota service verso QN Pu quantomeno provare un modo perché vi allineano con una certa finestrati ote ripescare una certa finestra di dati.
+
+Cioè, aspetta in che senso?
+
+Come ha fatto da allinearvi?
+
+Non vi può passare tutta la situazione ogni volta di tutti i dipendenti ci sarà una finestra perché guarderete indietro di non lo so e avanti Ah sì, sì, cioè tipo un meno meno10 + 180 giorni tipo.
+
+Sì, sì, sì nologia una bella frontiera o qualcosa del genere in cui ogni ora vi aggiornano quella finestra lì.
+
+Sì, ogni cinque minuti aggiorno la finestra Va bene.
+
+Va bene riusciamo a liberare Direi di sì, visto che è richiesta altrove. Poi vi mandate una mail se devo fare qualcosa o comunque quando epilogo.
+
+Sì, sì, sì, assolutamente.
+
+Va bene ragazzi, Buon lavoro, Jessica.
+
+Ciao Jessica.
+
+Ok, Riccardo noi adesso quello che volevamo fare nella sessione di oggi era mostrati i tracciati.
+
+Che ci aspettiamo, quindi proprio devi fare l'esempio con la struttura.
+
+I dati sono quelli che abbiamo già discusso, ovviamente e poi entro la giornata di oggi ti mandiamo questi stessi file. Di esempio più della documentazione, diciamo a supporto che spiega un po'' alcune alcune cose, alcune logiche. Comunque non dovrebbe esserci grosse sorprese nel senso che è quello che avevamo discusso in passato . Metodo solito API adesso a breve ti faremo avere anche gli end point e così via ok.
+
+Poi, in realtà, se diciamo riusciamo a restare nei file che ti mandi, cioè come struttura rispetto ai file che ti mandiamo, l'attivazione dovrebbe essere molto rapida nel senso che L'abbiamo strutturata in modo tale che rientri nei nostri standard, quindi noi abbiamo una serie di connettori standard abbiamo strutturato tutti questi documentazione questi file in modo tale che.
+
+Se poi la questa struttura è rispettata rientra nello standard e possiamo attivare direttamente Stefano Alessio può attivare direttamente l'integrazione senza passare per la parte di sviluppo e quindi velocizzando di molto le cose .
+
+Allora partiamo da quello che è il flusso delle flusso delle anagrafiche, mi condivido un attimo il mio schermo, spero sì Perfetto.
+
+Ok, allora intanto teniamo teniamo buono questo.
+
+Okay, quindi all'interno di questo di questo Jason ti abbiamo messo quelli che sono i campi Che ci aspettiamo di ricevere, quindi con quella che è la dicitura e ovviamente un esempio di quello che è il il tipo di dato e il formato.
+
+In realtà, qui non ci sono grosse variazioni rispetto a quanto avevamo già discusso, come hai detto anche prima Gabriele.
+
+Quindi abbiamo codice identifica quelli delle gli esempi di anagrafiche che ci aveva dato l'ufficio del personale. Ardando i dati qua Sì, questi qui sono degli degli esempi, insomma.
+
+Ora quindi qui il codice di di matricola dei dipendenti.
+
+A seguire il codice fiscale che noi utilizzeremo come chiave, perché abbiamo visto appunto facendo un paio di analisi su quelli che sono i dati che sono contenuti a database adesso, quindi quella che è stata la Quello che è stato il primo impostatico che abbiamo fatto per popolare la piattaforma che abbiamo dei codici di matricola duplicati, usando il codice fiscale. Usando il il codice fiscale, appunto non abbiamo non usandolo come chiave non abbiamo rischio di di duplicazioni.
+
+In termini di assegnazioni di assenze piuttosto che di timbrature.
+
+Nome e cognome molto semplice per l'appunto genere questo qui non mi risulta sia un campo obbligatorio, quindi ovviamente se ce l'avete su su Windsarp Bene, ma non mi risulta sia obbligatorio comunque ti ti confermo.
+
+Data di nascita primo giorno di lavoro, ultimo giorno di lavoro Senal, noi lo teniamo come se fosse un tempo indeterminato.
+
+Quindi sarà la maggior parte dei vostri casi, dopo comunque c'è un esempio anche con un campo popolato .
+
+Centro di costo è sufficiente il codice, perché comunque i centri di costo li abbiamo mappati noi a livello di piattaforma di conseguenza non è necessario ci sia un campo anche con la descrizione.
+
+Quello che è il plant che in questo caso è necessario per via della codifica, quella di cui parlavamo anche inizio meeting, quindi quello che è stabilimento uno Sede centrale, stabilimento due Longarone e così via.
+
+Codice di Sì, sì, ma va bene identifica aziende con dei codici.
+
+L'unico dubbio che ho quando strateggiato mercato è che i somministra tratti ad esempio per noi sono un'altra azienda.
+
+Che era codice Plant o simili ce ne sono ce ne sono un po' perché poi in funzione dell'azienda che somministrazione ogni azienda di somministrazione è stata catalogata come un come un'azienda a sé stante.
+
+Sì, sì, ma non credo non dovrebbe dare problemi.
+
+Cioè, in realtà il plant, quel campo plant in realtà noi non serve.
+
+Cioè, per quell'installazione in veneta, perché noi abbiamo un concetto di multiplant installazione multiplant che però per Veneta non è necessario quel campo serve a capire dove indirizzare i dipendenti.
+
+In realtà, quindi puoi valorizzarlo coi codici tranquillamente non dovrebbe generare nessun tipo di problema. Poi sono gli stessi che vi metterei come prefisso del del del badge Della matricola Ok, perfetto sì ottimo Perfetto, ottimo che appunto il badge è il campo successivo, ma è proprio il numero di cartellino che quindi a noi serve per in questo caso specifico, non dovremmo avere applicazioni particolari.
+
+No, però un'informazione che viene bene, insomma esatto anche per consultazione all'interno del sistema per un capo turno possa per far comodo.
+
+E-mail per per l'appunto numero di telefono che per quello che è il tema di AM People dato fondamentale per l'appunto.
+
+E poi tipologia di tipologia di contratto, quindi codice e specifica.
+
+Quindi questo qui è l'esempio con la work day anal di conseguenza l'operatore in questo caso è un operatore con.
+
+Contratto a tempo indeterminato qui sotto c'è un tempo determinato invece in cui semplicemente laork day viene valorizzato . Noi andiamo a prenderci appunto questa data qui.
+
+Per attivare e disattivare perché è dionario potrebbe oddio potrebbe essere però allora lì guardiamo la data effettiva e non tanto la tipologia di contratto sì.
+
+Sì, sì, sì Qualcuno va in pensione in pensione a differenza del passato personale appenaformazione la inserisce Sì, sì, ma quello va bene tanto perché noi usiamo, cioè abbiamo il tipo di contratto, quindi risulterà magari determinato, ma con una data di fine.
+
+Per cui risulterà attivo nell'intervallo riportato tra first the last World Day.
+
+Però, come tipologia di contratto risulterà indeterminato, insomma.
+
+Quindi questo qui è uno dei file che ti condivideremo quello che riguarda appunto tutto il tema dell'e anagrafiche. Vediamo il il file delle timbrature datemi un attimo che lo recupero. Qui ti torna tutto sostanzialmente già fatto esatto, sei solo che adesso l'abbiamo reso proprio effettivamente come ci serve.
+
+Questo qui è un fai di esempio per quanto riguarda le timbrature, invece.
+
+Qui abbiamo detto di il loro log continuamente nelle ultime 24 ore.
+
+Esatto, sì devi mandare sempre a batch le ultime 24 ore.
+
+Qui il campo CID che nell'altro file fa riferimento a quello che è il il codice di matricola.
+
+Per noi è come se fosse un segnaposto questo qui per questo flusso specifico indica identificativo univoco e quindi può essere popolato con quello che è il numero di matricola, il numero di bgio, il codice fiscale La cosa più semplice, più sicura è avere anche qui il codice fiscale in modo tale da poter fare l'assegnazione direttamente alla.
+
+All'anagrafica in modo univoco, quindi Times step appunto valorizzato sia con data che che ora noi qui. Per noi è sufficiente.
+
+Esatto, per noi non sono necessari i secondi, quindi è sufficiente la la troncatura al minuto.
+
+La direzione della timbratura, quindi qui valorizzato con o entrata o uscita e o se non determinata con punto interrogativo in questo caso Questi tre sono i campi obbligatori di questo flusso, quindi questi qui sono sono necessari per noi per poter portare la timbratura.
+
+Il campo place che quindi è la diciamo il luogo fisico dove viene timbrato e lo stamping code non sono campi obbligatori.
+
+Sono comunque informazioni utili stamping code in particolare è un è un codice univoco per l'appunto da associare alla timbratura .
+
+In ogni caso, qui noi andiamo a prendere le timbrature senza fare aggiustamenti particolari, perché in caso di aggiustamenti comunque il il sistema di riferimento è è Winsap per l'appunto.
+
+Qui a noi serve per per tematiche operative, come gestire gli inattesi e simili.
+
+In ogni caso, questi tre campi Cd times stamp Direction sono i campi sono i campi obbligatori necessari per noi.
+
+Qui ti torna tutto Riccardo c'è qualcosa che approre?
+
+Siamo proprio baseb, quindi ce la possiamo fare non so perché però non guardato non me lo ricordo se nel lo di Serce sono presenti dei place qualcosa dei più rate place qualcosa di lo stamping code se ce le ho di password diciamo che Place può essere comodo per chi Per chi usa VM, perché può vedere dove la gente ha timbrato, quindi può capire se c'è qualcuno che timbra da una parte e poi si cammina 10 minuti per arrivare in produzione per dire.
+
+L'idea è quella step in code invece è semplicemente una chiave forte che abbiamo noi che che possiamo usare noi nel sistema per capire se la temperatura è duplicata o meno.
+
+Quindi, se c'è se proprio lo stesso record, capito, ma comunque non è necessario perché appena la importiamo lo generiamo anche la generiamo anche noi.
+
+Vediamo quella che è la Quello che invece è un esempio di In questo caso, di flusso assenze, però da data service AVM, quindi quello che è il flusso di entrata per noi.
+
+Non ho il flusso di ritorno Allora anche qua mi condivido lo schermo.
+
+Okay Poco lago, mi dicono Voi non vedete il mio sky?
+
+Sì sì sì.
+
+C'era un attimo un attimo di lag.
+
+Ok, allora questi qui sono per l'appunto i campi relativi a quelle che sono le assenze in ingresso, il tema di cui parlavamo prima, quindi viene inserita un'assenza su.
+
+Su Windsarp direttamente dall'ufficio del personale, se non abbiamo in ingresso questo dato qua non abbiamo modo di di saperlo .
+
+Anche qui il tema del del CID è simile a quello che è per le timbrature.
+
+Quindi anche qui identificativo univoco, la cosa migliore è usare il codice fiscale .
+
+Abbiamo qui un holidayke e un holiday type l'oliday type è semplicemente la causale, quindi il codice legato alla causale di assenza.
+
+Noi lo andiamo a far battere con quelle che sono le causali che abbiamo mappato all'interno di AM.
+
+Questo holiday Key, dato che avremo un flusso bidirezionale con Windsarp per quanto riguarda le assenze.
+
+È importante determinare come calcolarla, quindi Cioè, come come generarla più che calcolarla.
+
+Quindi qui continuano ad arrivarmi cose, perdon quindi qui è un attimo da capire, appunto come vogliamo gestire la generazione di questo di questo campo .
+
+Perché in caso l'assenza venga creata all'interno di AVM possiamo capire se riusciamo a generare noi quel codice e esportarlo, però quindi si tratta di un flusso differente.
+
+Se un'assenza che invece viene creata direttamente in Windsarp, allora per forza di cose quel record Deve avere una una chiave univoca che parte da Windsorp.
+
+Sì, diciamo che Esatto, secondo me qui quello che possiamo fare di Riccardo e intanto mettiamo su il flusso in entrata da Windsarpa da VM.
+
+Con quel campo, anche non valorizzato, cioè lo creiamo ce lo passi però per il momento lo lasciamo vuoto.
+
+Poi, quando mettiamo su anche l'altro flusso, quindi l'altro giro lo valorizziamo, cioè cammina acquiri leggermente aggiungi come calcolare quel campo e lo iniziano inizi a passare.
+
+Io farei così, non so cosa ne pensi.
+
+Sì, interessa anche se ha una sua chiave identificazione univoca perché potrei utilizzare sempre quella senza dover costruire una sì, l'unico tema è cosa succede se l'assenza viene generata in AM.
+
+Bene accelto in VM e poi ti ritorna.
+
+Eh, ma noi come facciamo a capire che è la stessa assenza?
+
+Esatto, bravissimo.
+
+La cosa era stato ipotizzato nel flusso di uno si ritrova le mail Sì, c'era un IDfumerico della struttura epotizzata da service quindi qualcosa qualcosa l' previsto casuale.
+
+No, no, perché sto guardando la struttura adatti della loro cam di appoggio, quindi Ah oka, c'è c'è il campo Le cose loro da quello che diciamo dall'esterno. Si smarca abbastanza velocemente sta roba Il tipo si sente tutto il giorno o meno inizio fine più giornate è stato se non so cosa voglia dire In questo caso, qua gli status possibili sono tre, quindi abbiamo un'assenza approvata un'assenza in attesa.
+
+O un'assenza cancellata. Per l'appunto il cancellato serve a noi per in caso di modifica andare a cancellare l'assenza.
+
+Che va modificata e poi, appunto, andare ad inserire quella nuova con un nuovo identificativo, perché qual è il punto noi possiamo andare in update tramite l'ol tramite l'olliday key di due cose che sono .
+
+Lo stato e la tipologia, se invece dobbiamo andare a modificare la cioè la data d'inizio o la data di fine allora va cancellato il vecchio record e ha aggiunto un nuovo record.
+
+Da qui, appunto la l'utilità del del campo status .
+
+Io su questa secondo me vediamo cosa avete a disposizione per service perché non credo abbiano un lolog di mo modifica delle Ma e quindi se un'assenza viene.
+
+Cioè, nel senso in data service ci sono sia le assenze in stato di attesa, quindi le richieste che quelle confermate giusto quindi loro comunque devono avere questo campo dello Stato da qualche parte un codice, un parametro, eccetera.
+
+Quello che non so è se cancellata una richiesta secondo me in modo traccia.
+
+No ok, però Quindi su eliminano il record e basta.
+
+Ma è una follia.
+
+Non c'è un campoelid qualche tipo.
+
+Eh ho capito, ma poi come fanno a capire se effettivamente tipo mi elimin eliminano l'assenza oggi tra un mese il dipendente dice che eh ma mi hanno eliminato l'assenza io l'avevo chiesta e nessuno sa niente . Che fino a un anno fa le richieste di permesso avevano un fogliettino di carta con scritto posso stare in ferie dato giorno al giorno.
+
+Ok, dove litighiamo, però non ho visto diciamo nel giro sui dati non ho avuto la sensazione che ci fosse un logo di questo tipo di quindi non storico una cancellazione logica metti Esatto, infatti Ok va bene la richiesta c'è la richiesta annullata Che però è un'altra cosa E viene rifiutata e quello è un'altra cosa cioè ci sta un'altra cosa Va bene, c'è appunto il campo referrar che in questo caso potrebbe anche essere l' data integration per noi risulta sia.
+
+Se obbligatorio serve per noi indicare chi ha inserito quell'assenza L'unica nota su quello che quello che sono start time and time e il campo all day è che se all day viene valorizzato a true, noi possiamo accettare semplicemente la data invece del del time stamp completo, mentre se all day e falls abbiamo bisogno ovviamente del time stamp completo perché ci serve l'ora di inizio e l'ora di fine dell'assenza nel caso di un permesso, per esempio.
+
+Quindi questo è quanto per per quelli che sono i i file che appunto ti condividiamo in giornata come come accennava Gabriele prima. Anche io posso già sparare dati dentro quando gli point adesso gli point li stiamo creando ti chiedo però prima di mandarci dei Jason di esempio che così ci diamo un occhio e verifichiamo se magari ci sono dei casi .
+
+Dei casi appunto da verificare assieme.
+
+Però ti ti mandiamo gli end point appena possibile, se l'attore di un Jason è fa parte del posto.
+
+Ok, forse questo c'è scritto in documentazione adesso non so se Cioè dici se il Jason è contenuto nel body.
+
+Sì, per capire se nel post voi il struttura jazzon, quindi body o se 64, quindi uno stream e ritirate su acquisite in un secondo momento però uno di due credo sia il Jason nel body sono abbastanza convinto, però Eh no infatti ragionevole ma sicuro che ne vedo di tutti Va bene, allora diciamo in giornata sicuramente i ti condividiamo file e fai l'esempio documenti.
+
+Vediamo se riusciamo anche gli end point Spero di sì, insomma, in caso te li condividiamo comunque a breve.
+
+Benissimo, va bene Ottimo, grazie Riccardo.
+
+Grazie a voi, buon lavoro.tanto buona giornata meeting con IT di veneta cucine per discussione su integrazioni. partecipanti: riccardo scarpa, gabriele colombo, alessio ballarin e stefano ghiotto
