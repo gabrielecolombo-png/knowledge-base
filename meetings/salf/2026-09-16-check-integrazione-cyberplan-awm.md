@@ -76,6 +76,6 @@ Previsto anche uno scambio calendari, distinto dal flusso operazioni. Cyberplan 
 
 ## Note di elaborazione
 
-- Trascrizione automatica molto rumorosa e con diversi passaggi tecnici sovrapposti/interrotti; alcuni nomi di macchine/fasi (es. "larice 100" / "attrice 100" / "lavatrice 100") restano ambigui — riportati come "ripartizione 188" e con nome macchina non meglio identificato dove il testo non permetteva una lettura affidabile.
-- "Roberto" risulta essere il pianificatore SALF che lavora su Cyberplan/Excel (capacità finita), mentre "Daniele" viene descritto da Alberto come "il nostro utente" cioè il referente SALF lato AWM (assegnazione persone su task) — sono presumibilmente due ruoli/persone distinti lato SALF, ma la trascrizione non lo esplicita del tutto chiaramente: da confermare con Gabriele.
+- Trascrizione automatica molto rumorosa e con diversi passaggi tecnici sovrapposti/interrotti; i nomi di macchine/fasi citati (es. "larice 100" / "attrice 100" / "lavatrice 100") non sono affidabili e non sono comunque rilevanti ai fini della minuta — riportati genericamente dove il testo non permetteva una lettura pulita.
+- Confermato: "Roberto" (pianificatore SALF su Cyberplan/Excel) e "Daniele" (referente SALF lato utente AWM) sono due persone/ruoli distinti — nessuno dei due era presente al meeting, motivo per cui la trascrizione ne parla solo per nome senza ulteriore contesto.
 - Non è del tutto chiaro se la soluzione "concatenazione nel codice del centro di lavoro" sia già una decisione definitiva e condivisa anche da Marco Mior (Cyberplan), che nella parte finale della call interviene poco sul punto specifico — verificare che non ci siano riserve emerse dopo la registrazione.
