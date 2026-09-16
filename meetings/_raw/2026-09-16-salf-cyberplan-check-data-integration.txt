@@ -1,0 +1,816 @@
+cyb/awm/Ey - Check Data Integration SALF - Trascrizione
+00:00:01
+
+Alberto Spiller: Partiamo bene. Cosa qual è il punto? Vi vado a condividere lo schermo che così vediamo tutti quanti un po' le strutture di base che eh che ci sono in gioco in modo tale che andiamo subito sul pratico. Questo è il mio calendario, non importa. Eccolo qua. Allora, eh abbiamo fatto un'immagine che sintetizzi un po' quello che è la la logica e poi abbiamo anche degli esempi degli esempi concreti su sul caso in oggetto. Praticamente quella che è la mappatura che abbiamo individuato è che il work center di Cyberblan, che però dopo lascerò la parola a a Diana che è work center,
+Diana Ongaro: Да.
+Alberto Spiller: ma forse può essere anche machine da capire un attimo, poi Diana ti lascio la parola da integrare con il CBL AVM. Ehm perché con il CBL AVM? Perché la richiesta e l'esigenza dato AVM degli utenti AVM è di scendere a un livello di granularità più dettagliato. Facciamo l'esempio. Il concetto è ehm il nostro utente in AWM ha bisogno di pianificare postazioni lungo una linea, ma è la linea che deve essere pianificata. Quindi su questo eh la mappatura era questa.
+
+
+00:01:22
+
+Alberto Spiller: Diana, lascio aggiungere a te lato cyberplan maggiori specifiche in modo tale che poi magari passiamo a un esempio un po' più concreto. Так.
+Diana Ongaro: Allora, l'atto subplan direi aggiungerei un dettaglio solo sulla struttura del modello aziendale nel caso SALF abbiamo i centri di lavoro e abbiamo le macchine. La uno dei problemi, insomma, che abbiamo riscontrato all'inizio in SALF è che come sono scritti i centri di e come sono strutturati i centri di lavoro nell'IRP. Ci sono alcune macchine che possono essere usate in parallelo per alcune lavorazioni e ehm e quindi a livello dei centri di lavoro esisteva il centro di lavoro X, Y e XY perché poi loro non avendo un MES e non pianificando sui dati del del dell'IRP ma su Excel, il pianificatore e anche chi gestisce il personale poi in produzione in francese se ne sbattono alla grande di come è scritto il centro di lavoro nell'IRP, quindi abbiamo rifatto un po' una mappatura e siamo arrivati a eh centri di lavoro con macchine all'interno da gestire poi con i tool il fatto che possa essere utilizzata in parallelo o meno, cioè che le le due macchine di un centro di lavoro possono essere usate in parallelo o meno. Questo poi in export si tradurrà con a livello di fase sia l'informazione del centro di lavoro che della macchina che del numero di tool utilizzati, cioè del numero di risorse utilizzate.
+
+
+00:02:57
+
+Diana Ongaro: Да. Perché nel caso in cui venga usata una macchina in parallelo e non posso non si può duplicare la fase per temi di schedulazione e quindi l'unico accroccio è stato eh viene verrà scelta una delle due macchine, ma con l'utilizzo di due tool per simulare il fatto che l'altra sia occupata. Dimmi Filippo se ti inquioro
+Filippo Tonutti: Sì, cioè cosa significa che cioè per una stessa attività vengono Eh, vengono utilizzate due macchine, ok,
+Diana Ongaro: che partono in parallelo.
+Filippo Tonutti: per otvorazione.
+Diana Ongaro: Esatto. Per Esatto.
+Filippo Tonutti: Quindi non so, ho 100 pezzi, una ne fa 50, l'altra ne fa 50.
+Diana Ongaro: Esatto,
+Filippo Tonutti: Questo è il Ok.
+Diana Ongaro: esatto, esatto. però non può, abbiamo discusso un po' sia con Giovanni che con Emanuele eccetera,
+Filippo Tonutti: M Sì.
+Diana Ongaro: a livello di schedulazione fare lo split della fase per vedere entrambe le macchine occupate in Cyberplan potrebbe eh creare un vincolo di
+Filippo Tonutti: per la domanda.
+Diana Ongaro: schedulazione perché non è detto che partano insieme,
+Filippo Tonutti: Ok.
+Diana Ongaro: c'è questo problema e quindi l'unico modo mh
+
+
+00:04:09
+
+Filippo Tonutti: Ok. Sì, sì, va bene. Quindi quello che noi passiamo è AVM è solo centro di lavoro.
+Diana Ongaro: No, no, centro di lavoro, macchina e fase e scusa e numero di risorse di quel centro di lavoro utilizzate, nel senso che nel caso in cui io vado a utilizzare sia la entrambe le macchine, dirò che ne uso due per fare questa lavorazione.
+Filippo Tonutti: E come fai a sapere se ne usi due?
+Alberto Spiller: Sì.
+Diana Ongaro: Eh, in base a dei parametri che ci ha detto il pianificatore, quando supera un certo numero, o un certo tempo, lui le fa partire in parallelo,
+Filippo Tonutti: Ah, quindi è un dato, diciamo,
+Diana Ongaro: più o meno di anagrafica.
+Filippo Tonutti: ausiliario, insomma.
+Diana Ongaro: Sì.
+Filippo Tonutti: dici che fa giusto, quindi è un è un è un camp,
+Diana Ongaro: No, a volte anche di anagrafica,
+Filippo Tonutti: diciamo,
+Diana Ongaro: nel senso che grazie Sì,
+Filippo Tonutti: boh, diciamo che è un campo ha un campo custom in generale perché eh vale per
+Diana Ongaro: sì, sì, sì, sì, sì, sì, sì.
+Filippo Tonutti: questo. Ok. in un quindi in un campo custom e viene passata la info del numero di macchine, però noi in realtà non sappiamo in quale macchina perché ipotizziamo, adesso non so se è il loro caso, ma se ho quattro risorse e e
+
+
+00:05:35
+
+Diana Ongaro: Eh sì, potrebbe essere. Sì, sì,
+Filippo Tonutti: se ho quattro In generale non.
+Diana Ongaro: nel Sì, sì.
+Alberto Spiller: Eh,
+Filippo Tonutti: Io ti do una macchina e ti dico che ce ne possono essere due,
+Alberto Spiller: mi sa che connessione Ne.
+Filippo Tonutti: però quale sia la seconda non si sa.
+Diana Ongaro: in generale. Sì, nel caso di salfa in realtà sono quattro centri di lavoro così e due su cè tre su
+Filippo Tonutti: Non si.
+Diana Ongaro: quattro hanno due risorse,
+Filippo Tonutti: Mh.
+Diana Ongaro: quindi Però in generale sì,
+Filippo Tonutti: Ok, va bene.
+Diana Ongaro: con questo tipo di mappatura sì,
+Filippo Tonutti: Quindi ancora di più,
+Diana Ongaro: potrebbe
+Filippo Tonutti: diciamo, è sicuramente una cosa c chiamiamo custom a progetto per SALF questo.
+Diana Ongaro: Sì.
+Filippo Tonutti: Eh boh. Sì, non vedo per ora non vedo cioè non vedo cose particolari se non il passaggio di questo questo campo custom in qualche modo, insomma, che deve essere recepito da AVM per fare l'azione, non so, l'assegnazione delle risorse su entrambe le macchine.
+Alberto Spiller: Scusa e perché vi abbiamo un po' male riesci già rapidamente a ripetermi il campo gastro?
+
+
+00:06:47
+
+Alberto Spiller: A cosa serve?
+Filippo Tonutti: serve a dire allora che quell'attività lì viene fatta su due macchine in parallelo dello stesso centro e quindi siccome in Cyberplan è complicato, adesso non scendiamo nel dettaglio perché non ha senso, insomma, ma è complicato modellare questo caso qua bisognerebbe splittare l'operazione.
+Diana Ongaro: M.
+Filippo Tonutti: Come scamotage è stato deciso di indicare ehm questo numerino che eh evidenzia il fatto che l'attività viene fatta su due macchine.
+Diana Ongaro: Mm.
+Filippo Tonutti: Nel caso SALF specifico ce ne sono al massimo due e quindi diciamo la cosa regge, sta in piedi e quindi adesso non so il processo di AVM,
+Diana Ongaro: He.
+Filippo Tonutti: ma mi immagino che quell'attività lì dovrà essere eh assegnata su entram, cioè manualmente su le due macchine del centro e e sulla sulle persone anche alle persone che sono associate a quel quelle due macchine, insomma, mi vien da dire.
+Alberto Spiller: E l'avevo capita un po' diversa io da come check da come le avevo colte, però provo a contestualizzare e contestualizzare. Proviamo a magari con un caso pratico che
+Diana Ongaro: Infatti stavo cercando gli Excel su cui avevo fatto qualche prova che non
+Alberto Spiller: così oppure ce
+Diana Ongaro: trovo.
+
+
+00:08:31
+
+Alberto Spiller: l'ha ce l'ha Alessio che adesso ce lo condivide
+Diana Ongaro: Ah!
+Filippo Tonutti: ordine in cui bilancia Sarebbe
+Alberto Spiller: che così ci immaginiamo un po' quali dati partono da Sarlan, quali devono arrivare nella WM e con quali do che AVM poi deve ragionare. Perfetto. Zomo pure sulla tabella.
+Diana Ongaro: No, questo sì. Ma ti ricordi, eh, Roberto, che ne avevi fatto uno proprio su questa cosa del numero di risorse? che però non trovo.
+Alberto Spiller: Beh, ma se vuoi facciamo un esempio su questo e così almeno
+Diana Ongaro: Sì, sì, sì, sì. anche qua.
+Alberto Spiller: abbiamo abbiamo l'esempio, cioè vedo ad esempio su
+Filippo Tonutti: Sì.
+Alberto Spiller: l'F21 123 la riga, ok? Da 13. Vediamo come il CDL debba matchare con il World Center Cyber Plan, perché all'interno abbiamo poi dei task che devono essere attivati in base alle necessità, quindi ripartizione 188, larice 100 carrelli. Giusto, Diana, su questo ti torna.
+Diana Ongaro: quello dei carrelli dei roboni in realtà alla fine avevamo detto di non vestirla come macchina,
+Alberto Spiller: Ok.
+
+
+00:09:50
+
+Diana Ongaro: ma anche questo come un Sì, ok, può essere un centro di lavoro diverso. Mh,
+Alberto Spiller: Ok.
+Diana Ongaro: Sì, sì, sì.
+Alberto Spiller: Ma nel senso in caso lì è una mappatura in più lato work center sideplan e il lato nostro AVM. Andiamo a creare un CL nuovo e un task nuovo carrelli.
+Diana Ongaro: No, non creerei una fase per i carrelli.
+Alberto Spiller: Aspetta,
+Diana Ongaro: Non creeremo una fase.
+Alberto Spiller: tu parli di fase? Però io qua sto guardando i tre le tre entità, cioè Work Center,
+Diana Ongaro: Tre tas. Sì, sì, sì, sì, sì. Allora, è così. Esatto. Cioè F21 22, poi ci sono i tre task. Esatto. Poi che il task che il terzo task sia carrello robot deve anche questo passare per un campo d'appoggio e il centro di lavoro è sempre lo stesso
+Alberto Spiller: ok? Ma quindi tu come immaginati di inviare questi dati ad AVM?
+Diana Ongaro: tramite un campo d'appoggio.
+Alberto Spiller: C.
+Diana Ongaro: il fatto che questa fase utilizzi quest la fase di quest'ordine utilizzi un
+Filippo Tonutti: Ja.
+
+
+00:10:56
+
+Diana Ongaro: carrello invece del robot, cioè carrello manuale invece del robot.
+Alberto Spiller: Ma quindi sarebbe un record dove tu passi, non lo so, l'ordine X sulla sul work center
+Filippo Tonutti: Eh,
+Alberto Spiller: F21? Non so, eh. Perché lì c'è quella F21,23 in cui
+Diana Ongaro: funziona.
+Alberto Spiller: bisogna fare una una quantità pari a tot, giusto?
+Diana Ongaro: Sì,
+Alberto Spiller: E un campo una un campo specifico che va a dire carrelli piuttosto che robot.
+Filippo Tonutti: prodotto anche
+Diana Ongaro: sì. E allora diciamo che in questo caso in realtà siccome la mappatura, cioè può esserci una un'ulteriore mappatura tra Sale Plan e AVM, quindi se il nostro centro di lavoro F2122 F2123 comporta i
+Filippo Tonutti: E
+Diana Ongaro: carrelli invece di scriverti un campo d'appoggio, può essere un centro di lavoro diverso, cioè se serve per evitare campi in più d'appoggio e avere un'unica mappa Okay. quella che è CDL su Task, possiamo modificare il campo del CDL utilizzando una tabella temporanea. Noi anche nel caso di prima,
+Alberto Spiller: Ah, ok. dice di mettere un codice F.
+
+
+00:12:08
+
+Diana Ongaro: eh, cioè il fatto che utilizzi uno o due risorse può essere modificato il codice, cioè il campo che esporto come codice macchina, se è più semplice poi a livello di mappatura di task.
+Filippo Tonutti: Sì,
+Alberto Spiller: Quindi
+Filippo Tonutti: però il caso di prima tu hai un oggetto che va su due macchine,
+Diana Ongaro: Sì.
+Filippo Tonutti: per cui devi cioè Cioè, non è che puoi mettere nella macchina, cioè nel nel codice centro non puoi mettere due macchine. Eh,
+Diana Ongaro: No, però a livello di AVM poi si traduce in numero di risorse occupate, no?
+Alberto Spiller: in verità lì è una informazione che ci portiamo internamente, nel senso P senso che con questa mappatura Daniele ci diceva,
+Diana Ongaro: M.
+Alberto Spiller: Daniele, il nostro utente ci diceva che lui di persone ne pianifica una su task per task e la numerosità varia, però se tu mi dai un'indicazione a livello di CDL di work center dove mi dici due persone io tutti i task li duplico.
+Diana Ongaro: Ecco, ecco.
+Alberto Spiller: Quindi ripartizione 188 diventa uno spazio per due persone, attrice 100 per due persone,
+Filippo Tonutti: insieme perché
+Alberto Spiller: carrelli per due persone.
+Filippo Tonutti: poi
+Diana Ongaro: M.
+
+
+00:13:25
+
+Alberto Spiller: E quindi di fronte a questo eh l'indicazione è quella del
+Filippo Tonutti: se mandi
+Alberto Spiller: dire le due persone devono andare su una specifico task o su tutto il CDL moltiplico per due o per il numero di
+Diana Ongaro: Eh,
+Filippo Tonutti: Cabara stato della
+Diana Ongaro: bisogna capire e
+Filippo Tonutti: romana
+Diana Ongaro: se per loro,
+Alberto Spiller: perché il lato nostro perché
+Diana Ongaro: cioè se fanno per due o se invece invece che avere
+Alberto Spiller: su No, ma perché su questo poi interveniva a Daniele dicendo ci sono dei casi in cui poi
+Filippo Tonutti: Quindi
+Alberto Spiller: l'attivazione della lavatrice 100 piuttosto che la ripartizione possono variare, cioè possono variare in base al tipo di prodotto che sto facendo e quindi quello era da internalizzare in AVM con parlo per Gabriele i livellamenti in cui una volta che tu che Sram passa il fatto di fare un determinato ordine di una famiglia famiglie sulla F2123 tre.
+Filippo Tonutti: Sì. Ok.
+Alberto Spiller: Io mi porto in casa, attivo tutti i task di default e vado a spegnermi in base al tipo di famiglia che porto in casa, in base al livellamento che ho setto, che ho fatto settare ad alele. L'unica cosa che mi chiedo è perché i carrelli e i robot devono stare dentro l'F2123, F22, ripartizione 188, ripartizione 115,
+
+
+00:14:52
+
+Filippo Tonutti: di
+Alberto Spiller: se mi sembra di capire che il problema sia che sono legati al resto e in verità i carrelli Yeah. e robot sono un'alternativa. Non so se tu ma perché devo stare, cioè, ok, a livello operativo della fabbrica è molto chiaro. Mi chiedo a livello di modello perché si è scelto di mettere i carot dentro quelli stessi sottoinsi insieme di work center CDL delle altre
+Filippo Tonutti: Mi sa che
+Alberto Spiller: attività e non si possono scorporare in un work center un CDL a s stan in modo tale che siano indipendenti. Allora,
+Filippo Tonutti: c'èata così
+Alberto Spiller: lato a Wner era stato proposta questa parte, lato però eh Cyberplan, c'era un
+Diana Ongaro: dovrebbero modificare i i ciclip.
+Filippo Tonutti: Bravi per time e
+Alberto Spiller: Ok. Eh, qu cioè ok quanto impatta modificare i c oggi rispetto a a poi in futuro avere un qualcosa di più resiliente, strutturato? Cioè, nel senso, se mettiamo su una bilancia il fatto di cambiare solo questi cibi specifici rispetto al
+Filippo Tonutti: poi Ok.
+Alberto Spiller: utilizzare un accrocchio che magari può dare dei problemi in futuro.
+Diana Ongaro: è che dovrebbero gestire delle alternative. In realtà il concetto di carrello robot non è un tema di ciclo, perché il ciclo potrebbe usare sia il carrello che robot e poi a livello di schedulazione che
+
+
+00:16:13
+
+Filippo Tonutti: Poi tu
+Diana Ongaro: viene scelto se usare uno o l'altro. Quindi, provando a fare dei dei ragionamenti anche con i colleghi di Cybertech su come modellare questa cosa per lo schedulatore. La cosa più semplice è una volta fatto il piano di produzione capire se si può usare per una certa fase dei carrelli il il robot o se non è disponibile perché ci
+Filippo Tonutti: del
+Diana Ongaro: sono nello stesso giorno, nella stessa ora altri articoli che richiedono per forza robot usare per quella fase il carrello.
+Filippo Tonutti: su quella parte delle regole sui componenti.
+Diana Ongaro: Però diciamo che m
+Filippo Tonutti: Coordinato.
+Diana Ongaro: sistemando i cicli non non è non viene gratis a livello di schedulazione. Comunque dovremmo fare una crocchio
+Filippo Tonutti: Ma questo lo lo tratti in schedulazione come un'attrezzatura oppure no?
+Diana Ongaro: come un'attrezzatura. Eh, non basta, non avevamo fatto delle simulazioni con Emanuele, non basta gestirlo come attrezzatura perché dovresti vedere eh chi ha la priorità,
+Filippo Tonutti: Esatto tutto.
+Diana Ongaro: cioè è proprio un tema addiciono alcuni articoli più pesanti per cui per forza devi usare il robot.
+Filippo Tonutti: Mh.
+Diana Ongaro: Altri se è disponibile sì, altrimenti no.
+
+
+00:17:42
+
+Diana Ongaro: Questo altrimenti non era
+Filippo Tonutti: Sì. Oh, va bene. Quindi non viene gestita in scatulazione.
+Diana Ongaro: come vincolo. No,
+Filippo Tonutti: Sì. Beh,
+Diana Ongaro: come tu no.
+Filippo Tonutti: quindi non viene gestita perché eh né come vincolo né avere
+Diana Ongaro: Ч.
+Filippo Tonutti: diciamo sì, attualmente, perché se non lo gestisci lì non vedo come tu non posso Ok.
+Diana Ongaro: No, perché non è una risorsa. non è una risorsa, quindi loro non alla
+Filippo Tonutti: E quindi una cosa che decidi decide l'operatore al
+Diana Ongaro: fine e esatto.
+Filippo Tonutti: momento.
+Diana Ongaro: Так.
+Alberto Spiller: su questo qual è? Vi faccio un po' di contesto anche per Marco, cioè loro hanno una situazione per cui hanno delle linee produttive che possono lavorare anche in parallelo, poi arrivano alla fine e per fare una determinata fase lavorativa possono farlo con due alternative. o robot che è più efficace e più efficiente, ma il robot è limitato, cioè può fare un tot di lavorazioni. Quando il robot è occupato, è impegnato,
+Filippo Tonutti: E
+Alberto Spiller: a quel punto usano dei carrelli manuali, cioè sono proprio dei carrelli in cui caricano sopra le cose, le spostano e le imballano manualmente.
+
+
+00:18:47
+
+Filippo Tonutti: Poi
+Alberto Spiller: Cos'è che puntano a fare? puntano utilizzare internamente i robot per le produzioni quelle a più alto, insomma, più alto volume e però è una scelta che ad oggi fanno esclusivamente su iniziativa della persona. Quindi quello che si è ipotizzato con Diana e Marco al tempo era quello di metterlo come alternativa, nel dire quando il robot è prioritizzato su una determinata linea, se è già impegnato l'altra linea non può utilizzare il robot e quindi va sui carrelli. E questo è un po' il contesto e quello che appunto adesso stava raccontando Diana erano i ragionamenti lato cyber planché dato AVM è fondamentale sapere se devono dare i carrelli piuttosto che il robot perché il robot ci va una persona i carrelli ne possono andare più di una perché ovviamente
+Filippo Tonutti: Vè
+Alberto Spiller: hanno va in parallelo e hanno bisogno di più persone che ci lavorino. Quindi era per darti un po' il contesto del del punto, però da quanto colgo questa scelta Diana la stiamo lasciando all'utente in cyberplan, cioè fatta la schedulazione
+Diana Ongaro: Allora, non pensavamo all'utente,
+Filippo Tonutti: No.
+Diana Ongaro: ma farlo tramite script, però una volta che hai fatto piano giornata, cioè non come vincolo per fare la schedulazione, ma una volta fatta la schedulazione, se ho tempo, cioè se ho il robot libero lo uso, se non ce l'ho perché lo stanno usando, sto usando il vetro, lo sto usando la famiglia che deve per forza utilizzarlo.
+
+
+00:20:20
+
+Diana Ongaro: Per questa fase utilizzo il carrello manuale.
+Filippo Tonutti: Ma come fai a sapere sta roba qua? Cioè,
+Diana Ongaro: Eh,
+Filippo Tonutti: nel senso,
+Diana Ongaro: una volta fatta fatto il piano
+Filippo Tonutti: sì, ma quindi una volta che hai fatto il piano lo
+Diana Ongaro: eh,
+Filippo Tonutti: associ, cioè l'associ in qualche modo, cioè nel senso eh sì,
+Diana Ongaro: è in base alla famiglia prodotto.
+Filippo Tonutti: ma fai uno script e valorizzi qualche campo,
+Diana Ongaro: Sì, sì,
+Filippo Tonutti: cosa fai?
+Diana Ongaro: pensavamo di fare così con manuale.
+Filippo Tonutti: Ok, quindi è un'informazione che A te a
+Diana Ongaro: per passare le informazioni a loro. Esatto,
+Filippo Tonutti: Sì.
+Diana Ongaro: perché a livello di Syp in realtà non è
+Filippo Tonutti: No, non è cioè non è una è solo una proposta diciamo che
+Diana Ongaro: poco.
+Filippo Tonutti: viene. Ok. Boh, ipotizzata che si possa fare e anche questa qui è cioè è un qualcosa di di custom, mi viene da dire, cioè è unin di fatto a te interessa sapere se quell'operazione usa o meno robot, perché se non lo usa e userà il carrello, cioè nel senso e quindi quel quindi ci sarà un campo da qualche parte che
+
+
+00:21:34
+
+Diana Ongaro: У
+Filippo Tonutti: deve essere passato ad Alberto. Ma non è, cioè,
+Diana Ongaro: ad
+Filippo Tonutti: è comunque una risorsa ausiliaria. Questa qui non è la risorsa di riferimento del non è un centro di lavoro,
+Diana Ongaro: No,
+Filippo Tonutti: per cui Ehm,
+Diana Ongaro: esatto. Perché il tema di modificare i il le fasi vuol dire anche fare dei tempi standard per assaggiare dei tempi a robot o al carrello, quindi non è proprio così immediato. Se poi è una cosa che effettivamente adesso non hanno un mes, quindi non devono dichiarare tempi né niente, quindi poi a livello di produzione ehm non è indispensabile. Ecco.
+Filippo Tonutti: ma il fatto che sia presente un Robot determina la presenza
+Diana Ongaro: Mh.
+Filippo Tonutti: sempre di un numero di persone pari a due, non so,
+Diana Ongaro: No,
+Filippo Tonutti: per esempio,
+Diana Ongaro: il numero di di persone è diverso.
+Filippo Tonutti: diverso da dipende da che cosa.
+Diana Ongaro: è un al carrello o un robot, però qua aiutami Alberto tra il carrello e manuale.
+Alberto Spiller: Sì.
+Diana Ongaro: Ok.
+Alberto Spiller: Qua il concetto è il il robot richiede una persona che controlla che il robot stia lavorando correttamente, mentre quando non c'è il robot varia sicuramente più di uno.
+
+
+00:22:55
+
+Alberto Spiller: può variare anche a due tre in base
+Filippo Tonutti: Boh. Ok. Ma quella è una cosa che in ogni caso Cyberp non può sapere.
+Alberto Spiller: No, no, ma infatti quello è un concetto dove noi lo faremo gestire l'ato a WM, però ci serve sapere l'informazione se sta lavorando il robot su quella determinata linea di work center o se non sta lavorando il robot. E quindi quello che potrebbe essere, se si può mh se si può ragionare così, è quello di codificare il codice che AVM porta dentro al CDL. Anzi, dovremmo lavorare col pattern,
+Filippo Tonutti: Eh,
+Alberto Spiller: dare un parlo per Gabriele,
+Filippo Tonutti: Ja.
+Alberto Spiller: Gabriele. Ci portiamo in casa il pattern, cioè con il codice tipo invento, la ripartizione 188_ robot m diventa un pattern. Al pattern ci associo il layout dedicato dove attivo il robot e tolgo il carrelli. Se mi arriva la ripartizione 188 rally un
+Filippo Tonutti: Sto
+Alberto Spiller: nuovo partner dove prendo e ci associo il layout con i carrelli con il
+Diana Ongaro: Questo
+Alberto Spiller: numero di persone più alto che è chiesto da standard e poi sarà il nostro utente che pianifica o meno le persone sui carrello.
+
+
+00:24:18
+
+Alberto Spiller: Eh sì, però sto pensando a questa cosa qua perché mi immagino che arrivi come trecciato dati, mi immagino quello delle operazioni
+Filippo Tonutti: Eh, però Ok.
+Alberto Spiller: dove se ci vengono passate le operazioni questa roba
+Diana Ongaro: Bra.
+Alberto Spiller: qua cioè si passano si passano solo le operazioni non lo so, forse anche tutti e due, però però prima mi hai parlato di famiglia del prodotto. Eh sì. Però se che recuperi solo la riuperazione. Eh, infatti. Ok, sto pensando. Non è che ho un'idea fissa. Pattern o livellamento recuperi dai di alle famiglia. la famiglia,
+Diana Ongaro: per
+Alberto Spiller: cioè i livellamenti vado al pattern, ovviamente esplodono i pattern al posto dei livellamenti, ma il concetto è simile, associo la famiglia enorme.
+Filippo Tonutti: non riesci
+Alberto Spiller: Sì, sì, sì. Vabbè, quello però tanto di manutenzione appunto, cioè con esplorare sui livellamenti piuttosto che sui pattern, però sui pattern cos'è che succede? Che riesco a sopperire a sta cosa se Diana mi passa l'informazione del work center famiglia di prodotto devo fare e la specifica se c'è il robot carrello e io lo concateno in un codice unico a quel punto pattern.
+
+
+00:25:49
+
+Alberto Spiller: Ok, quindi sui ci viene detto per ogni
+Filippo Tonutti: Ok, però appena se
+Alberto Spiller: operazione il pat quello che
+Filippo Tonutti: e altre cose.
+Alberto Spiller: e la famiglia e eh se servono in robot. Eh, ma sto pensando così al volo. Sì,
+Filippo Tonutti: con
+Alberto Spiller: poi sarà da vedere che dati riesce a passarciano, cioè una volta che vediamo i dati che ci passa ci facciamo una riflessione, però il punto loro dato utente è quello del dire devo sapere quale linea sta andando, cioè quale work center sta andando, cosa sta producendo, perché in base a cosa produce ovvi che dipendono dalla famiglia. Quello che sto concludendo è che sicuramente siamo fuori dallo standard e mi sembra di cogliere. Sì. Non posso chiederti comeè fatto un ordine,
+Filippo Tonutti: X
+Alberto Spiller: un ciclo di self
+Diana Ongaro: Sì. Ho aperto Cyberp.
+Alberto Spiller: condividere giusto per darmi
+Filippo Tonutti: Perché sia una frase che aveva scritto Marco diciamo ed era la gestione commess
+Diana Ongaro: Aspetta che condivido. Condivato.
+Filippo Tonutti: pagare come trasferimento potrei avere Ok.
+Diana Ongaro: che ci devo ancora dare, ma li abbiamo ancora
+Filippo Tonutti: E è la scorda sui materiali a compensità di
+Diana Ongaro: vedete
+
+
+00:27:48
+
+Alberto Spiller: È un po' in ritardo il video. Sì, adesso vediamo.
+Filippo Tonutti: quella
+Alberto Spiller: Riesci aumino?
+Filippo Tonutti: web.
+Diana Ongaro: a zoomare.
+Alberto Spiller: Sì, giusto un peligro.
+Filippo Tonutti: M se trovi qualche roba.
+Diana Ongaro: Allora, un ciclo.
+Alberto Spiller: Sì.
+Diana Ongaro: Allora, quello che va per la maggiore con Roberto è il para.
+Alberto Spiller: E quindi ogni l'ordine di produzione finale ha una decina di fasi, giusto?
+Diana Ongaro: Sì, in realtà nel ciclo ne aveva una valanga perché dentro avevano anche tutte le fasi di controllo di gestione eccetera.
+Alberto Spiller: Ah,
+Diana Ongaro: Abbiamo fatto un po' di pulizie.
+Filippo Tonutti: M.
+Alberto Spiller: ok.
+Diana Ongaro: Adesso qui dovrebbero essere rimaste solo quelle sensate.
+Alberto Spiller: Ok,
+Diana Ongaro: E non tutte queste sono poi effettivamente da pianificare, come vedi,
+Alberto Spiller: certo, certo. Ok.
+Diana Ongaro: alcune hanno tempo zero, esistono perché poi Right. Loro devono dichiarare dei batch in produzione, quindi ne hanno bisogno per fare delle dichiarazioni, però a livello di pianificazione m l'unica che guarda veramente Roberto, il pianificatore è questa di di partizione, quindi la fase di riempimento.
+Alberto Spiller: Ok.
+
+
+00:29:17
+
+Alberto Spiller: Quindi diciamo che gli oggetti che andranno verso UMS sono una lista
+Filippo Tonutti: Ok.
+Alberto Spiller: di operazioni in Cyberplan, giusto?
+Diana Ongaro: Sì.
+Alberto Spiller: Ok. Di cui la ripartizione c'ha questo aspetto che usa un tool o usa uno strumento che probabilmente il centro di lavoro è fatto da da un qualcosa prima e poi c'è un robot o un carrello e questo robot o carrello viene modellizzato come un tool. che viene deciso post schedulazione da uno script, giusto?
+Diana Ongaro: Sì,
+Filippo Tonutti: Non lo so.
+Alberto Spiller: Ok.
+Diana Ongaro: solo nel caso di un centro di lavoro.
+Alberto Spiller: Solo in caso non c'entra.
+Filippo Tonutti: E qui c'è qualcosa del rock di magazzino che però è qua
+Alberto Spiller: Ok? E questa informazione vi servirebbe a voi sapere se è robot, la scelta è sul robot per poter creare un task per il robot o per il carrell e attivarli in base a quando devono essere chi decide quanti carrelli
+Filippo Tonutti: sì se ti viene in mente qualcosa in generale sulle
+Diana Ongaro: No,
+Alberto Spiller: perché
+Diana Ongaro: questo quello dipende dal numero di lavorazioni che fanno, cioè è un centro di lavoro unico in cui può essere fatto possono essere fatte due famiglie
+Alberto Spiller: Mh.
+
+
+00:30:33
+
+Diana Ongaro: prodotto dentro la macchina.
+Alberto Spiller: Ok.
+Diana Ongaro: Poi l'uscita di queste due di queste due macchine è in un'unica baia e quindi
+Alberto Spiller: Sì,
+Diana Ongaro: per scaricare le baie possono usare o il robot e ce n'è uno per scaricare le due oppure il carrello
+Alberto Spiller: sì.
+Diana Ongaro: manuale. Quindi se decide il pianificatore di far partire entrambe le macchine alla fine
+Filippo Tonutti: Ok,
+Alberto Spiller: Sì,
+Diana Ongaro: deve decidere se far andare il robot quale delle due linee o se usare il
+Alberto Spiller: certo.
+Diana Ongaro: carrello. Se invece va solo una delle due macchine, cosa è la più frequente in realtà, cioè capita raramente che vadano entrambi in parallelo, però quella volta che capita deve scegliere,
+Alberto Spiller: Sì.
+Diana Ongaro: se non se va solo una delle due può usare il robot.
+Alberto Spiller: Ok.
+Filippo Tonutti: ok, ok.
+Alberto Spiller: Quindi quello che arriverebbe su AVM sarebbe la lista delle delle fasi
+Filippo Tonutti: Sì.
+Alberto Spiller: delle operazioni,
+Diana Ongaro: Ok,
+Alberto Spiller: quelle chiamate ordini. Sì, sì. Operazione, no, adesso abbiamo diffuso internamente il verbo che si chiama operazione. Operazione,
+Diana Ongaro: il verbo Ja.
+
+
+00:31:32
+
+Alberto Spiller: ok? Quindierebbe la lista delle operazioni con qual è il centro di lavoro, la quantità, la data inizio data fine,
+Filippo Tonutti: Va bene.
+Alberto Spiller: l'ordine che deve stare nel l'ordine, il l'itemali altre informazioni? Non so, la famiglia di prodotto, stavate parlando prima. Sì. E un altro parametro perché se sono se solo un valore o robot o carrello un altro parametro Niente, può essere anche solo robot o niente. C'è tre valori. Ok. Mi sembra che può essere carrello, robot. Eh, sì, effettivamente è quello però è sempre solo uno, quindi è un'informazione che si potrebbe aggiungere alla lista delle delle operazioni. Sì, sì. Ok. Ok. Che noi andiamo a concatenare e dopo il lato nostro che lo concatamo, basta che lo leggiamo cosa quello ci comport in un modo e l'altro. Ritorno, Filippo.
+Filippo Tonutti: Sì, sì, sì. Ma poi il dato lo puoi anche, cioè potremmo anche noi concatenarlo, cioè noi Diana potrebbe anche o noi siamo quello,
+Diana Ongaro: Esatto. Sì, sì,
+Filippo Tonutti: potrebbe concatenarlo.
+Diana Ongaro: certo.
+
+
+00:32:39
+
+Filippo Tonutti: Adesso abbiamo identificato il campo custom, però potrebbe essere già il fatto che vi arrivi con work center meno eh robot.
+Alberto Spiller: Eh sì, molto più semplice questo e e soprattutto questo ci permette di forse possono stare dentro anche uno standard soluzione. Perché noi con loader che stiamo pensando che è il punto dove noi se la struttura rispetto a quella che ci stavamo che avevamo condiviso fino adesso con con Filippo, rientriamo anche dentro al loader ovviamente dopo, anzi no, dentro le logiche perché una volta che abbiamo quel campati sta nostra configurazione andare a settare la mappatura dei livellamenti o pattern da capire perché questo è Sì. e quindi saremo ancora più in linea questa parte. Va bene, direi che
+Filippo Tonutti: Ovviamente devi modificare la select di export. No, Marco, lo sto sbagliando, mi sembra che sia così,
+Alberto Spiller: Sì,
+Filippo Tonutti: eh.
+Alberto Spiller: sì.
+Filippo Tonutti: E quindi
+Alberto Spiller: M di ANAV poi nel nel nella configurazione dell'export,
+Diana Ongaro: Mm.
+Alberto Spiller: quindi sul workspace di integrazione in export, dovresti andare poi a modificare sul sul parametro che loro ricevono ad oggi il codice del centro di lavoro, andare a concatenare due valori di Cyberpl.
+Diana Ongaro: Sì,
+Alberto Spiller: È gestibile tramite configuraz,
+
+
+00:34:01
+
+Diana Ongaro: sì, sì,
+Alberto Spiller: tramite l'interfaccia.
+Diana Ongaro: sì.
+Filippo Tonutti: sì, sì. Esatto. Sì, c'è un minimo di lavoro,
+Diana Ongaro: Sì, sì, va bene.
+Filippo Tonutti: ma niente di che,
+Diana Ongaro: Certo.
+Filippo Tonutti: insomma, no? Quindi, in caso ti diamo una mano per quello. Ok.
+Alberto Spiller: Come la vedi Diana tu questo passaggio?
+Diana Ongaro: No, no,
+Alberto Spiller: Cioè lo vedi fattibile?
+Diana Ongaro: no. Sì, sì, sì. M cioè il fatto di concatenare per permettere in AVM di avere due cose distinte più chiare poi da gestire e mappare quei task, nessun problema. Lo script che faremo in Server.
+Filippo Tonutti: Sì,
+Diana Ongaro: Era la parte bella.
+Alberto Spiller: Ok.
+Filippo Tonutti: poi in caso dai lo diamo lo diamo da fare a Iris che sicuramente sarà la più fresca
+Diana Ongaro: Ecco.
+Filippo Tonutti: e la più capace.
+Alberto Spiller: No, va bene, dai. Ehm, se siete d'accordo, cioè possiamo restare così. Quindi Diana, se riesci ci mandi un un esempio di quello che abbiamo discusso oggi, così anche internamente lo analizziamo e vediamo se riusciamo a farlo.
+
+
+00:34:59
+
+Alberto Spiller: una mappatura con con loader standard e in base a quello eh poi vai pure vedo che hai una domanda
+Diana Ongaro: Eh sì, a livello di fasi. Adesso detto standard order, parlavi di AVM,
+Alberto Spiller: operazioni.
+Diana Ongaro: non un'operazione,
+Alberto Spiller: Sì, sì, sì, sì, sì, sì, sì.
+Diana Ongaro: quindi un export delle fasi che mi sembrava di aver già
+Alberto Spiller: se riesci a farci un export delle fasi e della schedulazione
+Filippo Tonutti: Sì.
+Diana Ongaro: fatto.
+Alberto Spiller: che che ipotizziamo, cioè una schedulazione delle fasi, non so se tu hai già qualcosa
+Diana Ongaro: Eh, ma mi sembrava che l'avessimo Adesso lo cerco. Oh.
+Alberto Spiller: con anche già i campi concatenati e in modo tale che sia, diciamo, l'export finale che cui stiamo parlando per avere un'idea che tutto quadri fare una mappatura che poi ti restituiamo a VM in modo tale che vediamo anche la condivido con Marco e Filippo e ovviamente Gabriele, così vedere se riusciamo a a farlo rientrare nei casi standard. nei casi standard, perché quello ovviamente lato nostro che stiamo facendo il percorso da inizio dell'anno fine dell'anno scorso diventa già un primo case study utile. Ma giusto per capire Diana,
+
+
+00:36:18
+
+Filippo Tonutti: M.
+Diana Ongaro: Eh,
+Alberto Spiller: voi avete già cominciato a fare fare un po' di schedulazione di di qualche tipo in
+Filippo Tonutti: L'FCP
+Alberto Spiller: SALF?
+Diana Ongaro: schedulazione in senso stretto, no?
+Alberto Spiller: Ok.
+Diana Ongaro: E in realtà la FCS, cioè per far partire la FCS, quindi la schedulazione con FCS, eh bisogna creare tutti i parametri, quindi lì sarà lunga in realtà. Eh,
+Filippo Tonutti: l'avete lanciato?
+Diana Ongaro: la FCP l'abbiamo lanciato mh è che tutti i parametri che adesso ho in mente, cioè sì, diciamo che per la wave 1, quindi il primo live che sarà appunto solo con MRP FCP per evitare di aspettare tutti i vincoli per partire, eh il pianificatore dovrà procedere a come fate a sua mano.
+Alberto Spiller: Ma hai l'FCS invece se l'ho detto giusto
+Diana Ongaro: Per l'FCS servono tutti tutti i vincoli che adesso non esistono da nessuna parte.
+Alberto Spiller: e più o meno avete un'idea di quando potrà essere una una bozza, non quello finale ovviamente perché conosciamo anche abbiamo conosciuto anche noi Roberto, quindi Roberto è l'uomo
+Diana Ongaro: Eh, allora, adesso stiamo cercando di andare live con la prima parte, quindi convincere Roberto a fare in sera una pianificazione manuale e c'è ancora un po' di un po' data quality da fare, quindi adesso non so se sai che è entrato direttore, ma responsabile operation insisterà un po' su questa cosa che finora non hanno fatto e quindi noi speriamo, cioè contiamo entro metà novembre di andare live con la prima parte, quindi Yeah.
+
+
+00:37:59
+
+Diana Ongaro: Quindi comunque esportare gli ordini e fare la pianificazione in Cyberplan, però senza tutti i suoi vincoli. I suoi vincoli arriveranno.
+Filippo Tonutti: Ma scusa, ma la cioè diciamo per questa prima fase comunque i dati sono sufficienti per
+Diana Ongaro: Mh.
+Filippo Tonutti: portarli in AVM?
+Diana Ongaro: Sì, sì, sì, sì,
+Filippo Tonutti: Cioè,
+Diana Ongaro: sì, sì,
+Filippo Tonutti: quindi,
+Diana Ongaro: sì, sì,
+Filippo Tonutti: quindi giusto per per rispondere ad Alberto, non fanno la schedulazione spinta, ma fanno una, diciamo,
+Diana Ongaro: esatto.
+Filippo Tonutti: una pianificazione a capacità finita che però arriva fino al centro di lavoro e quindi vi dà i dati che servono almeno per questa prima fase per fare l'assegnazione alle risorse e quindi anche questo concetto di robot comunque rientra,
+Diana Ongaro: Sì.
+Filippo Tonutti: lo riesce a far rientrare anche con FCP.
+Diana Ongaro: Sì, sì, sì, sì,
+Filippo Tonutti: Ok,
+Diana Ongaro: sì,
+Filippo Tonutti: quindi quello che abbiamo detto comunque, cioè teoricamente avresti, cioè si potrebbe già fare un test avendo l'integ Sì,
+Diana Ongaro: sì,
+Alberto Spiller: Eh,
+Diana Ongaro: sì, sì,
+
+
+00:38:53
+
+Alberto Spiller: infatti,
+Diana Ongaro: sì, sì,
+Alberto Spiller: infatti,
+Diana Ongaro: sì.
+Alberto Spiller: infatti.
+Filippo Tonutti: perché mi immagino che Alberto la domanda di Alberto puntasse a questo, insomma, no?
+Alberto Spiller: Sì, sì,
+Filippo Tonutti: Eh
+Alberto Spiller: infatti stavo proprio per dire l'obiettivo era proprio quello di ricevere un file, un export di esempio che poi rimanga quello come struttura anche quando si andrà sull' FCS, quindi che non ci siano modifiche da fare strutturali nell'integrazione su cui poter uno fare un'analia interna, due validare con Diana al tracciato l'export e a quel punto far partire gli eventuali sviluppi lato nostro interno. in modo che quando poi si arriverà ad avere l'FCP bar FCS, se appunto non ci sono differenze strutturali, essere già pronti in modo che Diana al giorno mi dice Alberto, guarda, siamo passati da FCP, partiamo, vediamo cosa succede su AVM, possiamo già lavorarci e quando poi si di dirà guardate siamo nell' FCS a quel punto in AVM è già tutto trasparente e arrivano eh informazioni dello stesso tipo. Questo era un po' il l'obiettivo che volevo condividere.
+Diana Ongaro: Sì, sì, sì. Se quello
+
+
+00:40:00
+
+Filippo Tonutti: Sì, diciamo che sicuramente mi viene da dire che non so se arriveranno, cioè non arriverà l'informazione della macchina, arriverà solo l'informazione del centro attualmente.
+Diana Ongaro: No, in realtà girerà l'FCS, quindi comunque l'informazione della macchina arriva solo non c'è non c'ha i vincoli, quindi l'unica cosa che gestisci è la macchina.
+Filippo Tonutti: Ah, ok. Boh. Quindi allora hai tutto. Boh.
+Diana Ongaro: Sì, sì,
+Filippo Tonutti: Quindi allora gira l' FCS.
+Diana Ongaro: sì, sì,
+Filippo Tonutti: Ok.
+Diana Ongaro: sì.
+Filippo Tonutti: Ma perché?
+Diana Ongaro: Girare gira senza vincoli.
+Filippo Tonutti: Ma Ok.
+Diana Ongaro: Gira.
+Filippo Tonutti: Eh boh, ma i fini del dell'integrazione,
+Diana Ongaro: Questo sì è sufficiente.
+Filippo Tonutti: cioè diciamo l' i dati ci saranno, quindi eh c ci sono tutti questi dati qua, quindi quello di cui abbiamo parlato vale e e cioè e si è installato, se installiamo l'integrazione standard dovrebbe già funzionare al netto di questa concatenazione qua e del campo custom che bisogna in qualche modo gestire.
+Diana Ongaro: Mhm.
+Filippo Tonutti: Č.
+Alberto Spiller: Ma giusto per capire, quando dite i vincoli No. sono ancora settati.
+
+
+00:41:02
+
+Alberto Spiller: I vincoli sono qualcosa di impattante poi a livello di struttura o è semplicemente un impatta a
+Diana Ongaro: No,
+Filippo Tonutti: No,
+Diana Ongaro: no, no.
+Alberto Spiller: livello di sequenzazionato di risultato. Ok. Ok.
+Filippo Tonutti: esatto.
+Alberto Spiller: Cioè a livello metti in questa fase prima di quella fase operazione prima di quella e questi
+Filippo Tonutti: Eh, cioè
+Alberto Spiller: link. Immagina che lanci la capacità finita senza però aver attivato nessun piccolo. Ah ok. ti tiene le date pianificate. Poi mano che magari va avanti il progetto incominciano a sistemare, ma questo questa macchina effettivamente quanta capacità ha? Ok, gli metto un calendario, è veramente il vincolo il la metto col vincolo e quando rilanci la schedulazione considera il vincolo considera il vincolo e quindi le date di schedulazione possono m essere diverse da quelle pianificate,
+Filippo Tonutti: Так.
+Alberto Spiller: chiaramente. E quindi man mano che tu vai a diciamo ad aggiungere i vincoli, ovviamente l'output ti può Chiaro. Chiaro. Lì l'escodizatore ha da fti aggiornamenti di rispetto dei vincoli, ottimizzazioni varie.
+
+
+00:42:03
+
+Alberto Spiller: Ok. Ok. Quindi di output siamo lì, solo che a livello di ottimizzazione dell'output migliorerà mano che Diana definirà con il cliente i vincoli Ok,
+Filippo Tonutti: Sì.
+Alberto Spiller: perfetto.
+Filippo Tonutti: o peggiorerà anche.
+Alberto Spiller: Perfetto.
+Diana Ongaro: Esatto. Cioè, speriamo
+Alberto Spiller: Eccola perché Diana fa della croce. Filippo dice non peggiorerà, quindi va bene,
+Filippo Tonutti: Eh sì, bisogna essere realisti,
+Alberto Spiller: va bene.
+Filippo Tonutti: dai. Dipende che vincoli mettono se sono giusti o sbagliati, dipende tutto.
+Alberto Spiller: Eh, infatti. No,
+Filippo Tonutti: Vabbè.
+Alberto Spiller: no. Chiaro, chiaro, assolutamente. Va bene, allora restiamo così, sei d'accordo, Diana? Aspettiamo un tuo export e simuli
+Diana Ongaro: sì, cerco intanto di recuperare perché avevamo fatto una ragionata, avevamo già ipotizzato i campi. cerco di recuperare anche quello Excel e poi sì, sì, a livello di integrazione se mh se per esportare dati in qualche formato, insomma, per fare delle verifiche dei test sono più, anche se non sono quelli definitivi, insomma.
+
+
+00:43:03
+
+Filippo Tonutti: Che versione hai lì?
+Diana Ongaro: 1136 che tra l'altro devo aggiornare perché hanno ancora il bug delle tendine.
+Alberto Spiller: Ok.
+Filippo Tonutti: Boh. Quindi diciamo tu aggiornerai l'ultima versione delle 113 e quindi ti troverai già il il plugin.
+Diana Ongaro: Ah, c'è già il plugin. Perfetto.
+Filippo Tonutti: Dovrebbe già esserci. No, Marco?
+Alberto Spiller: No, no, no, aspetta Filippo.
+Filippo Tonutti: Ah, non c'è ancora.
+Alberto Spiller: No,
+Filippo Tonutti: Ah, scusa, allora,
+Alberto Spiller: no,
+Filippo Tonutti: sono andato troppo avanti.
+Alberto Spiller: no. L'unica Diana,
+Filippo Tonutti: Eh
+Alberto Spiller: come flussi c'è le le operazioni, le fasi e pensavate anche di scambiare i calendari?
+Diana Ongaro: Mh. Ecco, Alberto. Sì.
+Alberto Spiller: Sì. Allora, per i calendari,
+Diana Ongaro: C avevamo detto di sì con Alberto.
+Alberto Spiller: ok, per i calendari abbiamo fatto una funzionalità che, se non mi ricordo male, è nella 113 8 o 9, quindi o è già uscita o nella prossima.
+Diana Ongaro: Aspetta, eh.
+
+
+00:43:57
+
+Alberto Spiller: E ora in che ti faccio la preparazione dei dati.
+Diana Ongaro: mi ha detto infatti Arnaldo perché ho dovuto farlo per Minelli e ho fatto tabelle custome.
+Alberto Spiller: Ok. E abbiamo fatto una funzionalità che dovrebbe aiutare invece che far tabelle custom a già preparar. Sì,
+Diana Ongaro: Ho capito.
+Alberto Spiller: sì. Su questo ti do l'introduzione prima. Su questo coniano e Michael si era discusso anche di passare i calendari anche da far girare prima i calendari prima i calendari perché dove se per se girando devono girare sempre i primi calendari in po operazioni. Sì, sì, ma il concetto era di tirare in casa anche i calendari perché ci possono essere dei casi in cui sia gli ordini schedulati ma le persone devono essere pianificate anche over anche anche over.
+Diana Ongaro: Okay.
+Alberto Spiller: quindi fare entrambe con l'attivazione degli invellamenti anche sui calendari. Quindi questo è lato nostro, un passaggio che dovremmo smarcare noi. Ok, va benè. Benissimo. Eh, lo so, volevo chiederti, ma ehm cioè Marco prima parlavi della parte di integrazioni standard. Sì, ma le avete già rilasciate? Abbiamo abbiamo rilettato una funzionalità all'interno di Cyberplan che permette, se noi abbiamo una struttura di calendari che dove hai il turno, hai le ricorrenze, hai lezioni, però diventa complicato se tipo di Ana deve farlo veramente script perché deve rifarsi la logica che c'è da sotto.
+
+
+00:45:38
+
+Alberto Spiller: Quindi abbiamo fatto un comando con con alcuni configurabile per certi aspetti che va a creare una una sorta di tabella report che ti va, diciamo, a srotolare il calendario. Ok? Ok. E quindi ti dice da questa data ora, questa data ora c'ho intorno uno e xor, insomma tutta una serie di di parametri che abbiamo visto tipicamente utili sia con AVM, ma anche con i messo, c'è questa necessità.
+Filippo Tonutti: Sì.
+Alberto Spiller: Quindi abbiamo colto l'occasione e già in release che non sono fatto a luglio ad
+Diana Ongaro: Era
+Alberto Spiller: agosto mi sembra che è già in rilasciato con quella di agosto e e questo era anche un tassellino per poi facilitare l'integrazione con AVM, però tutto lato nostro quello Sì, sì, era per capire e tra l'altro dopo 2 minuti ci giochiamo anche su quello. Ok. Eh Ah, eccolo qua il file. Sì, mi ricordo.
+Diana Ongaro: questo, però non trovo quello delle fasi. Questo dei calendari l'ho trovato. Так.
+Alberto Spiller: Sì, che questo qua era quello che avevo operato e che ti avevo inviato. Qui sono le classic file che invento al momento durante le corse riesce a fare Alberto riesce a fare un attimo di zoom per caso qua avevamo fatto una simulazione c'era per spiegare quello che avevo in mente al tempo.
+
+
+00:47:10
+
+Alberto Spiller: Avevo fatto l'opzione del ipotizzare il la Non ricordo neanche più a dire la verità.
+Diana Ongaro: Neanchio!
+Alberto Spiller: Era beh1, T2, T3, T4 erano i vari tempi. Ah, con schedulazione e cos'era Carl? Non mi ricordo più devo andare a riprenderlo. Comunque il concetto era che poi qua c'era il il
+Diana Ongaro: Aggiornato.
+Alberto Spiller: richiamare ah i calendari. Ah, ok.
+Diana Ongaro: Eh sì, questo sui calendario.
+Alberto Spiller: Questa era Sono tornato sono tornato su tutto. Adesso mi aiuto il flash. Quindi qua qual era la simulazione? era simulazione in cui in alto si vedeva cosa veniva trasmesso da Cyplan versa da AVM. Quando si scrive SCH si parla di schedulazione, quindi schedulazione delle operazioni e l'altra sono i calendari che ovviamente i calendari e le schedulazioni si adattano in base alla week che tu stai trasmettendo, quindi al T0 si sta passando quello che è la situazione attuale e poi man mano si vanno a fare
+Filippo Tonutti: Sì, sì.
+Diana Ongaro: L'ho
+Alberto Spiller: il si ipotizza che il tempo scorra sotto cos'è che abbiamo ipotizzato?
+
+
+00:48:18
+
+Alberto Spiller: Abbiamo ipotizzato di espandere la il singolo giorno nelle varie fasce orarie. Ovviamente qua abbiamo fatto dalle 6:00 alle 13.
+Diana Ongaro: chiuso.
+Filippo Tonutti: No,
+Alberto Spiller: Aspetta Diana riesce a
+Diana Ongaro: Eh, sbaglio chiuso.
+Filippo Tonutti: secondo me l'ha fatto l'ha fatto solo nella m Sì,
+Alberto Spiller: fine abbiamo fino alle 11.
+Filippo Tonutti: eh.
+Alberto Spiller: Vi lascio
+Filippo Tonutti: Ma giusto per capire Diana che tempi hai per fare per fare
+Diana Ongaro: Live 1,
+Filippo Tonutti: che che prevede anche questa integrazione.
+Diana Ongaro: giusto? Ah, cioè no, live 1, quindi che iniziano a esportare i dati verso ehm verso l'RP e quindi li ritengono ok, diciamo, e quindi esportabili anche verso AVM.
+Filippo Tonutti: Ok.
+Diana Ongaro: Mh, penso sarà a metà novembre se sono bravi a sistemare i dati prima, purtroppo siamo in attesa di loro che non sanno come importarli nell'IRP, non devono pulire i dati, insomma, spero metà novembre.
+Filippo Tonutti: Quindi diciamo metà novembre, quindi eh diciamo a dicembre per quanto riguarda cioè l'integrazione dovrebbe
+Diana Ongaro: Sì.
+Alberto Spiller: Sì, io punterò.
+
+
+00:49:45
+
+Diana Ongaro: Oddio, se potesse, cioè M.
+Filippo Tonutti: Sì, sì. No, ma giusto per avere la deadline. Ne.
+Alberto Spiller: Cioè vi dico lato gestione progetto VN, quello su cui spingerò molto Yeah. con il cliente sarà quello di andare live con l'integrazione, quindi che poi i dati arrivino e che debbano essere sistemati entro dicembre chiudere il progetto, quindi entro la week massimo 50. Quindi, se riusciamo noi a mettere in piedi l'integrazione prima in modo da aver tutto pronto e riuscire ad a fare dei test, sarebbe ottimale che così quando si arriva a metà novembre che arrivano dati e informazioni pulite, a quel punto è semplicemente un, come si dire far vedere i dati che già ci sono perché eh abbiamo un po' un paradosso in cui il lato utente AGM sta chiedendo e stiamo già facendo della formazione generale. Ovviamente senza la parte di Copplan la parte di pianificazione non può avvenire, quindi se riusciamo ad attivarci prima, quindi
+Diana Ongaro: Sì, sì.
+Filippo Tonutti: Sì, Diana.
+Diana Ongaro: Arriv struttura.
+Filippo Tonutti: No,
+Diana Ongaro: Sì, sì,
+Filippo Tonutti: miciamo possiamo an cercare di anticipare passandoti passando degli script, cioè perché alla fine non serve avere lo standard per forza, no?
+
+
+00:51:09
+
+Filippo Tonutti: Oppure, cioè,
+Diana Ongaro: perché lo standard ci uscirà nella prossima versione.
+Filippo Tonutti: adesso lo standard non so quando uscirà. Ho detto mi sono esposto e sono e ho sbagliato,
+Diana Ongaro: Ok, ottimista.
+Filippo Tonutti: quindi non ti dirò non ti dirò quando No, nel senso che non importa quello, tanto comunque voi dovete customizzare qualcosa, abbiamo visto,
+Diana Ongaro: Sì.
+Filippo Tonutti: quindi comunque fareste una coppia dello standard, quindi non è la stessa cosa, insomma, no? per cui eh noi ti possiamo passare degli script o possiamo installare adesso, insomma, vediamo. Ehm in modo tale che si possano anticipare le i test, insomma,
+Diana Ongaro: Sì, sì, sì,
+Filippo Tonutti: perlomeno lato nostro.
+Diana Ongaro: sì. Sì, sì, certo.
+Filippo Tonutti: Poi quando ci sarà lo standard, vabbè, non importa, ma comunque funzionerà perché sarà eh sarà si baserà su quegli script lì, insomma. M per cui boh, vabbè, insomma, su questo noi dobbiamo forse finire qualcosa a livello di operazione, mentre sulla parte calendari, come diceva Marco, più o meno dovremmo esserci. Ehm, però sì, ma stiamo parlando di di di tempi, cioè siamo in linea coi tempi che ci hai chiesto tranquillamente, insomma.
+
+
+00:52:33
+
+Filippo Tonutti: anche per fare i test prima, insomma, dico,
+Diana Ongaro: Mh mh.
+Filippo Tonutti: ma qui c'è un ambiente di test,
+Alberto Spiller: Magari magari
+Filippo Tonutti: andate direttamente in produzione perché tanto
+Diana Ongaro: livello di Cyberplan non abbiamo listanza di test in a
+Filippo Tonutti: Ok, però non siete operativi,
+Diana Ongaro: livello di IRP. Eh, a livello di ERP invece hanno un ambiente di test, quindi per fare la i test integrazione verso l'IRP riusciamo ad
+Filippo Tonutti: no?
+Diana Ongaro: averlo
+Filippo Tonutti: Cioè, o meglio e voglio cose.
+Diana Ongaro: e ehm
+Filippo Tonutti: Però se sono oggi la voglio andare alla scosta. Eh, ma quindi
+Diana Ongaro: e basta. Cioè l'ambiente che poi sì, quando sarà definitivo, cioè stiamo sistemando l'ambiente quello lì All
+Filippo Tonutti: cioè non c'è un criterio per dire Ok. Bon, ehm io ti chiederei se puoi fare un un riassunto, ma cioè molto sintetico, perché sono quattro cose, in modo tale che così sappiamo e quando serve eh ti diamo quello che che hai bisogno, magari anche il supporto eventualmente per fare le
+Diana Ongaro: per i campi custom dici?
+Filippo Tonutti: Sì.
+
+
+00:53:52
+
+Diana Ongaro: E no, prima dovrei fare quella dei carrelli con carrelli e
+Filippo Tonutti: Sì,
+Diana Ongaro: persone.
+Filippo Tonutti: allora sono tutte cose. Sì, sì. Boh, ma voglio dire se tu sei già al campo custom inserisci a mano
+Diana Ongaro: Sì, sì,
+Filippo Tonutti: carrelli e l'integrazione funzione,
+Diana Ongaro: sì, sì. Le fare i test. Sì, certo.
+Filippo Tonutti: insomma.
+Diana Ongaro: Ok.
+Alberto Spiller: Ok, quindi se siete d'accordo restiamo così allora Diana chiediamo l'export un esempio di export con dati più reali possibili che lato AVM analizziamo e facciamo le
+Filippo Tonutti: Qu
+Alberto Spiller: considerazioni interni Eh,
+Diana Ongaro: Sì, quindi con numero di il campo numero di risorse e eh quella dei carrelli non saprei come inventarmela. Eh, diciamo che adesso sarebbe un campo in più poi quando eventualmente poi eh sarà da concatenare, quindi cioè rifare una mappatura.
+Filippo Tonutti: Capisco,
+Alberto Spiller: sì, se vuoi mh ipotizzare
+Filippo Tonutti: veramente soni.
+Alberto Spiller: una colonna in più e poi una colonna di concretazione in modo tale che noi sappiamo di prendere quella
+Filippo Tonutti: No, allora no confronto.
+Alberto Spiller: concatenata.
+
+
+00:55:02
+
+Alberto Spiller: se è qualcosa che tu puoi fare, nel senso che il lato nostro c'è una colonna in più non andiamo a considerare e poi faremo la la mappatura la mappatura con il campo nostro, però insomma un esempio in modo tale che possiamo cominciare a ad avere
+Filippo Tonutti: dopo
+Alberto Spiller: cioè a fare un ragionamento concreto e e anche soprattutto a farlo vedere a
+Filippo Tonutti: potrebbe
+Diana Ongaro: Ja.
+Alberto Spiller: Daniele in modo che anche Daniele che è il nostro utente poi possa comprendere.
+Filippo Tonutti: No.
+Alberto Spiller: non ipotizziamo e magari costruiamo qualcosa che lui veda risultato e ci dà ci dia la conferma di quello che vedo.
+Diana Ongaro: Certo.
+Alberto Spiller: Mi piace e siamo tutti allineati. E in parallelo direi che se riesci a fornire informazioni a Filippo e a Marco di quello che ti hanno chiesto che così in parallelo noi magari fermiamo un altro meeting di analisi per per definire tempi di di
+Diana Ongaro: Sì. che quindi serve. invece eh
+Filippo Tonutti: Ja.
+Alberto Spiller: Sì. M. No, no, questo è per Filippo e Marco. dico quello che ti hanno chiesto
+Filippo Tonutti: su cè fatto
+Diana Ongaro: che era
+Alberto Spiller: sul caso SALF identificare quali sono i campi in modo che poi i campi eventuali custom così ti possano dare supporto per quando sarà da
+
+
+00:56:20
+
+Diana Ongaro: sì, sì. M.
+Filippo Tonutti: quindi
+Alberto Spiller: ho fatto un po' recupè stato detto.
+Diana Ongaro: Ok.
+Alberto Spiller: Va bene. Ehm, ci diamo una data, magari riusciamo a dire più o meno quando possiamo avere questo file, giusto per organizzarci.
+Diana Ongaro: Beh, vabbè, il file posso farlo per domani sera.
+Alberto Spiller: Perfetto.
+Diana Ongaro: Ve lo dire anche domani l'exal di esempio con le fasi e i due campi in più.
+Filippo Tonutti: Bella casino.
+Diana Ongaro: Ok,
+Alberto Spiller: Va bene, dai. Allora,
+Filippo Tonutti: Questo metti che fai quello che
+Alberto Spiller: grazie mille che così poi noi internamente ci attiviamo e lo analizziamo
+Filippo Tonutti: vuoi.
+Diana Ongaro: grazie.
+Alberto Spiller: e su questo riesce anche un export dei calendari giusto per però non so
+Diana Ongaro: Dimmi di di quella struttura di
+Alberto Spiller: se o non serve secondo te Marco perché io stavo ipotizzando
+Diana Ongaro: adesso
+Filippo Tonutti: Anders più o
+Alberto Spiller: di farci dare tutti gli exporto dei calendari prima del aggiornare.
+Filippo Tonutti: meno.
+Diana Ongaro: e dovrei prima aggiornare se nella versione più recente c'è l'export lo
+Filippo Tonutti: Sì.
+Alberto Spiller: Ah, ok, ok. I calendari.
+Diana Ongaro: vediamo da quello.
+Alberto Spiller: Ok, allora aspettiamo aspettiamo l'aggiornamento per avere i calendari.
+Diana Ongaro: Laggiornamento che dovrei fare comunque in questi giorni perché sono ancora il bug delle tendine. Ok.
+Filippo Tonutti: No,
+Alberto Spiller: Ok,
+Diana Ongaro: Scusate,
+Alberto Spiller: appena hai aggiornamenti,
+Diana Ongaro: devo
+Alberto Spiller: allora io ho il punto, me lo segno e ti chiederò quando ci risentiamo, quando avrai.
+Diana Ongaro: Ok, va bene.
+Alberto Spiller: Va bene, grazie mille.
+Filippo Tonutti: grazie.
+Diana Ongaro: Ciao ciao ciao ciao.
+Filippo Tonutti: Ciao, ci vediamo. Ciao
+Iris Gelain: Ciao, grazie.
+
+
+Trascrizione terminata dopo 00:58:09
+
+Questa trascrizione modificabile è stata generata dal computer e potrebbe contenere errori. È possibile anche modificare manualmente il testo dopo la creazione.
+ meeting con cyberplan, awm ed ey per salf per valutare se l'integrazione awm-cyberplan per il cliente salf rientra negli standrd o è custom. partecipanti: cyberplan: marco mior, filippo tonutti; ey: diana ongaro, iris gelain; awm: gabriele colombo, alberto spiller, alessio ballarin. ey sta installando cyberplan in salf
