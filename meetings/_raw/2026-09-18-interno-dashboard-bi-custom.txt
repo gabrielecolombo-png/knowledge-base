@@ -1,0 +1,168 @@
+set 18, 2026
+P01_INTERNAL | Dashboard BI custom - Trascrizione
+00:00:00
+
+Anna Roncato: Vengono comunque alzate le F di solito.
+Massimiliano Mazzucato: Ce ne abbiamo dei costi ricorrenti, però hanno già il DH,
+Anna Roncato: Eh,
+Massimiliano Mazzucato: quindi hanno già accesso es perché sono vari,
+Anna Roncato: esatto.
+Massimiliano Mazzucato: cioè io vedo tre scenari principali di vendita di queste. Nuovo cliente, cliente esistente senza DVH, cliente esistente con DVH. Sì. Eh, nei primi due casi è compreso già l'F. è il terzo caso che dovresti.
+Anna Roncato: Esatto. Dat
+Massimiliano Mazzucato: Vabbè, allora può comunque aver senso. Io ragionerei su vendite sempre a pacchetto, cioè potenzialmente su nuovi clienti quando facciamo un'offerta se snasiamo questa cosa mettiamo tipo un 10k on top e che si possono prendere tipo pacchetto extra dove che sono x dashboard sviluppo per andare incontro lato lato Massimiliano e Daniele invece possono andare ma sia così sia cioè voglio dire magari se x al mese per una dashboard o ti dico
+Anna Roncato: però
+Massimiliano Mazzucato: 10 dashboard me le paghi sono dire tipo €5000 e c'hai Due tre das
+Anna Roncato: Però, aspettate un secondo,
+
+
+00:00:58
+
+Massimiliano Mazzucato: micro
+Anna Roncato: mi torna questo ragionamento. Ma se io gli dico 10k on top e poi loro mi chiedono"Ma possono chiedermi anche 100 dashboard?", ok, me lei pagate 10k, ok? Però in realtà poi queste dashboard potrebbero gravare a livello di effort sul service desk e quindi su tutta quella parte che noi consideriamo un un costo ricorrente. Secondo me ha senso mettergli 10k on top se vogliono delle dashboard, ma il mio tema è io alzerei anche le fi, capito? Perché potenzialmente è un tema per i service desk, però è una domanda.
+Massimiliano Mazzucato: per No, no, ha da un punto di vista concettuale ha super senso, eh. Perché di fatto tu stai andando a pesare su un costo di corrente e lo stai traslando invece in un one shot e quindi sul lungo data ci perdi.
+Anna Roncato: M Ok.
+Massimiliano Mazzucato: Quindi è giusto quello che dici. Tuttavia, ehm, abbiamo un margine comunque sostanziale sul canone che facciamo e sul DVH, quindi quei 10k secondo me servono a limitarti a un numero di dashboard che per noi non è particolarmente pesante. Nel momento in cui tu dici 10k fino a 10 dashboard, per arrivare oltre c'è anche un incremento di canoni.
+
+
+00:02:12
+
+Anna Roncato: Ok, va bene,
+Massimiliano Mazzucato: Sì,
+Anna Roncato: mi torna.
+Massimiliano Mazzucato: in ogni caso, insomma, non non è che saranno 100.000, Quindi eh per ogni situazione ognuno di noi è concio che potenzialmente ci sono dei costi e quota sulla base di che cliente è. Sappiamo un pochettino come lavorano. Se sono alle F qu vuoti 10,
+Anna Roncato: Угуm.
+Massimiliano Mazzucato: altrimenti magari vuoti anche un po' di canoni. Vediamo aziendalmente qual è l'obiettivo, perché magari l'anno prossimo tornano a essere obiettivo i canoni, cambia. Eh no, certo che no, però era un eh la cosa eh può essere comunque sfruttare mh il tecnicismo portato da Gabri oggi come narrazione, quindi quando le andiamo a proporre comunque dire,"Guarda, questa cosa ci crea dei canoni ricorrenti, quindi oltre al lavoro fisso del nostro consulente che a mano si mette a costruire le dashboard, che è la diletta e che noi spacceremo che Sì, non ditegli che Esatto, cioè rimane la diletta che fa le dashboard da Manella.
+Anna Roncato: Certo. Так.
+
+
+00:03:14
+
+Massimiliano Mazzucato: Cioè non ditegli che è una cita da mezza giornata una giornata chiaro? E quindi rimane quella cosa della diretta che noi facciamo per 5-6 giornate a seconda della complessità. Eh, potenzialmente una cosa su cui mi piacerebbe che i consulenti avessero il know è anche essere magari in grado di dirci eh senza cloud quanto spannometricamente sarebbe possibile perché nessuno sa costruire, ma super spometricamente forse io ti posso fare una stima la media è sempre stata 5 se giornate no però per alcune cose la diretta ti dice 12 per altre mi ha detto due. Infatti la media 56. Vabbè, no, distinguere, cioè secondo me distinguere tra tra 2, capito? Non dirmi 3 6 7 però tra due e 12. Ok, questa seconda è una cosa che si può fare, cioè se voi avete una che volete vendere che viene chiesta, ci dite magari e vi la vediamo. Poi capiamo anche, cioè secondo me anche quanto è critical per il cliente con due fattori quanto è business critical per il cliente, però anche il fatto che sia complessa ci aiuta a tossificare un price diverso. Detto questo, noi comunque possiamo portare alla narrazione che, come detto Gabriele, da un punto di vista tecnico ti aggiunge della complessità, ti aggiunge dei costi ricorrenti della manutenzione sul nostro service desk.
+
+
+00:04:36
+
+Massimiliano Mazzucato: Eh, e sul DVH e quindi per questo motivo aggiungiamo i cani. Poi io adesso ve lo diciamo che ho preferito esagerare un po' la cosa. No, no, ma sappiamo che è contenuto, però il fatto che ci sia però, cioè non è un costo enorme, cioè non è che ci rovina la marginalità delle FI. No, no, infatti questo lo so, però è una leva per noi per giustificare un canone. Poi ripeto, la cosa che deve essere molto importante, molto chiara anche a voi quando vedete questa cosa è che si tratta di DVH, ok? Non di AVM, ok? che implica che ci sia un delay tra l'aggiornamento del dato e quando un dato c'è viene effettivamente generato e che sono i dati presenti in Dak. Poi adesso quello che mi avete detto prima in realtà è molto interessante perché infatti mi piacerebbe che a questo punto voi ci pensaste un attimo e poi magari facciamo un altro incontro tra 10 giorni e dove mi date una lista di ehm spunti di dashboard che vi possono sembrare interessanti, tipo quella confronto MES rispetto alla commessa eseguita per calcolare la marginalità, ok? Perché così io capisco anche un attimo, in base alla vostra sensibilità quali sono le informazioni che può aver senso pensare di mettere dentro di voi Ok.
+
+
+00:05:53
+
+Massimiliano Mazzucato: Ehm, ok, va bene. Quindi,
+Anna Roncato: Ok.
+Massimiliano Mazzucato: eh, ok, l'ultima roba, eh, come timeline. Allora, adesso stiamo andando, abbiamo fatto il primo POC con Siver e adesso con la, diciamo, il prodotto finito, quindi quello effettivamente che poeranno i consulenti, stiamo facendo di BH, stanno facendo BH. Ehm, stanno creando stanno creando tre dashboard, eh, una per concetto di unexpected. No, no, beh, quelle dashbo da fare le so quali sono. Eh, esatto, stanno creando quell, ma le sta facendo R G. Ok. Ehm, lascio lo stanno facendo che era interessante saperlo. Unexpected cosa vogliono vedere in più. Semplicemente un insunto degli unexpected, no? Vogliono il totale degli unexpected, poi vogliono eh il free staff, quindi quanto freestaffa rispetto al piicato umane. Sì, per vedere quanto l'ottimizzazione della piattaforma e secondo me c'era qualcosa anche sul tempo d'utilizzo, cioè sono tre PPI sulla VM stesso, sono tre PPI volti a valutare l'adoption di VM. Ah, mi era arrivata quello.
+
+
+00:07:12
+
+Massimiliano Mazzucato: Ho capito. Ok. Sì, tra l'altro vabbè una cosa molto strana quando dico faccio rompo il c**** per DVH è perché tipo unexpected non esiste in DVH. Lo so, quindi sì, ma non so se loro lo sapevano. Beh, esisterà immagino adesso che facciamo perché non esiste neanche in VM, viene calcolato a frontend. Oh, f***, è un dato che non esiste anche freestaff non esiste. Anche Freesta non esiste.
+Anna Roncato: Ottimo. M.
+Massimiliano Mazzucato: Eh, io mi ricordavo Fr. E quindi cosa stiamo facendo nelle dashboard per tirarlo fuori? hanno costruito l'BH. No, non verrà mai costruita quella roba, però è per dire che eh e quindi quindi si trova un modo per fare le cose. Questa per Questa è quella di Silver. Questa è quella di Server. Qua il problema era che il pianificatore non sapeva cosa fare, cioè come lavorare. Questa dashboard mostra per ogni giorno quelle che sono le postazioni rimaste o vuote o che hanno associato una persona che è assente.
+
+
+00:08:11
+
+Massimiliano Mazzucato: Ah, sì. Eh, sono messi.
+Anna Roncato: E fai ridere che si è scritto scritto 30 giorni monitorati, 30 giorni con Gab, però molto utile.
+Massimiliano Mazzucato: Vabbè, ma per eh cioè questa è effettivamente carina, nel senso che ti mostro un mese prima dove hai i buchi, dove sei scoperto qual è la situazione e poi il tizio sia un c*******. Ok, però è fatta con logica. Esats. Esatto. Tra l'altro c'è anche un altro discorso. Se una dashboard viene fatta, poi può essere rivenduta. Recycled. Perché questo qui in realtà è un file che c'ai su Cloud. No, no, no, no, questo qui è No, questo qua è un visual custom di Power BI. Ehm, quindi in realtà questo non lo so e quindi in realtà tu questo stesso report di Power BI lo puoi copiare e imbedare in un altro ambiente. Questo significa che una dashboard una volta che viene costruita può essere data via a costo produzione, costo uomo quasi nullo. Ok? E questo vuol dire che più dashboard hai più è semplice trovare una dashboard che esiste già e che va bene al cliente e fare questo.
+
+
+00:09:22
+
+Massimiliano Mazzucato: Massimiliano Daniele, mi piacerebbe vedere capire come setizziamo questa cosa nel piano U4 e 27 e vorrei che mettessimo anche delle stime di budget di fatturato extra che possiamo portare tramite questa cose. Sì, è chi bisogna primaver dashp comunque per effettuare le scale nel budget che comunque immagino minimo ci chiederai dell'extension sul 27 inseriremo questa roba qua. Sì. No, eh ne ho parlato con Ait Meeting oggi, no? Sì. Eh eh cioè quello che vorrei è un piano di dove arriviamo a fine anno mh mh e una prospettiva sull'anno prossimo, iniziare l'en prossimo, però in primis forecasting su su quest'anno questa cosa qui per mia abilità magari su quest'anno facciamo un po' fatica per timeline. Esatto. Però secondo me la vendita e la messa a terra possono avere un delay di un certo tipo anche. Allora, secondo me, eh novembre-dicembre potrebbe essere che siamo anche già in grado di mettere giù sta roba, quindi da ottobre possiamo venderla. Allora, diciamo, so che ci sono temi di fatturato quest'anno, quindi direi sì e poi ci pensiamo. No, ma non è solo per un tema di fatturato, è che conoscendo il processo commerciale medio, che anche per un extension secondo me è almeno due settimane, un mese, vuol dire che tu parti con le mostre a ottobre e chiudi le prime a novembre e poi il tempo che fissi
+
+
+00:10:46
+
+Massimiliano Mazzucato: il meeting per farlo sei a metà novembre, qu dicembre, quindi noi possiamo iniziare a presentarla praticamente domani. Diciamo che io mi sento tranquillo nel dirvi che eh dal 20 novembre 15-20 novembre sta roba può essere messa a terra. Ok? Sapendo questa cosa noi possiamo iniziare a venderla dicendo che il primo il primo slot disponibile per terra è 20 novembre, cioè se ci firmano subito ritardiamo un attimo,
+Anna Roncato: Sì,
+Massimiliano Mazzucato: però io inizierei a raggiungere
+Anna Roncato: esatto.
+Massimiliano Mazzucato: eh tu Massimiliano, hai qualcosa in testa? No, quello che penso, cioè questa secondo me è una anche delle più vendibili fin da subito, cioè alla fine io la vedo questa al posto dell'hom page, cioè il pianificatore entra in AVM e ha già cioè il posto dell'hom page che c'è adesso hai questa dashboard direttamente che ti dice cosa sono non ce l'hai sul cop di m**** ce l'ai su una pagina eh sì sì questa qua questo era proprio il po che sì, cioè l'ho fatto io senza una una struttura organica per farlo. È stato fatto un po' a vista fare un hom page con i controcoglioni.
+
+
+00:11:55
+
+Massimiliano Mazzucato: Exit non è mai arrivato. Eh no, non ancora. No, la cosa bella di sta cosa qua è che è davvero tematizzata stile AVM e la capacità di renderlo graficamente molto appealing e comunque sul design system di AVM cambia secondo me un po' anche il fatto che puoi usarla effettivamente come un home page infilarla quella. Sì, questo è un design system molto cloting. Eh no, meno secondo me rispetto alle altre pagine. Sì, sì, guarda le scritte. Eh, però meno rispetto Sì. E se vedi anche lo standard nuovo, secondo me, è ancora più standard nuovo è un problema. Cioè, comunque io lo so, cioè io che uso Cloud vedo e capisco l'hai visto da sentismo di tre? No, ho visto altre cose che ha fatto Gabriele Designer. Sì, l'hai visto? Quello era la cosa più problematica per scritto giorno. Sì, io c'ero lì è partito il R. Eh sì, ma sì, certo che R devi mostrarlo, fa schifo, scusate. No, il punto è su quello fare un'attenzione perché nel momento in cui il cliente raggiunge un livello di percezione come quello che abbiamo noi, dice ma io sto pagando €50.000 €1000 per una cosa che miato.
+
+
+00:13:08
+
+Massimiliano Mazzucato: Allora, questo e quindi anche a livello di dashboard, parossalmente avere un aspetto quasi un po' più artigianale, abilità, ma rende più. Ma allora questo è un ottimo spunto perché penso di poter aggiornare il comportamento di Cloud per essere peggio. Peggio. Esatto.
+Anna Roncato: Io comunque sono d'accordo parzialmente con questa cosa,
+Massimiliano Mazzucato: Mm.
+Anna Roncato: cioè capisco il punto che tutto sembra molto Claude e io sono la prima a dirlo, eh, però c****, tutti rompono il c**** perché dobbiamo usare l'intelligenza artificiale di qua e di là. Secondo me, cioè, trova il tempo che trova questo questa challenge che ci possono fare. Ovvio che l'intelligenza artificiale va utilizzata anche in un altro modo all'interno della piattaforma e ci stiamo muovendo per
+Massimiliano Mazzucato: Allora,
+Anna Roncato: farlo, però io non mi farei così tanti problemi mentali se una dashboard sembra close.
+Massimiliano Mazzucato: però pagare tu gli stai dicendo che io ti faccio pagare 5-6 giornate e tu ti rendi conto che quella dashboard l'hai fatta con Clude e quindi ipotizzi che quello c'ha messo mezza giornata e lì L'incula
+Anna Roncato: Vabbè, è vabbè, allora questo è un altro conto.
+
+
+00:14:09
+
+Massimiliano Mazzucato: no,
+Anna Roncato: Questa è un'ipotesi che tu stai facendo perché tu utilizzi Cloud e sai che ci metti mezza giornata,
+Massimiliano Mazzucato: era quello il punto.
+Anna Roncato: ma il fatto che possa essere stata fatta con Cloud e magari dietro c'è un ragionamento che non implica mezza giornata, vabbè, comunque ho detto capisco il punto,
+Massimiliano Mazzucato: quello che quello che dici è cioè sì,
+Anna Roncato: sono parzialmente d'accordo.
+Massimiliano Mazzucato: però diventa più difficileare, cioè ti trovi in conversazioni,
+Anna Roncato: Sì, sì, sì,
+Massimiliano Mazzucato: poi magari tutte semplicemente sistemandole un pochettino con un IT
+Anna Roncato: sicuramente.
+Massimiliano Mazzucato: fai più fatica,
+Anna Roncato: Sì, con un IT fai più fatica.
+Massimiliano Mazzucato: mentre sei un po' più lo stesso stile.
+Anna Roncato: Sì.
+Massimiliano Mazzucato: Eh, ma secondo informando sempre di più, andamo convergere sempre di più.
+Anna Roncato: M.
+Massimiliano Mazzucato: Ehmamo. Ok. Sì, allora questo era quello che volevo dirvi, quindi diciamo che intanto grazie mi aete dato degli ottimi spunti, ad esempio, non avevo pensato a, cioè mi ero limitato a pensare a dashboard con i dati di W che abbiamo detto.
+
+
+00:14:58
+
+Massimiliano Mazzucato: Adesso non avevo pensato a questa roba di altre cose e anche questo spunto di fare un che è molto evidentemente a e io farei così adesso tra una decina di giorni metto un'altra mezz'oretta, ok? e vi chiedo di arrivare con, vabbè, domande e curiosità se ne avete chiaramente, ma anche con delle eh in base alla vostra sensibilità e esperienza che avete avuto coi clienti, che è un punto di vista diverso rispetto a quello che ho avuto io, ad esempio, ehm proposte di dashboard che secondo voi i clienti potrebbero potenzialmente chiedere m m in modo tale che tipo questa qui, poi io capisco se effettivamente quella roba là la possiamo già realizzare oppure serve a dati eh su questo Massimo poi stato tutto due giorni prima del di gara dove arriviamo di uno di noi con delle proposte così arriviamo dururati con da 10 giorni quello di Gabri aspettare che lo fissi Gabri. Sì, adesso se avete un minuto lo fissiamo adesso. Vai. 30 novembre settembre potrebbe essere. Ma sì, settembre. Settembre. Settembre, ho sbagliato. Ho sbagliato. Sì, va bene.
+
+
+00:16:18
+
+Anna Roncato: No, no, io no, non ci siamo il 30 noi.
+Massimiliano Mazzucato: No, non giusto,
+Anna Roncato: Noi intendo io da Max Millimum
+Massimiliano Mazzucato: eh. L'uno, non c'è Davide. Due non c'è Davide.
+Anna Roncato: Davide,
+Massimiliano Mazzucato: Ah, sono e 25.
+Anna Roncato: ma scusate, è necessario che ci siamo tutti. Se noi facciamo un punto prima,
+Massimiliano Mazzucato: Iore.
+Anna Roncato: noi facciamo un punto prima tutti insieme, magari è necessario che ci siano solo, non so, Massi, Dani e e Davide o Massi e Dani, nel senso, così magari riusciamo a incastrarlo prima, no?
+Massimiliano Mazzucato: Sì, dai. Ehm, sì, organizziamoci tra di noi, poi il meeting insieme magari lo facciamo effettivamente. Il Chi è che non c'è? Non c'è Massi il 30 29 c'è neanche l'anno eh 29 mattina non ci
+Anna Roncato: No,
+Massimiliano Mazzucato: siamo. No, devi andare dall'uno, Dani. Vabbè.
+Anna Roncato: esatto.
+
+
+00:17:07
+
+Massimiliano Mazzucato: Eh, no, devo dire che ci sia. Eh, infatti. Allora, facciamo il cinque. Non può essere quella settimana. Va bene.
+Anna Roncato: Ok.
+Massimiliano Mazzucato: Cinque. Sì, cinque. Ma va bene.
+Anna Roncato: Sì, sì, va bene.
+Massimiliano Mazzucato: Ah,
+Anna Roncato: Credo a tutti.
+Massimiliano Mazzucato: sì, pomeriggio. Ok,
+Anna Roncato: Va bene.
+Massimiliano Mazzucato: eh. Yes! Deleted. Eh, quello, quello da togliere perché è ancora in maternità. Sì, quella da Ah, poi tu parti, eh. Sì, è vero, c****. Ecco. E così che l'azienda se riesci boh, alle 3:00, una cosa del genere. 3 Ok.
+Anna Roncato: Perfetto.
+Massimiliano Mazzucato: E grazie, ragazzi. È stato molto utile il punto di vista. Grazie, Gabri.
+Anna Roncato: Grazie, Gabri. Tchao.
+Massimiliano Mazzucato: Super C.
+
+
+Trascrizione terminata dopo 00:18:00
+
+Questa trascrizione modificabile è stata generata dal computer e potrebbe contenere errori. È possibile anche modificare manualmente il testo dopo la creazione.
+
+---
+Metadati forniti dall'utente:
+argomento: Dashboard BI custom create da delivery, come sfruttarle dal punto di vista commerciale.
+partecipanti: Anna Roncato, Massimiliano Mazzucato, Gabriele Colombo, Arianna Azzi, Davide Vinelli, Daniele Duca (tutti AWM)
+data: 18 settembre 2026

@@ -6,6 +6,11 @@ una nuova voce.
 
 ---
 
+## 2026-09-18 — La monetizzazione delle dashboard BI conferma sul campo il modello "scenario B" già scelto per OringONE
+Temi collegati: dashboard-bi-custom, modello-prodotto-custom
+Meeting che hanno fatto emergere il collegamento: [meetings/interno/2026-09-18-dashboard-bi-custom-commerciale.md], [meetings/oringone/2026-08-19-ownership-sviluppo-custom.md]
+Osservazione: Il meeting OringONE del 2026-08-19 aveva già notato in "Osservazioni aperte" che l'approccio B (sviluppo custom in autonomia da Delivery, non da Prodotto) era "già in corso per dashboard BI e integrazioni" come caso a complessità inferiore. Questo meeting mostra cosa succede un mese dopo quando quel modello arriva a un volume che richiede una risposta commerciale strutturata: pricing a pacchetto, narrativa verso il cliente, gestione dell'effort ricorrente sul service desk. Il collegamento non ovvio è che le criticità di scalabilità del modello "scenario B" non emergono prima sul lato tecnico/qualità (il rischio originariamente presidiato da Prodotto), ma sul lato commerciale: quante dashboard un cliente può comprare prima che l'effort ricorrente diventi insostenibile per chi le mantiene. Questo suggerisce che il "perimetro" che Prodotto deve presidiare nello scenario B non è solo tecnico, ma anche di pricing/volume.
+
 ## 2026-08-20 — VMS come fonte di dati per il forecast finanziario, non solo per la pianificazione operativa
 Temi collegati: gestione-ferie-assenze, zucchetti-integrazioni
 Meeting che hanno fatto emergere il collegamento: [meetings/danieli/2026-08-20-allineamento-roadmap-awm.md]

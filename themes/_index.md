@@ -12,3 +12,4 @@ Elenco di tutti i temi tracciati. Aggiornato ogni volta che nasce un tema nuovo.
 | modello-prodotto-custom | [themes/modello-prodotto-custom.md](modello-prodotto-custom.md) | 2026-08-19 | 1 |
 | gestione-ferie-assenze | [themes/gestione-ferie-assenze.md](gestione-ferie-assenze.md) | 2026-08-20 | 1 |
 | cyberplan-integrazione | [themes/cyberplan-integrazione.md](cyberplan-integrazione.md) | 2026-08-20 | 1 |
+| dashboard-bi-custom | [themes/dashboard-bi-custom.md](dashboard-bi-custom.md) | 2026-09-18 | 1 |

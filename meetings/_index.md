@@ -13,3 +13,4 @@ dover aprire ogni singolo file.
 | 2026-08-24 | interno | Cyberplan integrazione standard | cyberplan-integrazione | [meetings/interno/2026-08-24-cyberplan-integrazione-standard.md](interno/2026-08-24-cyberplan-integrazione-standard.md) |
 | 2026-09-16 | Veneta Cucine | Integrazione Winsarp: tracciati dati | zucchetti-integrazioni, gestione-ferie-assenze | [meetings/veneta-cucine/2026-09-16-integrazione-winsarp-tracciati-dati.md](veneta-cucine/2026-09-16-integrazione-winsarp-tracciati-dati.md) |
 | 2026-09-16 | SALF | Check integrazione dati Cyberplan-AWM (standard vs custom) | cyberplan-integrazione | [meetings/salf/2026-09-16-check-integrazione-cyberplan-awm.md](salf/2026-09-16-check-integrazione-cyberplan-awm.md) |
+| 2026-09-18 | interno | Dashboard BI custom - modello commerciale | dashboard-bi-custom | [meetings/interno/2026-09-18-dashboard-bi-custom-commerciale.md](interno/2026-09-18-dashboard-bi-custom-commerciale.md) |
