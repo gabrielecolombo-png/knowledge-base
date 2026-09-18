@@ -63,7 +63,6 @@ Meeting interno AWM su come monetizzare commercialmente le dashboard BI custom (
 ## Prossimi passi
 
 - Prossimo meeting il 5 ottobre 2026 (pomeriggio, ore 15:00) per raccogliere le proposte di dashboard dai consulenti
-- Vendita della dashboard Sediver (pianificatore) può iniziare da subito; prima messa a terra realistica indicata dal 15-20 novembre 2026
 - Inclusione delle stime di fatturato extra nel piano U4/2027
 
 ## Note di elaborazione
