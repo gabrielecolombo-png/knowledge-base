@@ -9,7 +9,7 @@ related_meetings: [meetings/oringone/2026-08-19-ownership-sviluppo-custom.md]
 
 ## Sintesi
 
-Meeting interno AWM su come monetizzare commercialmente le dashboard BI custom (Power BI su DVH) che Delivery sta già costruendo su richiesta cliente. Discussi: modello di pricing a pacchetto per limitare l'effort ricorrente sul service desk, narrativa commerciale da usare con i clienti, stima dell'effort di sviluppo, il valore della riusabilità/embedding delle dashboard Power BI già costruite, due casi concreti in corso (BH e "Silver"), e una tensione emersa su estetica "generata con AI" vs. percezione di valore del cliente. Definita una timeline di vendita e fissato un prossimo incontro per raccogliere proposte di dashboard dai consulenti in base alla loro esperienza diretta coi clienti.
+Meeting interno AWM su come monetizzare commercialmente le dashboard BI custom (Power BI su DVH) che Delivery sta già costruendo su richiesta cliente. Discussi: modello di pricing a pacchetto per limitare l'effort ricorrente sul service desk, narrativa commerciale da usare con i clienti, stima dell'effort di sviluppo, il valore della riusabilità/embedding delle dashboard Power BI già costruite, due casi concreti in corso (BH e Sediver), e una tensione emersa su estetica "generata con AI" vs. percezione di valore del cliente. Definita una timeline di vendita e fissato il prossimo incontro (5 ottobre 2026) per raccogliere proposte di dashboard dai consulenti in base alla loro esperienza diretta coi clienti.
 
 ## Argomenti trattati
 
@@ -31,8 +31,8 @@ Meeting interno AWM su come monetizzare commercialmente le dashboard BI custom (
 - Più cresce il catalogo di dashboard già costruite, più è facile trovarne una riutilizzabile per un nuovo cliente — leva di scalabilità
 
 ### Casi concreti in sviluppo
-- **BH** (= Nuovo Pignone, per convenzione già nota — vedi nota sotto): 3 dashboard sull'adoption di VM — totale unexpected, freestaff (rispetto al personale pianificato) e tempo di utilizzo. Punto tecnico rilevante: né "unexpected" né "freestaff" esistono come dati nativi in DVH né in AVM, sono calcolati lato frontend in VM — va trovato un modo per ricostruirli nella dashboard
-- **"Silver"**: dashboard per il pianificatore, mostra per ogni giorno le postazioni vuote o assegnate a personale assente. Nata per risolvere un problema di orientamento del pianificatore ("non sapeva come lavorare"). Vista come candidata a sostituire l'attuale home page del pianificatore in AVM
+- **BH** (= Nuovo Pignone): 3 dashboard sull'adoption di VM — totale unexpected, freestaff (rispetto al personale pianificato) e tempo di utilizzo. Punto tecnico rilevante: né "unexpected" né "freestaff" esistono come dati nativi in DVH né in AVM, sono calcolati lato frontend in VM — va trovato un modo per ricostruirli nella dashboard
+- **Sediver**: dashboard per il pianificatore, mostra per ogni giorno le postazioni vuote o assegnate a personale assente. Nata per risolvere un problema di orientamento del pianificatore ("non sapeva come lavorare"). Vista come candidata a sostituire l'attuale home page del pianificatore in AVM
 
 ### Estetica "AI-generated" vs. percezione di valore
 - Discussione se le dashboard costruite con l'assistenza di Claude abbiano uno stile riconoscibile e "uniforme" che rischia di far percepire al cliente sofisticato un minor valore/effort rispetto a quanto fatturato
@@ -52,8 +52,7 @@ Meeting interno AWM su come monetizzare commercialmente le dashboard BI custom (
 | Owner | Cosa | Scadenza | Note |
 |-------|------|----------|------|
 | Massimiliano / Daniele | Inserire nel piano U4/2027 le stime di budget/fatturato extra portabile da questa iniziativa | — | Legato a discussione sul forecast di quest'anno vs. prospettiva 2027 |
-| Anna, Arianna, Davide, Daniele (consulenti) | Portare al prossimo meeting proposte di dashboard che i clienti potrebbero chiedere, basate sulla propria esperienza diretta coi clienti | Prossimo meeting (vedi sotto) | Esempio citato: confronto MES vs. commessa eseguita per calcolo marginalità |
-| Massimiliano | Fissare il prossimo meeting | — | Vedi "Note di elaborazione" per l'incertezza sulla data esatta |
+| Anna, Arianna, Davide, Daniele (consulenti) | Portare al prossimo meeting proposte di dashboard che i clienti potrebbero chiedere, basate sulla propria esperienza diretta coi clienti | 2026-10-05 | Esempio citato: confronto MES vs. commessa eseguita per calcolo marginalità |
 
 ## Criticità individuate
 
@@ -63,14 +62,11 @@ Meeting interno AWM su come monetizzare commercialmente le dashboard BI custom (
 
 ## Prossimi passi
 
-- Prossimo meeting per raccogliere le proposte di dashboard dai consulenti (vedi "Note di elaborazione" per la data)
-- Vendita della dashboard tipo "Silver" (pianificatore) può iniziare da subito; prima messa a terra realistica indicata dal 15-20 novembre 2026
+- Prossimo meeting il 5 ottobre 2026 (pomeriggio, ore 15:00) per raccogliere le proposte di dashboard dai consulenti
+- Vendita della dashboard Sediver (pianificatore) può iniziare da subito; prima messa a terra realistica indicata dal 15-20 novembre 2026
 - Inclusione delle stime di fatturato extra nel piano U4/2027
 
 ## Note di elaborazione
 
-- **BH**: attribuito a Nuovo Pignone sulla base della convenzione già nota per il Time Report ([[feedback_timereport_mappature]]); non confermato esplicitamente nella trascrizione di questo meeting.
-- **"Silver"**: nome cliente/progetto non identificato con certezza — non risulta in altre minute di questo repo. Trattato come nome proprio così come pronunciato in trascrizione (possibile errore di trascrizione automatica).
-- **Data del prossimo meeting**: la trascrizione mostra un lungo scambio confuso su disponibilità (fine settembre/inizio ottobre), con più correzioni ("30 novembre... no, settembre... no ho sbagliato"). Si converge su "il 5, pomeriggio, ore 15:00", ma il mese non è mai esplicitato con certezza — dato il contesto (~10 giorni da questo meeting, discussione di date tra fine settembre e inizio ottobre) è verosimilmente **5 ottobre 2026**, ma va confermato con Massimiliano Mazzucato o dall'invito calendario effettivo.
 - La trascrizione automatica diarizza solo Anna Roncato e Massimiliano Mazzucato come speaker distinti; i contributi di Gabriele Colombo, Arianna Azzi, Davide Vinelli e Daniele Duca non sono attribuibili singolarmente (verosimilmente microfoni spenti o non diarizzati) — stesso pattern già osservato in [[modello-prodotto-custom]] per il meeting OringONE del 2026-08-19.
 - Diversi passaggi della trascrizione sono danneggiati da errori di trascrizione automatica evidenti (es. "F" per "fee"/canone, "diletta" per "delivery", nomi propri incerti come "R G", "Ait Meeting") — interpretati dal contesto dove possibile.
